@@ -317,6 +317,13 @@
         <mark key="^" line="10" column="28" />
         <mark key="." line="10" column="28" />
       </file>
+      <file name="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/dao/ListTypeHandler.java" timestamp="1508999962589">
+        <mark key="'" line="21" column="32" />
+        <mark key="[" line="25" column="53" />
+        <mark key="]" line="24" column="3" />
+        <mark key="." line="24" column="3" />
+        <mark key="^" line="24" column="3" />
+      </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-sys-setting/src/main/java/com/zifangdt/ch/syssetting/web/UserConfigController.java" timestamp="1508120235331">
         <mark key="[" line="13" column="13" />
         <mark key="]" line="13" column="0" />
@@ -524,6 +531,9 @@
         <mark key="^" line="94" column="5" />
         <mark key="." line="34" column="0" />
       </file>
+      <file name="/Dummy.txt" timestamp="1508999876666">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-sys-setting/pom.xml" timestamp="1508922269830">
         <mark key="[" line="30" column="0" />
         <mark key="]" line="30" column="0" />
@@ -603,8 +613,8 @@
         <mark key="^" line="30" column="35" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1508988138382">
-        <mark key="[" line="0" column="5" />
+      <file name="/fragment.java" timestamp="1508999400128">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
         <mark key="^" line="0" column="12" />
         <mark key="." line="0" column="5" />
@@ -693,7 +703,7 @@
         <mark key="^" line="73" column="31" />
         <mark key="." line="73" column="31" />
       </file>
-      <file name="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/dto/contract/setting/UserConfig.java" timestamp="1508228079057">
+      <file name="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/dto/contract/setting/UserConfig.java" timestamp="1508999840841">
         <mark key="[" line="13" column="13" />
         <mark key="]" line="13" column="15" />
         <mark key="." line="13" column="15" />
@@ -1223,11 +1233,12 @@
       <jump line="79" column="15" filename="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/web/CustomResponseBodyAdvice.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEN1c3RvbWVyQ2hvaWNlQ29uZmlnU2VydmljZSBjaG9pY2VDb25maWdTZXJ2aWNlOwo=</text>
+      <register name="&quot;" type="4">
+        <text>columnName.contains(COLUMN_ATTACHMENTS)
+                || columnName.contains(COLUMN_IMG)</text>
       </register>
       <register name="-" type="4">
-        <text>name</text>
+        <text>.get</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxSZXN0UmVzdWx0XD4=</text>
@@ -1235,8 +1246,9 @@
       <register name="0" type="2">
         <text encoding="base64">QEpzb25JZ25vcmVQcm9wZXJ0aWVzKHZhbHVlPXsgImNob2ljZXMiIH0sIGFsbG93R2V0dGVycz10cnVlKQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIEN1c3RvbWVyQ2hvaWNlQ29uZmlnU2VydmljZSBjaG9pY2VDb25maWdTZXJ2aWNlOwo=</text>
+      <register name="1" type="4">
+        <text>columnName.contains(COLUMN_ATTACHMENTS)
+                || columnName.contains(COLUMN_IMG)</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1276,56 +1288,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4gIngiOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdGhyb3cgbmV3IFJ1bnRpbWVFeGNlcHRpb24oZSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBMSVNUX0NPTFVNRV9TRVQgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">IEBHZXRNYXBwaW5nKCIveC97Y2hvaWNlQ29uZmlnRW51bX0iKQogICAgQ3VzdG9tZXJDaG9pY2VDb25maWcgZ2V0Q2hvaWNlQ29uZmlnKEBQYXRoVmFyaWFibGUoImNob2ljZUNvbmZpZ0VudW0iKSBDaG9pY2VDb25maWdFbnVtIGNvbmZpZ0VudW0pewogICAgICAgIHJldHVybiBjaG9pY2VDb25maWdTZXJ2aWNlLmdldE9yQ3JlYXRlKGNvbmZpZ0VudW0pOwogICAgfQ==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">cHJpdmF0ZSBDaG9pY2VDb25maWdFbnVtIGNvbmZpZzsKCiAgICBwcml2YXRlIFN0cmluZyBkZXNjcmlwdGlvbjsKCiAgICBwcml2YXRlIENob2ljZUVudW0gY2hvaWNlOwoKICAgIHB1YmxpYyBDaG9pY2VDb25maWdFbnVtICBnZXRDb25maWcoKSB7CiAgICAgICAgcmV0dXJuIGNvbmZpZzsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZXRDb25maWcoQ2hvaWNlQ29uZmlnRW51bSBjb25maWcpIHsKICAgICAgICB0aGlzLmNvbmZpZyA9IGNvbmZpZzsKICAgIH0KCiAgICBwdWJsaWMgU3RyaW5nIGdldERlc2NyaXB0aW9uKCkgewogICAgICAgIHJldHVybiBkZXNjcmlwdGlvbjsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZXREZXNjcmlwdGlvbihTdHJpbmcgZGVzY3JpcHRpb24pIHsKICAgICAgICB0aGlzLmRlc2NyaXB0aW9uID0gZGVzY3JpcHRpb24gPT0gbnVsbCA/IG51bGwgOiBkZXNjcmlwdGlvbi50cmltKCk7CiAgICB9CgogICAgcHVibGljIENob2ljZUVudW0gZ2V0Q2hvaWNlKCkgewogICAgICAgIHJldHVybiBjaG9pY2U7CiAgICB9CgogICAgcHVibGljIHZvaWQgc2V0Q2hvaWNlKENob2ljZUVudW0gY2hvaWNlKSB7CiAgICAgICAgdGhpcy5jaG9pY2UgPSBjaG9pY2U7CiAgICB9CgogICAgcHVibGljIExpc3Q8Q2hvaWNlRW51bT4gZ2V0Q2hvaWNlcygpewogICAgICAgIHJldHVybiBjb25maWcuZ2V0QXZhaWxhYmxlQ2hvaWNlKCk7CiAgICB9</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0YXRpY0ZpZWxkcy5hZGQoZmllbGQpOwo=</text>
       </register>
-      <register name="9" type="4">
-        <text>@Autowired
-    CustomerChoiceConfigService choiceConfigService;
-
-    /**
-     * 获取配置详情
-     * @param configEnum
-     * @return
-     */
-    @GetMapping(&quot;/{choiceConfigEnum}&quot;)
-    CustomerChoiceConfig getChoiceConfig(@PathVariable(&quot;choiceConfigEnum&quot;) ChoiceConfigEnum configEnum){
-        return choiceConfigService.getOrCreate(configEnum);
-    }
-
-    /**
-     * 更新配置
-     * @param configEnum
-     * @param choiceEnum
-     * @return
-     */
-    @PutMapping(&quot;/{choiceConfigEnum}/{choiceEnum}&quot;)
-    CustomerChoiceConfig update(@PathVariable(&quot;choiceConfigEnum&quot;) ChoiceConfigEnum configEnum,
-                        @PathVariable(&quot;choiceEnum&quot;)ChoiceEnum choiceEnum){
-        return choiceConfigService.updateChoice(configEnum, choiceEnum);
-    }
-
-    @PostMapping(&quot;&quot;)
-    ChoiceConfig test(@RequestBody ChoiceConfig choiceConfig){
-        return choiceConfig;
-    }</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGphdmEubGFuZy5yZWZsZWN0Lk1vZGlmaWVyLmlzU3RhdGljKGZpZWxkLmdldE1vZGlmaWVycygpKSkgewo=</text>
       </register>
       <register name=":" type="4">
         <text>565</text>
