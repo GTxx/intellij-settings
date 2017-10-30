@@ -15,11 +15,11 @@
         <mark key="^" line="22" column="35" />
         <mark key="." line="22" column="35" />
       </file>
-      <file name="$USER_HOME$/work/ch-server/ch-server-sys-setting/src/main/java/com/zifangdt/ch/syssetting/web/QuickEntryRuleController.java" timestamp="1509351646018">
-        <mark key="[" line="49" column="8" />
-        <mark key="]" line="49" column="8" />
-        <mark key="^" line="49" column="45" />
-        <mark key="." line="49" column="8" />
+      <file name="$USER_HOME$/work/ch-server/ch-server-sys-setting/src/main/java/com/zifangdt/ch/syssetting/web/QuickEntryRuleController.java" timestamp="1509352573853">
+        <mark key="[" line="57" column="11" />
+        <mark key="]" line="57" column="17" />
+        <mark key="^" line="57" column="17" />
+        <mark key="." line="57" column="17" />
       </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-customer/src/main/java/com/zifangdt/ch/customer/service/setting/CustomerSettingService.java" timestamp="1509069336294">
         <mark key="[" line="3" column="35" />
@@ -678,7 +678,7 @@
         <mark key="^" line="30" column="35" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1509346077068">
+      <file name="/fragment.java" timestamp="1509352716148">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="^" line="0" column="2" />
@@ -1048,12 +1048,12 @@
         <mark key="^" line="8" column="11" />
         <mark key="." line="8" column="11" />
       </file>
-      <file name="$USER_HOME$/work/ch-server/ch-server-sys-setting/src/main/java/com/zifangdt/ch/syssetting/service/QuickEntryService.java" timestamp="1509349454486">
-        <mark key="'" line="41" column="90" />
-        <mark key="[" line="144" column="0" />
-        <mark key="]" line="144" column="0" />
-        <mark key="." line="144" column="0" />
-        <mark key="^" line="144" column="0" />
+      <file name="$USER_HOME$/work/ch-server/ch-server-sys-setting/src/main/java/com/zifangdt/ch/syssetting/service/QuickEntryService.java" timestamp="1509352710074">
+        <mark key="'" line="32" column="26" />
+        <mark key="[" line="95" column="5" />
+        <mark key="]" line="96" column="3" />
+        <mark key="." line="96" column="3" />
+        <mark key="^" line="96" column="3" />
       </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-product/src/main/resources/application.yaml" timestamp="1506676693070">
         <mark key="[" line="8" column="41" />
@@ -1269,7 +1269,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="111" column="15" filename="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/converter/CustomBeanSerializerModifier.java" />
       <jump line="370" column="53" filename="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/service/BaseService.java" />
       <jump line="526" column="22" filename="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.8.9/jackson-databind-2.8.9-sources.jar!/com/fasterxml/jackson/databind/deser/BeanDeserializerFactory.java" />
       <jump line="27" column="97" filename="$USER_HOME$/work/ch-server/ch-server-customer/src/main/java/com/zifangdt/ch/customer/service/setting/CellAddressService.java" />
@@ -1369,16 +1368,17 @@
       <jump line="116" column="10" filename="$USER_HOME$/work/ch-server/ch-server-sys-setting/src/main/java/com/zifangdt/ch/syssetting/service/QuickEntryService.java" />
       <jump line="29" column="3" filename="$USER_HOME$/work/ch-server/ch-server-sys-setting/src/main/java/com/zifangdt/ch/syssetting/service/QuickEntryService.java" />
       <jump line="46" column="90" filename="$USER_HOME$/work/ch-server/ch-server-sys-setting/src/main/java/com/zifangdt/ch/syssetting/service/QuickEntryService.java" />
+      <jump line="32" column="26" filename="$USER_HOME$/work/ch-server/ch-server-sys-setting/src/main/java/com/zifangdt/ch/syssetting/service/QuickEntryService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>QuickEntryEnum</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>QuickEntryEnum</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxUXD4=</text>
+        <text encoding="base64">XDxnZXREZWZhdWx0UnVsZVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB2YWxpZGF0ZUVudHJpZXMocXVpY2tFbnRyeVJ1bGUuZ2V0UXVpY2tJZHMoKSk7Cg==</text>
@@ -1452,9 +1452,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxUXD4=</last-search>
+      <last-search encoding="base64">XDxnZXREZWZhdWx0UnVsZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxUXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxnZXREZWZhdWx0UnVsZVw+</last-pattern>
       <last-replace>cfg</last-replace>
       <last-substitute encoding="base64">XDxjZmdOdW1iZXJTZXJ2aWNlXD4=</last-substitute>
       <last-dir>-1</last-dir>
@@ -1462,7 +1462,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx1c2VyT3JnYU1hcHBlclw+</entry>
         <entry encoding="base64">XDx0b1N0cmluZ1w+</entry>
         <entry encoding="base64">XDx1YWFTZXJ2ZXJBcGlcPg==</entry>
         <entry encoding="base64">XDx1c2VyQ29uZmlnTWFwcGVyXD4=</entry>
@@ -1482,6 +1481,7 @@
         <entry encoding="base64">XDxFTlRJVFlfQ0xBU1NcPg==</entry>
         <entry encoding="base64">XDxkaXNwbGF5XD4=</entry>
         <entry encoding="base64">XDxUXD4=</entry>
+        <entry encoding="base64">XDxnZXREZWZhdWx0UnVsZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>s/crm/cfg/g</entry>
