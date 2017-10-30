@@ -593,11 +593,11 @@
         <mark key="^" line="94" column="5" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/work/ch-server/ch-server-sys-setting/pom.xml" timestamp="1508922269830">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="^" line="50" column="16" />
-        <mark key="." line="30" column="0" />
+      <file name="$USER_HOME$/work/ch-server/ch-server-sys-setting/pom.xml" timestamp="1509356357613">
+        <mark key="[" line="21" column="21" />
+        <mark key="]" line="34" column="0" />
+        <mark key="^" line="54" column="16" />
+        <mark key="." line="34" column="0" />
       </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-customer/src/main/java/com/zifangdt/ch/customer/mapper/setting/CustomerChoiceConfigMapper.java" timestamp="1508984912628">
         <mark key="[" line="7" column="75" />
@@ -1080,11 +1080,11 @@
         <mark key="^" line="9" column="7" />
         <mark key="." line="9" column="7" />
       </file>
-      <file name="$USER_HOME$/work/ch-server/ch-server-sys-setting/src/main/java/com/zifangdt/ch/SysSettingApplication.java" timestamp="1509334782978">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="^" line="15" column="57" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/work/ch-server/ch-server-sys-setting/src/main/java/com/zifangdt/ch/SysSettingApplication.java" timestamp="1509356445366">
+        <mark key="[" line="11" column="22" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="17" column="57" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-sys-setting/src/main/java/com/zifangdt/ch/syssetting/service/ContractBoolConfigEnum.java" timestamp="1508124455930">
         <mark key="[" line="10" column="42" />
@@ -1230,6 +1230,12 @@
         <mark key="." line="5" column="12" />
         <mark key="^" line="11" column="3" />
       </file>
+      <file name="$USER_HOME$/work/ch-server/ch-server-sys-setting/src/main/java/com/zifangdt/ch/syssetting/RequestScopeCache.java" timestamp="1509356861706">
+        <mark key="[" line="14" column="4" />
+        <mark key="]" line="14" column="3" />
+        <mark key="^" line="14" column="3" />
+        <mark key="." line="14" column="3" />
+      </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-uaa/src/main/java/com/zifangdt/ch/uaa/web/UserController.java" timestamp="1508493945045">
         <mark key="[" line="69" column="27" />
         <mark key="]" line="69" column="45" />
@@ -1370,11 +1376,11 @@
       <jump line="32" column="26" filename="$USER_HOME$/work/ch-server/ch-server-sys-setting/src/main/java/com/zifangdt/ch/syssetting/service/QuickEntryService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuY2FjaGUuYW5ub3RhdGlvbi5DYWNoZWFibGU7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Cache</text>
       </register>
       <register name="-" type="4">
-        <text>QuickEntryEnum</text>
+        <text>Cache</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXREZWZhdWx0UnVsZVw+</text>
