@@ -151,7 +151,7 @@
         <mark key="^" line="2" column="15" />
         <mark key="." line="2" column="15" />
       </file>
-      <file name="$USER_HOME$/work/ch-server/ch-server-sys-setting/src/main/resources/create_table.sql" timestamp="1509085170332">
+      <file name="$USER_HOME$/work/ch-server/ch-server-sys-setting/src/main/resources/create_table.sql" timestamp="1509335172619">
         <mark key="'" line="23" column="0" />
         <mark key="[" line="47" column="16" />
         <mark key="]" line="47" column="16" />
@@ -974,11 +974,11 @@
         <mark key="^" line="3" column="16" />
         <mark key="." line="3" column="16" />
       </file>
-      <file name="$USER_HOME$/work/ch-server/ch-server-sys-setting/src/main/java/com/zifangdt/ch/syssetting/entity/QuickEntryRule.java" timestamp="1509094615773">
-        <mark key="[" line="26" column="11" />
-        <mark key="]" line="26" column="20" />
-        <mark key="^" line="26" column="20" />
-        <mark key="." line="26" column="20" />
+      <file name="$USER_HOME$/work/ch-server/ch-server-sys-setting/src/main/java/com/zifangdt/ch/syssetting/entity/QuickEntryRule.java" timestamp="1509335424974">
+        <mark key="[" line="71" column="17" />
+        <mark key="]" line="27" column="20" />
+        <mark key="^" line="27" column="20" />
+        <mark key="." line="27" column="20" />
       </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-sys-setting/src/main/resources/mapper/UserOrgaMapper.xml" timestamp="1507876690843">
         <mark key="[" line="78" column="0" />
@@ -1138,12 +1138,12 @@
         <mark key="^" line="8" column="11" />
         <mark key="." line="8" column="11" />
       </file>
-      <file name="$USER_HOME$/work/ch-server/ch-server-sys-setting/src/main/java/com/zifangdt/ch/syssetting/service/QuickEntryService.java" timestamp="1509097356797">
+      <file name="$USER_HOME$/work/ch-server/ch-server-sys-setting/src/main/java/com/zifangdt/ch/syssetting/service/QuickEntryService.java" timestamp="1509334727768">
         <mark key="'" line="59" column="8" />
-        <mark key="[" line="27" column="5" />
-        <mark key="]" line="28" column="3" />
-        <mark key="." line="28" column="3" />
-        <mark key="^" line="28" column="3" />
+        <mark key="[" line="68" column="29" />
+        <mark key="]" line="68" column="47" />
+        <mark key="." line="68" column="47" />
+        <mark key="^" line="68" column="47" />
       </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-product/src/main/resources/application.yaml" timestamp="1506676693070">
         <mark key="[" line="8" column="41" />
@@ -1170,7 +1170,7 @@
         <mark key="^" line="9" column="7" />
         <mark key="." line="9" column="7" />
       </file>
-      <file name="$USER_HOME$/work/ch-server/ch-server-sys-setting/src/main/java/com/zifangdt/ch/SysSettingApplication.java" timestamp="1507622014407">
+      <file name="$USER_HOME$/work/ch-server/ch-server-sys-setting/src/main/java/com/zifangdt/ch/SysSettingApplication.java" timestamp="1509334782978">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
         <mark key="^" line="15" column="57" />
@@ -1212,12 +1212,12 @@
         <mark key="^" line="91" column="37" />
         <mark key="." line="91" column="37" />
       </file>
-      <file name="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/enums/setting/QuickEntryEnum.java" timestamp="1509090688316">
-        <mark key="'" line="8" column="22" />
-        <mark key="[" line="20" column="15" />
-        <mark key="]" line="20" column="14" />
-        <mark key="." line="20" column="14" />
-        <mark key="^" line="20" column="14" />
+      <file name="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/enums/setting/QuickEntryEnum.java" timestamp="1509335559112">
+        <mark key="'" line="43" column="13" />
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="35" column="12" />
+        <mark key="." line="35" column="12" />
+        <mark key="^" line="35" column="12" />
       </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-customer/src/main/resources/mapper/setting/ChoiceConfigMapper.xml" timestamp="1508988453836">
         <mark key="[" line="9" column="24" />
@@ -1374,8 +1374,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="325" column="33" filename="$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.4.5/mybatis-3.4.5-sources.jar!/org/apache/ibatis/type/TypeHandlerRegistry.java" />
-      <jump line="16" column="5" filename="$USER_HOME$/work/ch-server/ch-server-sys-setting/src/main/resources/create_table.sql" />
       <jump line="28" column="0" filename="$USER_HOME$/work/ch-server/ch-server-sys-setting/src/main/resources/create_table.sql" />
       <jump line="120" column="25" filename="$USER_HOME$/work/ch-server/ch-server-sys-setting/src/main/java/com/zifangdt/ch/syssetting/web/PriceSheetController.java" />
       <jump line="144" column="0" filename="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/dto/uaa/Organization.java" />
@@ -1474,16 +1472,18 @@
       <jump line="26" column="8" filename="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/util/ReflectionUtil.java" />
       <jump line="16" column="8" filename="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/util/ReflectionUtil.java" />
       <jump line="39" column="27" filename="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/service/BaseService.java" />
+      <jump line="32" column="25" filename="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/enums/setting/QuickEntryEnum.java" />
+      <jump line="37" column="13" filename="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/enums/setting/QuickEntryEnum.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Long</text>
+        <text>delete</text>
       </register>
       <register name="-" type="4">
-        <text>Long</text>
+        <text>delete</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxFTlRJVFlfQ0xBU1NcPg==</text>
+        <text encoding="base64">XDxkaXNwbGF5XD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIFF1aWNrRW50cnlSdWxlIGNyZWF0ZShAUmVxdWVzdEJvZHkgUXVpY2tFbnRyeVJ1bGUgcXVpY2tFbnRyeVJ1bGUpewo=</text>
@@ -1557,17 +1557,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxFTlRJVFlfQ0xBU1NcPg==</last-search>
+      <last-search encoding="base64">XDxkaXNwbGF5XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxFTlRJVFlfQ0xBU1NcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxkaXNwbGF5XD4=</last-pattern>
       <last-replace>cfg</last-replace>
       <last-substitute encoding="base64">XDxjZmdOdW1iZXJTZXJ2aWNlXD4=</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxnZXRVc2VyT3JnYUlkc1w+</entry>
         <entry encoding="base64">XDwoXD4=</entry>
         <entry encoding="base64">XDx1c2VyT3JnYU1hcHBlclw+</entry>
         <entry encoding="base64">XDx0b1N0cmluZ1w+</entry>
@@ -1587,6 +1586,7 @@
         <entry encoding="base64">XDxtYXBwZXJDbGFzc1w+</entry>
         <entry encoding="base64">XDxQYXJhbWV0ZXJpemVkVHlwZVw+</entry>
         <entry encoding="base64">XDxFTlRJVFlfQ0xBU1NcPg==</entry>
+        <entry encoding="base64">XDxkaXNwbGF5XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>s/crm/cfg/g</entry>
