@@ -533,6 +533,13 @@
         <mark key="^" line="8" column="50" />
         <mark key="." line="8" column="50" />
       </file>
+      <file name="$USER_HOME$/work/ch-server/ch-server-product/src/main/java/com/zifangdt/ch/product/bo/ProductQueryBo.java" timestamp="1509414177392">
+        <mark key="'" line="43" column="16" />
+        <mark key="[" line="9" column="28" />
+        <mark key="]" line="9" column="34" />
+        <mark key="." line="9" column="34" />
+        <mark key="^" line="9" column="34" />
+      </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-contract/src/main/resources/generatorConfig.xml" timestamp="1508899455987">
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="79" />
@@ -1145,7 +1152,7 @@
         <mark key="." line="18" column="23" />
         <mark key="^" line="18" column="23" />
       </file>
-      <file name="$USER_HOME$/work/ch-server/ch-server-product/src/main/java/com/zifangdt/ch/product/web/ProductController.java" timestamp="1508464689387">
+      <file name="$USER_HOME$/work/ch-server/ch-server-product/src/main/java/com/zifangdt/ch/product/web/ProductController.java" timestamp="1509413507122">
         <mark key="[" line="132" column="7" />
         <mark key="]" line="132" column="64" />
         <mark key="^" line="132" column="64" />
@@ -1287,7 +1294,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="64" column="11" filename="$MAVEN_REPOSITORY$/io/github/openfeign/feign-core/9.5.0/feign-core-9.5.0.jar!/feign/SynchronousMethodHandler.class" />
       <jump line="35" column="35" filename="$USER_HOME$/work/ch-server/ch-server-uaa/src/main/java/com/zifangdt/ch/uaa/web/setting/ChoiceConfigController.java" />
       <jump line="6" column="30" filename="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/dto/customer/setting/ChoiceConfig.java" />
       <jump line="352" column="34" filename="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/service/BaseService.java" />
@@ -1387,22 +1393,23 @@
       <jump line="51" column="48" filename="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.10.RELEASE/spring-context-4.3.10.RELEASE-sources.jar!/org/springframework/cache/concurrent/ConcurrentMapCache.java" />
       <jump line="99" column="14" filename="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.10.RELEASE/spring-context-4.3.10.RELEASE-sources.jar!/org/springframework/cache/concurrent/ConcurrentMapCache.java" />
       <jump line="71" column="57" filename="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.10.RELEASE/spring-context-4.3.10.RELEASE-sources.jar!/org/springframework/cache/support/AbstractValueAdaptingCache.java" />
+      <jump line="43" column="16" filename="$USER_HOME$/work/ch-server/ch-server-product/src/main/java/com/zifangdt/ch/product/bo/ProductQueryBo.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text encoding="base64">IHRydWU=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxDb25jdXJyZW50TWFwQ2FjaGVcPg==</text>
+        <text encoding="base64">XDxzZXRJc0FjdGl2ZVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB2YWxpZGF0ZUVudHJpZXMocXVpY2tFbnRyeVJ1bGUuZ2V0UXVpY2tJZHMoKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1442,37 +1449,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3luY2hyb25pemVkICh0aGlzLnN0b3JlKQo=</text>
+        <text encoding="base64">ICAgICAgICB9IAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHRydWU7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoYWN0aXZlID09IG51bGwpewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuY2FjaGUuYW5ub3RhdGlvbi5DYWNoZWFibGU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHRydWU7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBDYWNoZWFibGUK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoaXNBY3RpdmUgPT0gbnVsbCl7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBDYWNoCg==</text>
+        <text encoding="base64">ICAgIEBKc29uUHJvcGVydHkoImlzQWN0aXZlIikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBKc29uUHJvcGVydHkoImlzQWN0aXZlIikK</text>
       </register>
       <register name=":" type="4">
         <text>565</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxDb25jdXJyZW50TWFwQ2FjaGVcPg==</last-search>
+      <last-search encoding="base64">XDxzZXRJc0FjdGl2ZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxDb25jdXJyZW50TWFwQ2FjaGVcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxzZXRJc0FjdGl2ZVw+</last-pattern>
       <last-replace>cfg</last-replace>
       <last-substitute encoding="base64">XDxjZmdOdW1iZXJTZXJ2aWNlXD4=</last-substitute>
       <last-dir>-1</last-dir>
@@ -1480,7 +1487,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx1c2VyQ29uZmlnTWFwcGVyXD4=</entry>
         <entry encoding="base64">XDxhbHJlYWR5XD4=</entry>
         <entry encoding="base64">XDx2YWxpZGF0ZVVzZXJJZFw+</entry>
         <entry encoding="base64">XDxOb3ROdWxsXD4=</entry>
@@ -1500,6 +1506,7 @@
         <entry encoding="base64">XDxnZXREZWZhdWx0UnVsZVw+</entry>
         <entry encoding="base64">XDxzdG9yZVw+</entry>
         <entry encoding="base64">XDxDb25jdXJyZW50TWFwQ2FjaGVcPg==</entry>
+        <entry encoding="base64">XDxzZXRJc0FjdGl2ZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>s/crm/cfg/g</entry>
