@@ -889,7 +889,8 @@
         <mark key="^" line="11" column="31" />
         <mark key="." line="11" column="31" />
       </file>
-      <file name="$USER_HOME$/work/ch-server/ch-server-sys-setting/src/main/java/com/zifangdt/ch/syssetting/RequestScopeCache1.java" timestamp="1509419351123">
+      <file name="$USER_HOME$/work/ch-server/ch-server-sys-setting/src/main/java/com/zifangdt/ch/syssetting/RequestScopeCache1.java" timestamp="1509430817895">
+        <mark key="[" line="14" column="30" />
         <mark key="]" line="14" column="30" />
         <mark key="^" line="14" column="30" />
         <mark key="." line="14" column="30" />
@@ -1178,11 +1179,11 @@
         <mark key="." line="18" column="23" />
         <mark key="^" line="18" column="23" />
       </file>
-      <file name="$USER_HOME$/work/ch-server/ch-server-product/src/main/java/com/zifangdt/ch/product/web/ProductController.java" timestamp="1509429851963">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="^" line="24" column="51" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/work/ch-server/ch-server-product/src/main/java/com/zifangdt/ch/product/web/ProductController.java" timestamp="1509430584879">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="22" column="51" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-customer/src/main/java/com/zifangdt/ch/customer/mapper/CfgNumberMapper.java" timestamp="1509069599634">
         <mark key="[" line="4" column="0" />
@@ -1273,11 +1274,11 @@
         <mark key="." line="5" column="12" />
         <mark key="^" line="11" column="3" />
       </file>
-      <file name="$USER_HOME$/work/ch-server/ch-server-sys-setting/src/main/java/com/zifangdt/ch/syssetting/RequestScopeCache.java" timestamp="1509419350055">
+      <file name="$USER_HOME$/work/ch-server/ch-server-sys-setting/src/main/java/com/zifangdt/ch/syssetting/RequestScopeCache.java" timestamp="1509430818464">
         <mark key="[" line="14" column="30" />
-        <mark key="]" line="82" column="37" />
-        <mark key="^" line="82" column="37" />
-        <mark key="." line="82" column="37" />
+        <mark key="]" line="14" column="29" />
+        <mark key="^" line="14" column="29" />
+        <mark key="." line="14" column="29" />
       </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-uaa/src/main/java/com/zifangdt/ch/uaa/web/UserController.java" timestamp="1508493945045">
         <mark key="[" line="69" column="27" />
@@ -1422,11 +1423,11 @@
       <jump line="327" column="35" filename="$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.3.10.RELEASE/spring-beans-4.3.10.RELEASE-sources.jar!/org/springframework/beans/BeanWrapperImpl.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuc3RlcmVvdHlwZS5Db250cm9sbGVyOwo=</text>
+      <register name="&quot;" type="4">
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text>toString()</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx3cml0ZU1ldGhvZFw+</text>
@@ -1437,7 +1438,7 @@
     }</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuc3RlcmVvdHlwZS5Db250cm9sbGVyOwo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS56aWZhbmdkdC5jaC5wcm9kdWN0Lm1hcHBlci5SZXBvUHJvZHVjdE1hcHBlcjsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1477,28 +1478,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QEVuYWJsZUNhY2hpbmcK</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsud2ViLnNlcnZsZXQubXZjLkNvbnRyb2xsZXI7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuc3RlcmVvdHlwZS5Db250cm9sbGVyOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QEVuYWJsZUNhY2hpbmcK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9IAo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHRydWU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoYWN0aXZlID09IG51bGwpewo=</text>
+        <text encoding="base64">ICAgICAgICB9IAo=</text>
       </register>
       <register name=":" type="4">
         <text>565</text>
