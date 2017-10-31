@@ -164,7 +164,6 @@
         <mark key="^" line="19" column="23" />
         <mark key="." line="19" column="23" />
       </file>
-      <file name="$USER_HOME$/work/ch-server/ch-server-uaa/src/main/java/com/zifangdt/ch/UaaApplication.java" timestamp="1509349753124" />
       <file name="$USER_HOME$/work/ch-server/ch-server-customer/src/main/java/com/zifangdt/ch/customer/mapper/setting/UserOrgaMapper.java" timestamp="1509006388236">
         <mark key="[" line="8" column="17" />
         <mark key="]" line="9" column="16" />
@@ -189,7 +188,6 @@
         <mark key="." line="13" column="11" />
         <mark key="^" line="2" column="28" />
       </file>
-      <file name="$USER_HOME$/work/ch-server/ch-server-gateway/src/main/java/com/zifangdt/ch/GatewayApplication.java" timestamp="1509330378527" />
       <file name="$USER_HOME$/work/ch-server/ch-server-product/src/main/java/com/zifangdt/ch/product/service/RepoProductService.java" timestamp="1508316308289">
         <mark key="[" line="30" column="38" />
         <mark key="]" line="31" column="15" />
@@ -244,8 +242,8 @@
         <mark key="^" line="11" column="34" />
         <mark key="." line="11" column="34" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.10.RELEASE/spring-context-4.3.10.RELEASE-sources.jar!/org/springframework/cache/concurrent/ConcurrentMapCache.java" timestamp="1509357524812">
-        <mark key="'" line="99" column="14" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.10.RELEASE/spring-context-4.3.10.RELEASE-sources.jar!/org/springframework/cache/concurrent/ConcurrentMapCache.java" timestamp="1509432887347">
+        <mark key="'" line="172" column="33" />
       </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-customer/src/main/resources/mbg.properties" timestamp="1508898756922">
         <mark key="[" line="0" column="47" />
@@ -333,6 +331,9 @@
         <mark key="]" line="20" column="48" />
         <mark key="^" line="20" column="48" />
         <mark key="." line="20" column="48" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.10.RELEASE/spring-context-4.3.10.RELEASE-sources.jar!/org/springframework/cache/support/AbstractCacheManager.java" timestamp="1509433307483">
+        <mark key="'" line="87" column="27" />
       </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-contract/src/main/resources/mapper/setting/UserOrgaMapper1.xml" timestamp="1509010974911">
         <mark key="[" line="2" column="69" />
@@ -463,7 +464,6 @@
         <mark key="." line="13" column="21" />
         <mark key="^" line="13" column="21" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.10.RELEASE/spring-context-4.3.10.RELEASE-sources.jar!/org/springframework/cache/concurrent/ConcurrentMapCacheFactoryBean.java" timestamp="1509357712495" />
       <file name="$USER_HOME$/work/ch-server/ch-server-contract/src/main/java/com/zifangdt/ch/contract/bo/setting/UserDe.java" timestamp="1508389447096">
         <mark key="[" line="12" column="5" />
         <mark key="]" line="12" column="14" />
@@ -544,6 +544,12 @@
         <mark key="]" line="8" column="50" />
         <mark key="^" line="8" column="50" />
         <mark key="." line="8" column="50" />
+      </file>
+      <file name="$USER_HOME$/work/ch-server/ch-server-sys-setting/src/main/java/com/zifangdt/ch/syssetting/RequestScopeCacheManager.java" timestamp="1509433349475">
+        <mark key="[" line="8" column="67" />
+        <mark key="]" line="9" column="3" />
+        <mark key="^" line="9" column="3" />
+        <mark key="." line="9" column="3" />
       </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-product/src/main/java/com/zifangdt/ch/product/bo/ProductQueryBo.java" timestamp="1509414177392">
         <mark key="'" line="43" column="16" />
@@ -772,6 +778,9 @@
         <mark key="^" line="17" column="72" />
         <mark key="." line="17" column="72" />
       </file>
+      <file name="$USER_HOME$/work/ch-server/ch-server-sys-setting/src/main/java/com/zifangdt/ch/syssetting/CachingConfig.java" timestamp="1509433729362">
+        <mark key="[" line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-contract/src/main/java/com/zifangdt/ch/contract/service/ContractService.java" timestamp="1509017965272">
         <mark key="'" line="94" column="30" />
         <mark key="[" line="39" column="0" />
@@ -822,6 +831,9 @@
         <mark key="." line="47" column="49" />
         <mark key="^" line="47" column="49" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context-support/4.3.10.RELEASE/spring-context-support-4.3.10.RELEASE.jar!/org/springframework/cache/jcache/JCacheCacheManager.class" timestamp="1509433238370">
+        <mark key="'" line="16" column="12" />
+      </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-product/src/main/java/com/zifangdt/ch/product/validator/RepoExist.java" timestamp="1508318796818">
         <mark key="[" line="13" column="35" />
         <mark key="]" line="9" column="43" />
@@ -870,6 +882,9 @@
         <mark key="]" line="13" column="13" />
         <mark key="^" line="13" column="13" />
         <mark key="." line="13" column="13" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context-support/4.3.10.RELEASE/spring-context-support-4.3.10.RELEASE.jar!/org/springframework/cache/ehcache/EhCacheCacheManager.class" timestamp="1509433082721">
+        <mark key="'" line="30" column="20" />
       </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-sys-setting/src/main/resources/bootstrap.yaml" timestamp="1507621770394">
         <mark key="[" line="2" column="10" />
@@ -1124,11 +1139,11 @@
         <mark key="^" line="9" column="7" />
         <mark key="." line="9" column="7" />
       </file>
-      <file name="$USER_HOME$/work/ch-server/ch-server-sys-setting/src/main/java/com/zifangdt/ch/SysSettingApplication.java" timestamp="1509419307189">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="^" line="16" column="57" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/work/ch-server/ch-server-sys-setting/src/main/java/com/zifangdt/ch/SysSettingApplication.java" timestamp="1509433503573">
+        <mark key="[" line="13" column="51" />
+        <mark key="]" line="13" column="67" />
+        <mark key="^" line="13" column="67" />
+        <mark key="." line="13" column="67" />
       </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-sys-setting/src/main/java/com/zifangdt/ch/syssetting/service/ContractBoolConfigEnum.java" timestamp="1508124455930">
         <mark key="[" line="10" column="42" />
@@ -1230,12 +1245,6 @@
         <mark key="^" line="6" column="28" />
         <mark key="." line="6" column="28" />
       </file>
-      <file name="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/service/BaseService.java" timestamp="1509355014956">
-        <mark key="'" line="39" column="27" />
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
-      </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-uaa/src/main/java/com/zifangdt/ch/uaa/mapper/UserMapper.java" timestamp="1508405016816">
         <mark key="[" line="18" column="41" />
         <mark key="]" line="20" column="34" />
@@ -1274,11 +1283,12 @@
         <mark key="." line="5" column="12" />
         <mark key="^" line="11" column="3" />
       </file>
-      <file name="$USER_HOME$/work/ch-server/ch-server-sys-setting/src/main/java/com/zifangdt/ch/syssetting/RequestScopeCache.java" timestamp="1509430818464">
-        <mark key="[" line="14" column="30" />
-        <mark key="]" line="14" column="29" />
-        <mark key="^" line="14" column="29" />
-        <mark key="." line="14" column="29" />
+      <file name="$USER_HOME$/work/ch-server/ch-server-sys-setting/src/main/java/com/zifangdt/ch/syssetting/RequestScopeCache.java" timestamp="1509432870051">
+        <mark key="'" line="54" column="18" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="18" column="68" />
+        <mark key="." line="18" column="68" />
+        <mark key="^" line="18" column="68" />
       </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-uaa/src/main/java/com/zifangdt/ch/uaa/web/UserController.java" timestamp="1508493945045">
         <mark key="[" line="69" column="27" />
@@ -1316,33 +1326,11 @@
         <mark key="^" line="15" column="20" />
         <mark key="." line="15" column="20" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.10.RELEASE/spring-context-4.3.10.RELEASE-sources.jar!/org/springframework/cache/support/AbstractValueAdaptingCache.java" timestamp="1509357267909">
-        <mark key="'" line="71" column="57" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.10.RELEASE/spring-context-4.3.10.RELEASE-sources.jar!/org/springframework/cache/support/AbstractValueAdaptingCache.java" timestamp="1509432577422">
+        <mark key="'" line="96" column="21" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="350" column="28" filename="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/service/BaseService.java" />
-      <jump line="348" column="28" filename="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/service/BaseService.java" />
-      <jump line="346" column="28" filename="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/service/BaseService.java" />
-      <jump line="342" column="12" filename="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/service/BaseService.java" />
-      <jump line="66" column="8" filename="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/service/BaseService.java" />
-      <jump line="51" column="19" filename="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/service/BaseService.java" />
-      <jump line="58" column="36" filename="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/service/BaseService.java" />
-      <jump line="49" column="30" filename="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/service/BaseService.java" />
-      <jump line="47" column="25" filename="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/service/BaseService.java" />
-      <jump line="312" column="16" filename="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/service/BaseService.java" />
-      <jump line="43" column="26" filename="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/service/BaseService.java" />
-      <jump line="24" column="18" filename="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/service/BaseService.java" />
-      <jump line="592" column="15" filename="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/service/BaseService.java" />
-      <jump line="569" column="15" filename="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/service/BaseService.java" />
-      <jump line="17" column="32" filename="$USER_HOME$/work/ch-server/ch-server-customer/src/main/java/com/zifangdt/ch/customer/web/CustomerController.java" />
-      <jump line="211" column="36" filename="$USER_HOME$/work/ch-server/ch-server-customer/src/main/java/com/zifangdt/ch/customer/web/CustomerController.java" />
-      <jump line="44" column="58" filename="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/web/CustomResponseBodyAdvice.java" />
-      <jump line="79" column="15" filename="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/web/CustomResponseBodyAdvice.java" />
-      <jump line="201" column="23" filename="$USER_HOME$/work/ch-server/ch-server-contract/src/main/java/com/zifangdt/ch/contract/service/setting/ContractUserConfigService.java" />
-      <jump line="174" column="31" filename="$USER_HOME$/work/ch-server/ch-server-contract/src/main/java/com/zifangdt/ch/contract/service/setting/ContractUserConfigService.java" />
-      <jump line="37" column="26" filename="$USER_HOME$/work/ch-server/ch-server-contract/src/main/java/com/zifangdt/ch/contract/service/setting/ContractUserConfigService.java" />
-      <jump line="196" column="23" filename="$USER_HOME$/work/ch-server/ch-server-contract/src/main/java/com/zifangdt/ch/contract/service/setting/ContractUserConfigService.java" />
       <jump line="39" column="56" filename="$USER_HOME$/work/ch-server/ch-server-contract/src/main/java/com/zifangdt/ch/contract/service/setting/ContractUserConfigService.java" />
       <jump line="29" column="19" filename="$USER_HOME$/work/ch-server/ch-server-contract/src/main/java/com/zifangdt/ch/contract/service/setting/ContractUserConfigService.java" />
       <jump line="43" column="19" filename="$USER_HOME$/work/ch-server/ch-server-contract/src/main/java/com/zifangdt/ch/contract/service/setting/ContractUserConfigService.java" />
@@ -1421,24 +1409,44 @@
       <jump line="338" column="20" filename="$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.3.10.RELEASE/spring-beans-4.3.10.RELEASE-sources.jar!/org/springframework/beans/BeanWrapperImpl.java" />
       <jump line="332" column="28" filename="$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.3.10.RELEASE/spring-beans-4.3.10.RELEASE-sources.jar!/org/springframework/beans/BeanWrapperImpl.java" />
       <jump line="327" column="35" filename="$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.3.10.RELEASE/spring-beans-4.3.10.RELEASE-sources.jar!/org/springframework/beans/BeanWrapperImpl.java" />
+      <jump line="168" column="20" filename="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.10.RELEASE/spring-context-4.3.10.RELEASE-sources.jar!/org/springframework/cache/support/AbstractCacheManager.java" />
+      <jump line="79" column="6" filename="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.10.RELEASE/spring-context-4.3.10.RELEASE-sources.jar!/org/springframework/cache/support/AbstractCacheManager.java" />
+      <jump line="51" column="18" filename="$USER_HOME$/work/ch-server/ch-server-sys-setting/src/main/java/com/zifangdt/ch/syssetting/RequestScopeCache.java" />
+      <jump line="56" column="15" filename="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.10.RELEASE/spring-context-4.3.10.RELEASE-sources.jar!/org/springframework/cache/support/AbstractValueAdaptingCache.java" />
+      <jump line="96" column="21" filename="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.10.RELEASE/spring-context-4.3.10.RELEASE-sources.jar!/org/springframework/cache/support/AbstractValueAdaptingCache.java" />
+      <jump line="172" column="33" filename="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.10.RELEASE/spring-context-4.3.10.RELEASE-sources.jar!/org/springframework/cache/concurrent/ConcurrentMapCache.java" />
+      <jump line="16" column="25" filename="$MAVEN_REPOSITORY$/org/springframework/spring-context-support/4.3.10.RELEASE/spring-context-support-4.3.10.RELEASE.jar!/org/springframework/cache/ehcache/EhCacheCacheManager.class" />
+      <jump line="21" column="44" filename="$MAVEN_REPOSITORY$/org/springframework/spring-context-support/4.3.10.RELEASE/spring-context-support-4.3.10.RELEASE.jar!/org/springframework/cache/ehcache/EhCacheCacheManager.class" />
+      <jump line="22" column="28" filename="$MAVEN_REPOSITORY$/org/springframework/spring-context-support/4.3.10.RELEASE/spring-context-support-4.3.10.RELEASE.jar!/org/springframework/cache/ehcache/EhCacheCacheManager.class" />
+      <jump line="25" column="45" filename="$MAVEN_REPOSITORY$/org/springframework/spring-context-support/4.3.10.RELEASE/spring-context-support-4.3.10.RELEASE.jar!/org/springframework/cache/ehcache/EhCacheCacheManager.class" />
+      <jump line="26" column="28" filename="$MAVEN_REPOSITORY$/org/springframework/spring-context-support/4.3.10.RELEASE/spring-context-support-4.3.10.RELEASE.jar!/org/springframework/cache/ehcache/EhCacheCacheManager.class" />
+      <jump line="30" column="20" filename="$MAVEN_REPOSITORY$/org/springframework/spring-context-support/4.3.10.RELEASE/spring-context-support-4.3.10.RELEASE.jar!/org/springframework/cache/ehcache/EhCacheCacheManager.class" />
+      <jump line="16" column="12" filename="$MAVEN_REPOSITORY$/org/springframework/spring-context-support/4.3.10.RELEASE/spring-context-support-4.3.10.RELEASE.jar!/org/springframework/cache/jcache/JCacheCacheManager.class" />
+      <jump line="40" column="47" filename="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.10.RELEASE/spring-context-4.3.10.RELEASE-sources.jar!/org/springframework/cache/support/AbstractCacheManager.java" />
+      <jump line="147" column="59" filename="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.10.RELEASE/spring-context-4.3.10.RELEASE-sources.jar!/org/springframework/cache/support/AbstractCacheManager.java" />
+      <jump line="139" column="21" filename="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.10.RELEASE/spring-context-4.3.10.RELEASE-sources.jar!/org/springframework/cache/support/AbstractCacheManager.java" />
+      <jump line="138" column="27" filename="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.10.RELEASE/spring-context-4.3.10.RELEASE-sources.jar!/org/springframework/cache/support/AbstractCacheManager.java" />
+      <jump line="127" column="20" filename="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.10.RELEASE/spring-context-4.3.10.RELEASE-sources.jar!/org/springframework/cache/support/AbstractCacheManager.java" />
+      <jump line="99" column="29" filename="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.10.RELEASE/spring-context-4.3.10.RELEASE-sources.jar!/org/springframework/cache/support/AbstractCacheManager.java" />
+      <jump line="94" column="29" filename="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.10.RELEASE/spring-context-4.3.10.RELEASE-sources.jar!/org/springframework/cache/support/AbstractCacheManager.java" />
+      <jump line="93" column="31" filename="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.10.RELEASE/spring-context-4.3.10.RELEASE-sources.jar!/org/springframework/cache/support/AbstractCacheManager.java" />
+      <jump line="87" column="27" filename="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.10.RELEASE/spring-context-4.3.10.RELEASE-sources.jar!/org/springframework/cache/support/AbstractCacheManager.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>1</text>
+        <text>.cach</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>.cach</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx3cml0ZU1ldGhvZFw+</text>
+        <text encoding="base64">XDxjYWNoZU1hcFw+</text>
       </register>
-      <register name="0" type="4">
-        <text>public void setActive(Boolean active) {
-        isActive = active;
-    }</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICB0aGlzLnN0b3JlLmdldFN0b3JlKCkucHV0KGtleSwgdmFsdWUpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS56aWZhbmdkdC5jaC5wcm9kdWN0Lm1hcHBlci5SZXBvUHJvZHVjdE1hcHBlcjsK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1478,37 +1486,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsud2ViLnNlcnZsZXQubXZjLkNvbnRyb2xsZXI7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gdG9WYWx1ZVdyYXBwZXIoZXhpc3RpbmcpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuc3RlcmVvdHlwZS5Db250cm9sbGVyOwo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS56aWZhbmdkdC5jaC5wcm9kdWN0Lm1hcHBlci5SZXBvUHJvZHVjdE1hcHBlcjsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">QEVuYWJsZUNhY2hpbmcK</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsud2ViLnNlcnZsZXQubXZjLkNvbnRyb2xsZXI7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuc3RlcmVvdHlwZS5Db250cm9sbGVyOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QEVuYWJsZUNhY2hpbmcK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9IAo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>565</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx3cml0ZU1ldGhvZFw+</last-search>
+      <last-search encoding="base64">XDxjYWNoZU1hcFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx3cml0ZU1ldGhvZFw+</last-pattern>
+      <last-pattern encoding="base64">XDxjYWNoZU1hcFw+</last-pattern>
       <last-replace>cfg</last-replace>
       <last-substitute encoding="base64">XDxjZmdOdW1iZXJTZXJ2aWNlXD4=</last-substitute>
       <last-dir>-1</last-dir>
@@ -1516,13 +1524,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx1c2VyT3JnYXNcPg==</entry>
-        <entry encoding="base64">XDxVc2VyQ29uZmlnXD4=</entry>
-        <entry encoding="base64">XDxMSVNUX0NPTFVNRV9TRVRcPg==</entry>
-        <entry encoding="base64">XDxjb250cmFjdFVzZXJDb25maWdTZXJ2aWNlXD4=</entry>
-        <entry encoding="base64">XDxjZmdOdW1iZXJTZXJ2aWNlXD4=</entry>
-        <entry encoding="base64">XDx1cGRhdGVJbnRlcm5hbFw+</entry>
-        <entry encoding="base64">XDxkaXN0cmljdE1hcHBlclw+</entry>
         <entry encoding="base64">XDxtYXBwZXJDbGFzc1w+</entry>
         <entry encoding="base64">XDxQYXJhbWV0ZXJpemVkVHlwZVw+</entry>
         <entry encoding="base64">XDxFTlRJVFlfQ0xBU1NcPg==</entry>
@@ -1536,6 +1537,13 @@
         <entry encoding="base64">XDxfc2V0dGVyXD4=</entry>
         <entry encoding="base64">XDxtdXRhdG9yXD4=</entry>
         <entry encoding="base64">XDx3cml0ZU1ldGhvZFw+</entry>
+        <entry encoding="base64">XDxnZXROYXRpdmVDYWNoZVw+</entry>
+        <entry encoding="base64">XDx0b1ZhbHVlV3JhcHBlclw+</entry>
+        <entry encoding="base64">XDx0b1N0b3JlVmFsdWVcPg==</entry>
+        <entry encoding="base64">XDxDYWNoZVw+</entry>
+        <entry encoding="base64">XDxjYWNoZU1hbmFnZXJcPg==</entry>
+        <entry encoding="base64">XDxDYWNoZU1hbmFnZXJcPg==</entry>
+        <entry encoding="base64">XDxjYWNoZU1hcFw+</entry>
       </history-search>
       <history-cmd>
         <entry>s/crm/cfg/g</entry>
