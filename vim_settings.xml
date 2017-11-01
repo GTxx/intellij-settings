@@ -606,11 +606,11 @@
         <mark key="." line="0" column="49" />
         <mark key="^" line="0" column="49" />
       </file>
-      <file name="/fragment.java" timestamp="1509533515915">
+      <file name="/fragment.java" timestamp="1509534914641">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
+        <mark key="]" line="0" column="25" />
         <mark key="^" line="0" column="18" />
-        <mark key="." line="0" column="0" />
+        <mark key="." line="0" column="25" />
       </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-contract/src/main/java/com/zifangdt/ch/contract/mapper/ContractMapper.java" timestamp="1508291926140">
         <mark key="[" line="13" column="75" />
@@ -786,11 +786,11 @@
         <mark key="^" line="11" column="31" />
         <mark key="." line="11" column="31" />
       </file>
-      <file name="$USER_HOME$/workr/tcache/src/main/java/testxx/RequestScopeCacheManager.java" timestamp="1509533610956">
+      <file name="$USER_HOME$/workr/tcache/src/main/java/testxx/RequestScopeCacheManager.java" timestamp="1509534837394">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="30" column="113" />
-        <mark key="]" line="30" column="142" />
-        <mark key="." line="30" column="142" />
+        <mark key="[" line="30" column="143" />
+        <mark key="]" line="30" column="143" />
+        <mark key="." line="30" column="143" />
         <mark key="^" line="30" column="142" />
       </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-sys-setting/src/main/java/com/zifangdt/ch/syssetting/RequestScopeCache1.java" timestamp="1509430817895">
@@ -1306,11 +1306,11 @@
       <jump line="57" column="18" filename="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.10.RELEASE/spring-context-4.3.10.RELEASE-sources.jar!/org/springframework/context/annotation/Scope.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgTWFwPE9iamVjdCwgT2JqZWN0PiBzdG9yZTsK</text>
+      <register name="&quot;" type="4">
+        <text>requestStorage.h</text>
       </register>
       <register name="-" type="4">
-        <text>store</text>
+        <text>requestStorage.h</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb250ZXh0XD4=</text>
