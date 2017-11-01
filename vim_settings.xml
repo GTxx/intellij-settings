@@ -290,11 +290,11 @@
       <file name="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.8.9/jackson-databind-2.8.9-sources.jar!/com/fasterxml/jackson/databind/deser/BeanDeserializerFactory.java" timestamp="1509420489415">
         <mark key="'" line="773" column="62" />
       </file>
-      <file name="$USER_HOME$/workr/tcache/src/main/java/testxx/Tcontroller.java" timestamp="1509531624844">
-        <mark key="[" line="17" column="23" />
-        <mark key="]" line="18" column="25" />
-        <mark key="^" line="18" column="25" />
-        <mark key="." line="18" column="25" />
+      <file name="$USER_HOME$/workr/tcache/src/main/java/testxx/Tcontroller.java" timestamp="1509535861039">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="15" column="3" />
+        <mark key="^" line="15" column="3" />
+        <mark key="." line="15" column="3" />
       </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/web/CustomResponseBodyAdvice.java" timestamp="1508988063035">
         <mark key="'" line="79" column="15" />
@@ -512,7 +512,7 @@
         <mark key="." line="29" column="0" />
         <mark key="^" line="27" column="7" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.10.RELEASE/spring-context-4.3.10.RELEASE-sources.jar!/org/springframework/context/annotation/Scope.java" timestamp="1509533888949">
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.10.RELEASE/spring-context-4.3.10.RELEASE-sources.jar!/org/springframework/context/annotation/Scope.java" timestamp="1509536122882">
         <mark key="'" line="57" column="18" />
       </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-product/src/main/java/com/zifangdt/ch/ProductApplication.java" timestamp="1509518741603" />
@@ -606,11 +606,11 @@
         <mark key="." line="0" column="49" />
         <mark key="^" line="0" column="49" />
       </file>
-      <file name="/fragment.java" timestamp="1509534914641">
+      <file name="/fragment.java" timestamp="1509536440053">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="25" />
+        <mark key="]" line="0" column="28" />
         <mark key="^" line="0" column="18" />
-        <mark key="." line="0" column="25" />
+        <mark key="." line="0" column="28" />
       </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-contract/src/main/java/com/zifangdt/ch/contract/mapper/ContractMapper.java" timestamp="1508291926140">
         <mark key="[" line="13" column="75" />
@@ -705,11 +705,11 @@
         <mark key="." line="47" column="49" />
         <mark key="^" line="47" column="49" />
       </file>
-      <file name="$USER_HOME$/workr/tcache/src/main/java/testxx/RequestScopeCacheStorage.java" timestamp="1509534088967">
-        <mark key="[" line="22" column="33" />
-        <mark key="]" line="22" column="39" />
-        <mark key="^" line="22" column="39" />
-        <mark key="." line="22" column="39" />
+      <file name="$USER_HOME$/workr/tcache/src/main/java/testxx/RequestScopeCacheStorage.java" timestamp="1509536137548">
+        <mark key="[" line="23" column="34" />
+        <mark key="]" line="23" column="39" />
+        <mark key="^" line="23" column="39" />
+        <mark key="." line="23" column="39" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context-support/4.3.10.RELEASE/spring-context-support-4.3.10.RELEASE.jar!/org/springframework/cache/jcache/JCacheCacheManager.class" timestamp="1509433238370">
         <mark key="'" line="16" column="12" />
@@ -817,12 +817,12 @@
         <mark key="^" line="8" column="18" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/workr/tcache/src/main/java/testxx/RequestScopeCache.java" timestamp="1509531918773">
-        <mark key="'" line="83" column="17" />
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="." line="44" column="0" />
-        <mark key="^" line="24" column="26" />
+      <file name="$USER_HOME$/workr/tcache/src/main/java/testxx/RequestScopeCache.java" timestamp="1509536635812">
+        <mark key="'" line="84" column="17" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="21" column="13" />
+        <mark key="." line="21" column="13" />
+        <mark key="^" line="21" column="13" />
       </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-sys-setting/src/main/java/com/zifangdt/ch/syssetting/web/PriceSheetStepService.java" timestamp="1507709043049">
         <mark key="[" line="12" column="45" />
@@ -1307,10 +1307,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>requestStorage.h</text>
+        <text>hashCode()</text>
       </register>
       <register name="-" type="4">
-        <text>requestStorage.h</text>
+        <text>hashCode()</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb250ZXh0XD4=</text>
@@ -1319,7 +1319,7 @@
         <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgTWFwPE9iamVjdCwgT2JqZWN0PiBzdG9yZTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgTWFwPE9iamVjdCwgT2JqZWN0PiBzdG9yZTsK</text>
+        <text encoding="base64">cmVxdWVzdFNjb3BlQ2FjaGVTdG9yYWdlLmdldFN0b3JlKCkK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1359,28 +1359,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgTWFwPE9iamVjdCwgT2JqZWN0PiBzdG9yZTsK</text>
+        <text encoding="base64">dGhpcy5nZXRDYWNoZSgiYm9vayIpLnN0b3JlLmhhc2hDb2RlKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QFNjb3BlKHNjb3BlTmFtZSA9IENvbmZpZ3VyYWJsZUJlYW5GYWN0b3J5LlNDT1BFX1BST1RPVFlQRSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgTWFwPE9iamVjdCwgT2JqZWN0PiBzdG9yZTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnN0b3JlID0gbmV3IEhhc2hNYXA8PigpOwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgTWFwPE9iamVjdCwgT2JqZWN0PiBzdG9yZTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBSZXF1ZXN0U2NvcGVDYWNoZVN0b3JhZ2UoKXsK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIH0K</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICB0aGlzLnN0b3JlID0gbmV3IEhhc2hNYXA8PigpOwo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc3RvcmVGb3I7Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBSZXF1ZXN0U2NvcGVDYWNoZVN0b3JhZ2UoKXsK</text>
       </register>
       <register name=":" type="4">
         <text>565</text>
