@@ -9,6 +9,9 @@
         <mark key="^" line="4" column="28" />
         <mark key="." line="4" column="28" />
       </file>
+      <file name="/a.dummy" timestamp="1509419258211">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/dto/contract/UserOrga.java" timestamp="1507884858978">
         <mark key="[" line="16" column="27" />
         <mark key="]" line="22" column="35" />
@@ -569,6 +572,9 @@
         <mark key="^" line="54" column="16" />
         <mark key="." line="34" column="0" />
       </file>
+      <file name="/Dummy.txt" timestamp="1509439771605">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-customer/src/main/java/com/zifangdt/ch/customer/mapper/setting/CustomerChoiceConfigMapper.java" timestamp="1508984912628">
         <mark key="[" line="7" column="75" />
         <mark key="]" line="7" column="94" />
@@ -738,6 +744,9 @@
         <mark key="." line="47" column="49" />
         <mark key="^" line="47" column="49" />
       </file>
+      <file name="$USER_HOME$/workr/tcache/src/main/java/testxx/RequestScopeCacheStorage.java" timestamp="1509519263295">
+        <mark key="[" line="7" column="0" />
+      </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-product/src/main/java/com/zifangdt/ch/product/validator/RepoExist.java" timestamp="1508318796818">
         <mark key="[" line="13" column="35" />
         <mark key="]" line="9" column="43" />
@@ -839,7 +848,12 @@
         <mark key="^" line="8" column="18" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/workr/tcache/src/main/java/testxx/RequestScopeCache.java" timestamp="1509518519121" />
+      <file name="$USER_HOME$/workr/tcache/src/main/java/testxx/RequestScopeCache.java" timestamp="1509519635411">
+        <mark key="[" line="75" column="63" />
+        <mark key="]" line="76" column="41" />
+        <mark key="." line="76" column="41" />
+        <mark key="^" line="76" column="41" />
+      </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-contract/src/main/java/com/zifangdt/ch/contract/service/setting/BoolConfigService.java" timestamp="1508222891709">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -1325,11 +1339,11 @@
       <jump line="23" column="26" filename="$USER_HOME$/work/ch-server/ch-server-sys-setting/src/main/java/com/zifangdt/ch/syssetting/web/PriceSheetController.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBDYWNoZVByb3ZpZGVyKCkK</text>
+      <register name="&quot;" type="4">
+        <text>throws NotImplementedException {</text>
       </register>
       <register name="-" type="4">
-        <text>sleep</text>
+        <text>throws NotImplementedException {</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwcmljZVNoZWV0U3RlcFNlcnZpY2VcPg==</text>
@@ -1338,7 +1352,7 @@
         <text encoding="base64">ICAgICAgICB0aGlzLnN0b3JlLmdldFN0b3JlKCkucHV0KGtleSwgdmFsdWUpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBDYWNoZVByb3ZpZGVyKCkK</text>
+        <text encoding="base64">ICAgICAgICBJbXBsZW1lbnQK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1381,28 +1395,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEFwcGxpY2F0aW9uQ29udGV4dCBhcHBsaWNhdGlvbkNvbnRleHQ7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
+      <register name="4" type="4">
+        <text encoding="base64">CiAgICAvKioKICAgICAqIENyZWF0ZSBhbiB7QGNvZGUgQWJzdHJhY3RWYWx1ZUFkYXB0aW5nQ2FjaGV9IHdpdGggdGhlIGdpdmVuIHNldHRpbmcuCiAgICAgKgogICAgICogQHBhcmFtIGFsbG93TnVsbFZhbHVlcyB3aGV0aGVyIHRvIGFsbG93IGZvciB7QGNvZGUgbnVsbH0gdmFsdWVzCiAgICAgKi8KLy8gICAgcHJvdGVjdGVkIFJlcXVlc3RTY29wZUNhY2hlKGJvb2xlYW4gYWxsb3dOdWxsVmFsdWVzKSB7Ci8vICAgICAgICBzdXBlcihhbGxvd051bGxWYWx1ZXMpOwovLyAgICB9</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIEBDYWNoZVByb3ZpZGVyKCkK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEFwcGxpY2F0aW9uQ29udGV4dCBhcHBsaWNhdGlvbkNvbnRleHQ7Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>@Cacheable(cacheNames = &quot;book&quot;, cacheManager = &quot;requestCacheManager&quot;)
-    public Long g(long x){
-        return x;
-    }</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gMWw7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>565</text>
