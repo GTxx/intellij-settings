@@ -206,11 +206,11 @@
         <mark key="^" line="6" column="10" />
         <mark key="." line="6" column="10" />
       </file>
-      <file name="$USER_HOME$/work/ch-server/ch-server-sys-setting/src/main/java/com/zifangdt/ch/syssetting/web/DistrictController.java" timestamp="1508913709685">
-        <mark key="[" line="41" column="4" />
-        <mark key="]" line="41" column="27" />
-        <mark key="." line="43" column="0" />
-        <mark key="^" line="42" column="108" />
+      <file name="$USER_HOME$/work/ch-server/ch-server-sys-setting/src/main/java/com/zifangdt/ch/syssetting/web/DistrictController.java" timestamp="1509616228697">
+        <mark key="[" line="41" column="48" />
+        <mark key="]" line="41" column="47" />
+        <mark key="." line="41" column="47" />
+        <mark key="^" line="41" column="47" />
       </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-common/src/main/resources/bootstrap.properties" timestamp="1507617125626">
         <mark key="[" line="13" column="11" />
@@ -425,11 +425,11 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/work/ch-server/ch-server-gateway/src/main/java/com/zifangdt/ch/gateway/api/UaaServerApi.java" timestamp="1508724144866">
-        <mark key="[" line="15" column="37" />
-        <mark key="]" line="15" column="33" />
+      <file name="$USER_HOME$/work/ch-server/ch-server-gateway/src/main/java/com/zifangdt/ch/gateway/api/UaaServerApi.java" timestamp="1509614958450">
+        <mark key="[" line="30" column="16" />
+        <mark key="]" line="30" column="16" />
         <mark key="^" line="15" column="33" />
-        <mark key="." line="15" column="33" />
+        <mark key="." line="30" column="16" />
       </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/dao/ListTypeHandlerGeneric.java" timestamp="1508749825835">
         <mark key="[" line="15" column="0" />
@@ -791,6 +791,13 @@
         <mark key="]" line="7" column="4" />
         <mark key="^" line="10" column="3" />
         <mark key="." line="7" column="4" />
+      </file>
+      <file name="$USER_HOME$/work/ch-server/ch-server-sys-setting/src/main/java/com/zifangdt/ch/syssetting/service/DistrictService.java" timestamp="1509616115640">
+        <mark key="'" line="70" column="13" />
+        <mark key="[" line="84" column="29" />
+        <mark key="]" line="84" column="35" />
+        <mark key="." line="84" column="35" />
+        <mark key="^" line="84" column="35" />
       </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-sys-setting/src/main/resources/mbg.properties" timestamp="1509083107690">
         <mark key="[" line="2" column="24" />
@@ -1294,6 +1301,11 @@
         <mark key="^" line="33" column="23" />
         <mark key="." line="33" column="23" />
       </file>
+      <file name="$USER_HOME$/work/ch-server/ch-server-gateway/src/main/java/com/zifangdt/ch/gateway/security/DelegatingUserService.java" timestamp="1509614952722">
+        <mark key="[" line="26" column="20" />
+        <mark key="]" line="26" column="20" />
+        <mark key="." line="26" column="20" />
+      </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/service/setting/ContractUserConfigService.java" timestamp="1509007649274">
         <mark key="[" line="21" column="13" />
         <mark key="]" line="21" column="13" />
@@ -1374,7 +1386,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="37" column="13" filename="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/enums/setting/QuickEntryEnum.java" />
       <jump line="39" column="4" filename="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/enums/setting/QuickEntryEnum.java" />
       <jump line="12" column="12" filename="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/enums/setting/QuickEntryEnum.java" />
       <jump line="53" column="0" filename="$USER_HOME$/work/ch-server/ch-server-sys-setting/src/main/java/com/zifangdt/ch/syssetting/entity/QuickEntryRule.java" />
@@ -1474,22 +1485,23 @@
       <jump line="42" column="8" filename="$USER_HOME$/work/ch-server/ch-server-customer/src/main/java/com/zifangdt/ch/customer/service/setting/CellAddressService.java" />
       <jump line="174" column="13" filename="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/dto/product/Product.java" />
       <jump line="12" column="12" filename="$USER_HOME$/work/ch-server/ch-server-customer/src/main/resources/mapper/setting/ChoiceConfigMapper.xml" />
+      <jump line="70" column="13" filename="$USER_HOME$/work/ch-server/ch-server-sys-setting/src/main/java/com/zifangdt/ch/syssetting/service/DistrictService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>1</text>
+        <text>LIst</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>LIst</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1bml0VHlwZVw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">QFRhYmxlKG5hbWUgPSAiY2ZnX2Nob2ljZV9jb25maWciKQo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">cHVibGljIExpc3Q8U3RyaW5nPiBnZXRBZGRyZXNzKExvbmcgaWQpewogICAgICAgIExpc3Q8U3RyaW5nPiByZXN1bHQgPSBuZXcgQXJyYXlMaXN0PD4oKTsKICAgICAgICBEaXN0cmljdCBjaGlsZCA9IGdldERpc3RyaWN0TWFwKCkuZ2V0T3JEZWZhdWx0KGlkLCBudWxsKTsKICAgICAgICB3aGlsZShjaGlsZCAhPSBudWxsICYmICFjaGlsZC5lcXVhbHMocm9vdCkpewogICAgICAgICAgICByZXN1bHQuYWRkKGNoaWxkLmdldFdob2xlTmFtZSgpKTsKICAgICAgICAgICAgY2hpbGQgPSBnZXREaXN0cmljdE1hcCgpLmdldE9yRGVmYXVsdChjaGlsZC5nZXRQYXJlbnRJZCgpLCBudWxsKTsKICAgICAgICB9CiAgICAgICAgQ29sbGVjdGlvbnMucmV2ZXJzZShyZXN1bHQpOwogICAgICAgIHJldHVybiByZXN1bHQ7CiAgICB9</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1529,9 +1541,15 @@
         </keys>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBMaXMK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">Lwo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text>/    @Autowired
 //    ChoiceConfigService choiceConfigService;
 
@@ -1562,20 +1580,14 @@
         return choiceConfig;
     }</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgIAo=</text>
