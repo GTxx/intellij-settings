@@ -144,18 +144,18 @@
         <mark key="^" line="25" column="39" />
         <mark key="." line="25" column="39" />
       </file>
-      <file name="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/service/setting/ChoiceConfigService.java" timestamp="1509614749972">
+      <file name="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/service/setting/ChoiceConfigService.java" timestamp="1509617134361">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="12" column="7" />
         <mark key="^" line="12" column="7" />
         <mark key="." line="12" column="7" />
       </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-customer/src/main/java/com/zifangdt/ch/customer/service/setting/CellAddressService.java" timestamp="1509605643313">
-        <mark key="'" line="42" column="8" />
-        <mark key="[" line="36" column="8" />
-        <mark key="]" line="36" column="10" />
-        <mark key="." line="36" column="10" />
-        <mark key="^" line="36" column="10" />
+        <mark key="'" line="40" column="8" />
+        <mark key="[" line="34" column="8" />
+        <mark key="]" line="34" column="10" />
+        <mark key="." line="34" column="10" />
+        <mark key="^" line="34" column="10" />
       </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/dto/setting/ChoiceConfig.java" timestamp="1509610319438">
         <mark key="[" line="10" column="27" />
@@ -543,7 +543,7 @@
         <mark key="^" line="8" column="48" />
         <mark key="." line="8" column="48" />
       </file>
-      <file name="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/enums/setting/ChoiceConfigEnum.java" timestamp="1509614139549">
+      <file name="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/enums/setting/ChoiceConfigEnum.java" timestamp="1509617159267">
         <mark key="[" line="39" column="0" />
         <mark key="]" line="39" column="0" />
         <mark key="." line="39" column="0" />
