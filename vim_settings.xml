@@ -18,6 +18,9 @@
         <mark key="^" line="4" column="28" />
         <mark key="." line="4" column="28" />
       </file>
+      <file name="/a.dummy" timestamp="1509419258211">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/dto/contract/UserOrga.java" timestamp="1507884858978">
         <mark key="[" line="16" column="27" />
         <mark key="]" line="22" column="35" />
@@ -226,6 +229,9 @@
         <mark key="]" line="13" column="11" />
         <mark key="." line="13" column="11" />
         <mark key="^" line="2" column="28" />
+      </file>
+      <file name="$USER_HOME$/work/ch-server/ch-server-sys-setting/src/main/java/com/zifangdt/ch/syssetting/web/ProjectChoiceConfigController.java" timestamp="1509612631362">
+        <mark key="[" line="1" column="0" />
       </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-product/src/main/java/com/zifangdt/ch/product/service/RepoProductService.java" timestamp="1508316308289">
         <mark key="[" line="30" column="38" />
@@ -656,6 +662,9 @@
         <mark key="]" line="34" column="0" />
         <mark key="^" line="54" column="16" />
         <mark key="." line="34" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1509439771605">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-customer/src/main/java/com/zifangdt/ch/customer/mapper/setting/CustomerChoiceConfigMapper.java" timestamp="1508984912628">
         <mark key="[" line="7" column="75" />
