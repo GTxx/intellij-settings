@@ -59,7 +59,7 @@
         <mark key="." line="46" column="53" />
         <mark key="^" line="46" column="53" />
       </file>
-      <file name="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/validation/OrganizationHasBossValidator.java" timestamp="1509695065380">
+      <file name="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/validation/OrganizationHasBossValidator.java" timestamp="1509697454642">
         <mark key="[" line="26" column="19" />
         <mark key="]" line="26" column="23" />
         <mark key="^" line="26" column="23" />
@@ -482,11 +482,10 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/bo/setting/StepOrga.java" timestamp="1509695017733">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
-        <mark key="^" line="16" column="3" />
+      <file name="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/bo/setting/StepOrga.java" timestamp="1509697330211">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="55" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-sys-setting/src/main/java/com/zifangdt/ch/syssetting/mapper/CrmBoolConfigMapper.java" timestamp="1507798277130">
         <mark key="[" line="8" column="55" />
@@ -506,11 +505,10 @@
         <mark key="." line="12" column="33" />
         <mark key="^" line="12" column="33" />
       </file>
-      <file name="$USER_HOME$/work/ch-server/ch-server-contract/src/main/java/com/zifangdt/ch/contract/bo/setting/StepOrga.java" timestamp="1509688051740">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="8" column="16" />
-        <mark key="." line="8" column="16" />
-        <mark key="^" line="8" column="16" />
+      <file name="$USER_HOME$/work/ch-server/ch-server-contract/src/main/java/com/zifangdt/ch/contract/bo/setting/StepOrga.java" timestamp="1509697406865">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-contract/src/main/java/com/zifangdt/ch/contract/bo/setting/UserDe.java" timestamp="1508389447096">
         <mark key="[" line="12" column="5" />
@@ -630,7 +628,7 @@
         <mark key="." line="29" column="0" />
         <mark key="^" line="27" column="7" />
       </file>
-      <file name="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/validation/OrganizationExistValidator.java" timestamp="1509693762962">
+      <file name="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/validation/OrganizationExistValidator.java" timestamp="1509697381428">
         <mark key="[" line="37" column="0" />
         <mark key="]" line="37" column="0" />
         <mark key="^" line="35" column="7" />
@@ -700,7 +698,7 @@
         <mark key="^" line="54" column="16" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1509693093665">
+      <file name="/Dummy.txt" timestamp="1509695859370">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-customer/src/main/java/com/zifangdt/ch/customer/mapper/setting/CustomerChoiceConfigMapper.java" timestamp="1508984912628">
@@ -726,6 +724,12 @@
         <mark key="]" line="9" column="17" />
         <mark key="." line="9" column="17" />
         <mark key="^" line="9" column="17" />
+      </file>
+      <file name="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/validation/ValidOrder.java" timestamp="1509697220562">
+        <mark key="[" line="5" column="4" />
+        <mark key="]" line="5" column="4" />
+        <mark key="^" line="3" column="26" />
+        <mark key="." line="5" column="4" />
       </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-sys-setting/src/main/java/com/zifangdt/ch/syssetting/mapper/UserOrgaMapper.java" timestamp="1508138764505">
         <mark key="[" line="9" column="29" />
@@ -943,7 +947,7 @@
         <mark key="." line="23" column="31" />
         <mark key="^" line="23" column="31" />
       </file>
-      <file name="$USER_HOME$/work/ch-server/ch-server-sys-setting/src/main/java/com/zifangdt/ch/syssetting/web/StepDefController.java" timestamp="1509694560644">
+      <file name="$USER_HOME$/work/ch-server/ch-server-sys-setting/src/main/java/com/zifangdt/ch/syssetting/web/StepDefController.java" timestamp="1509697597556">
         <mark key="[" line="27" column="38" />
         <mark key="]" line="27" column="47" />
         <mark key="." line="27" column="47" />
@@ -1546,11 +1550,11 @@
       <jump line="25" column="17" filename="$USER_HOME$/work/ch-server/ch-server-sys-setting/src/main/java/com/zifangdt/ch/syssetting/service/StepDefService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>false</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIEBPcmdhbml6YXRpb25FeGlzdChncm91cHMgPSBFeHRlbmRlZC5jbGFzcykK</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1YWFTZXJ2ZXJBcGlcPg==</text>
@@ -1560,7 +1564,7 @@
     Organization getOrganization(@PathVariable(&quot;id&quot;) Long id);</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIEBPcmdhbml6YXRpb25FeGlzdChncm91cHMgPSBFeHRlbmRlZC5jbGFzcykK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1599,30 +1603,30 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIEBHcm91cFNlcXVlbmNlKCkK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIEBPcmdhbml6YXRpb25FeGlzdChncm91cHMgPSBWYWxpZE9yZGVyLlRoaXJkLmNsYXNzKQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIEBOb3ROdWxsCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="6" type="4">
         <text>@OrganizationExist
     @OrganizationHasBoss</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IERhdGFJbnZhbGlkRXhjZXB0aW9uKCJ0aGlzIG9yZ2FuaXphdGlvbiBoYXMgbm8gYm9zcyIpOwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAob3JnYW5pemF0aW9uLmdldEhlYWRJZCgpID09IG51bGwpewo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IERhdGFJbnZhbGlkRXhjZXB0aW9uKCJ0aGlzIG9yZ2FuaXphdGlvbiBoYXMgbm8gYm9zcyIpOwo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAob3JnYW5pemF0aW9uLmdldEhlYWRJZCgpID09IG51bGwpewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IERhdGFJbnZhbGlkRXhjZXB0aW9uKCJ0aGlzIG9yZ2FuaXphdGlvbiBoYXMgbm8gYm9zcyIpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAob3JnYW5pemF0aW9uLmdldEhlYWRJZCgpID09IG51bGwpewo=</text>
       </register>
       <register name=":" type="4">
         <text>565</text>
