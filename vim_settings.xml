@@ -1224,6 +1224,11 @@
         <mark key="^" line="10" column="38" />
         <mark key="." line="10" column="38" />
       </file>
+      <file name="$USER_HOME$/work/r-cache/src/main/java/testxx/App.java" timestamp="1509674201244">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-uaa/src/main/resources/mapper/OrganizationMapper.xml" timestamp="1508394139691">
         <mark key="[" line="69" column="0" />
         <mark key="]" line="69" column="0" />
@@ -1488,8 +1493,8 @@
       <jump line="70" column="13" filename="$USER_HOME$/work/ch-server/ch-server-sys-setting/src/main/java/com/zifangdt/ch/syssetting/service/DistrictService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>LIst</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
         <text>LIst</text>
@@ -1501,7 +1506,7 @@
         <text encoding="base64">cHVibGljIExpc3Q8U3RyaW5nPiBnZXRBZGRyZXNzKExvbmcgaWQpewogICAgICAgIExpc3Q8U3RyaW5nPiByZXN1bHQgPSBuZXcgQXJyYXlMaXN0PD4oKTsKICAgICAgICBEaXN0cmljdCBjaGlsZCA9IGdldERpc3RyaWN0TWFwKCkuZ2V0T3JEZWZhdWx0KGlkLCBudWxsKTsKICAgICAgICB3aGlsZShjaGlsZCAhPSBudWxsICYmICFjaGlsZC5lcXVhbHMocm9vdCkpewogICAgICAgICAgICByZXN1bHQuYWRkKGNoaWxkLmdldFdob2xlTmFtZSgpKTsKICAgICAgICAgICAgY2hpbGQgPSBnZXREaXN0cmljdE1hcCgpLmdldE9yRGVmYXVsdChjaGlsZC5nZXRQYXJlbnRJZCgpLCBudWxsKTsKICAgICAgICB9CiAgICAgICAgQ29sbGVjdGlvbnMucmV2ZXJzZShyZXN1bHQpOwogICAgICAgIHJldHVybiByZXN1bHQ7CiAgICB9</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1541,15 +1546,18 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBMaXMK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBMaXMK</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">Lwo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>/    @Autowired
 //    ChoiceConfigService choiceConfigService;
 
@@ -1580,14 +1588,11 @@
         return choiceConfig;
     }</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgIAo=</text>
