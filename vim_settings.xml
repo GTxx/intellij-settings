@@ -591,12 +591,12 @@
         <mark key="^" line="10" column="98" />
         <mark key="." line="10" column="98" />
       </file>
-      <file name="$USER_HOME$/work/ch-server/ch-server-sys-setting/src/main/java/com/zifangdt/ch/syssetting/service/StepDefService.java" timestamp="1509950791722">
+      <file name="$USER_HOME$/work/ch-server/ch-server-sys-setting/src/main/java/com/zifangdt/ch/syssetting/service/StepDefService.java" timestamp="1509952217939">
         <mark key="'" line="38" column="0" />
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="0" />
-        <mark key="." line="38" column="0" />
-        <mark key="^" line="39" column="73" />
+        <mark key="[" line="75" column="29" />
+        <mark key="]" line="75" column="31" />
+        <mark key="^" line="75" column="31" />
+        <mark key="." line="75" column="31" />
       </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-product/src/main/java/com/zifangdt/ch/product/validator/RepoExistValidator.java" timestamp="1508318911922">
         <mark key="[" line="29" column="0" />
@@ -888,11 +888,11 @@
         <mark key="." line="23" column="31" />
         <mark key="^" line="23" column="31" />
       </file>
-      <file name="$USER_HOME$/work/ch-server/ch-server-sys-setting/src/main/java/com/zifangdt/ch/syssetting/web/StepDefController.java" timestamp="1509950731848">
-        <mark key="[" line="22" column="42" />
-        <mark key="]" line="22" column="47" />
-        <mark key="." line="22" column="47" />
-        <mark key="^" line="22" column="47" />
+      <file name="$USER_HOME$/work/ch-server/ch-server-sys-setting/src/main/java/com/zifangdt/ch/syssetting/web/StepDefController.java" timestamp="1509952360216">
+        <mark key="[" line="52" column="19" />
+        <mark key="]" line="52" column="28" />
+        <mark key="." line="52" column="28" />
+        <mark key="^" line="52" column="28" />
       </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-contract/src/main/java/com/zifangdt/ch/contract/bo/setting/StepUser.java" timestamp="1509688064514">
         <mark key="[" line="6" column="0" />
@@ -1497,11 +1497,11 @@
       <jump line="39" column="0" filename="$USER_HOME$/work/ch-server/ch-server-sys-setting/src/main/java/com/zifangdt/ch/syssetting/service/StepDefService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
+      <register name="&quot;" type="4">
+        <text>getDetail</text>
       </register>
       <register name="-" type="4">
-        <text>XPath</text>
+        <text>getDetail</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTdGVwRGVmaW5pdGlvbk1hcHBlclw+</text>
@@ -1510,7 +1510,7 @@
         <text encoding="base64">QEdyb3VwU2VxdWVuY2Uoe1N0ZXBPcmdhLmNsYXNzLCBWYWxpZE9yZGVyLlNlY29uZC5jbGFzcywgVmFsaWRPcmRlci5UaGlyZC5jbGFzc30pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1550,28 +1550,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">cG9tLnhtbAo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9IGVsc2Ugewo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">cG9tLnhtbAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGlmIChhTG9uZyA9PSBudWxsKSByZXR1cm4gdHJ1ZTsK</text>
+        <text encoding="base64">ICAgICAgICB9IGVsc2Ugewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBPcmdhbml6YXRpb25IYXNCb3NzKGdyb3VwcyA9IFZhbGlkT3JkZXIuU2Vjb25kLmNsYXNzKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBPcmdhbml6YXRpb25IYXNCb3NzKGdyb3VwcyA9IFZhbGlkT3JkZXIuU2Vjb25kLmNsYXNzKQo=</text>
+        <text encoding="base64">Ly8gICAgICAgIGlmIChhTG9uZyA9PSBudWxsKSByZXR1cm4gdHJ1ZTsK</text>
       </register>
       <register name=":" type="4">
         <text>565</text>
