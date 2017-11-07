@@ -439,6 +439,12 @@
         <mark key="." line="21" column="11" />
         <mark key="^" line="21" column="11" />
       </file>
+      <file name="$USER_HOME$/work/r-cache/src/main/java/testxx/ThreadLocalStorage.java" timestamp="1510026898927">
+        <mark key="[" line="8" column="63" />
+        <mark key="]" line="9" column="3" />
+        <mark key="^" line="9" column="3" />
+        <mark key="." line="9" column="3" />
+      </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-uaa/src/main/java/com/zifangdt/ch/uaa/mapper/setting/ChoiceConfigMapper.java" timestamp="1509614704301">
         <mark key="[" line="5" column="35" />
         <mark key="]" line="6" column="16" />
@@ -573,6 +579,10 @@
         <mark key="]" line="29" column="24" />
         <mark key="^" line="29" column="24" />
         <mark key="." line="29" column="24" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.10.RELEASE/spring-web-4.3.10.RELEASE-sources.jar!/org/springframework/web/context/request/RequestContextHolder.java" timestamp="1510026830439">
+        <mark key="[" line="53" column="4" />
+        <mark key="]" line="54" column="81" />
       </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/web/setting/ContractUserConfigController.java" timestamp="1509007419087">
         <mark key="[" line="15" column="13" />
@@ -750,11 +760,10 @@
         <mark key="^" line="94" column="5" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/work/ch-server/ch-server-sys-setting/pom.xml" timestamp="1510024756625">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="^" line="29" column="25" />
-        <mark key="." line="31" column="0" />
+      <file name="$USER_HOME$/work/ch-server/ch-server-sys-setting/pom.xml" timestamp="1510026491056">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1509949463763">
         <mark key="[" line="0" column="0" />
@@ -1398,10 +1407,10 @@
         <mark key="^" line="10" column="38" />
         <mark key="." line="10" column="38" />
       </file>
-      <file name="$USER_HOME$/work/r-cache/src/main/java/testxx/App.java" timestamp="1509674201244">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/work/r-cache/src/main/java/testxx/App.java" timestamp="1510026529813">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-uaa/src/main/resources/mapper/OrganizationMapper.xml" timestamp="1508394139691">
         <mark key="[" line="69" column="0" />
@@ -1718,20 +1727,20 @@
       <jump line="111" column="29" filename="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.10.RELEASE/spring-web-4.3.10.RELEASE-sources.jar!/org/springframework/web/filter/RequestContextFilter.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBmbG9hdCBhID0gMS8wOwo=</text>
+      <register name="&quot;" type="4">
+        <text>context</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>context</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZXRSZXF1ZXN0QXR0cmlidXRlc1w+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">QEdyb3VwU2VxdWVuY2Uoe1N0ZXBPcmdhLmNsYXNzLCBWYWxpZE9yZGVyLlNlY29uZC5jbGFzcywgVmFsaWRPcmRlci5UaGlyZC5jbGFzc30pCg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">cHJpdmF0ZSBzdGF0aWMgZmluYWwgVGhyZWFkTG9jYWw8UmVxdWVzdEF0dHJpYnV0ZXM+IGluaGVyaXRhYmxlUmVxdWVzdEF0dHJpYnV0ZXNIb2xkZXIgPQoJCQluZXcgTmFtZWRJbmhlcml0YWJsZVRocmVhZExvY2FsPFJlcXVlc3RBdHRyaWJ1dGVzPigiUmVxdWVzdCBjb250ZXh0Iik7</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBmbG9hdCBhID0gMS8wOwo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RP77yaIOWmguaenOaYr3RocmVhZGxvY2Fs5pa55byP6L+b6KGM57yT5a2Y77yM5paw5byA5LiA5LiqdGhyZWFk77yMdGhyZWFkbG9jYWzlupTor6XmmK/kuI3og73orr/pl67liLDnmoQK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1771,31 +1780,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSW5oZXJpdGFibGVUaHJlYWRMb2NhbAo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiAg5rWL6K+V5ZyocmVxdWVzdOS4reW8gOS4gOS4quaWsOeahHRocmVhZO+8jOe8k+WtmOaYr+WQpui/mOacieeUqO+8jAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBPcHRpb25hbC5vZih1c2VySWQpLgo=</text>
+        <text encoding="base64">ICAgICAgICA8L2RlcGVuZGVuY3k+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuc2hpcm8uc3ViamVjdC5TdWJqZWN0Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+MS40LjA8L3ZlcnNpb24+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuc2hpcm8uU2VjdXJpdHlVdGlsczsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGFydGlmYWN0SWQ+c2hpcm8tc3ByaW5nLWJvb3Qtd2ViLXN0YXJ0ZXI8L2FydGlmYWN0SWQ+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLmFwYWNoZS5zaGlybzwvZ3JvdXBJZD4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBSZXF1ZXN0Q29udGV4dEhvbGRlcgo=</text>
+        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBmbG9hdCBhID0gMS8wOwo=</text>
       </register>
-      <register name="9" type="4">
-        <text>SecurityUtils
-    static void ttt(){
-        SecurityUtils.getSubject().getPrincipal()
-    }</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgSW5oZXJpdGFibGVUaHJlYWRMb2NhbAo=</text>
       </register>
       <register name=":" type="4">
         <text>565</text>
