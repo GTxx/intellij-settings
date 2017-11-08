@@ -1537,11 +1537,11 @@
         <mark key="^" line="6" column="28" />
         <mark key="." line="6" column="28" />
       </file>
-      <file name="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/service/BaseService.java" timestamp="1510043401592">
-        <mark key="'" line="20" column="27" />
-        <mark key="[" line="640" column="0" />
-        <mark key="]" line="640" column="0" />
-        <mark key="." line="640" column="0" />
+      <file name="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/service/BaseService.java" timestamp="1510110852066">
+        <mark key="'" line="446" column="0" />
+        <mark key="[" line="446" column="0" />
+        <mark key="]" line="446" column="0" />
+        <mark key="." line="446" column="0" />
       </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-sys-setting/src/main/java/com/zifangdt/ch/syssetting/service/ContractStepDefService.java" timestamp="1509690661039">
         <mark key="'" line="102" column="29" />
@@ -1669,7 +1669,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="183" column="28" filename="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.10.RELEASE/spring-context-4.3.10.RELEASE-sources.jar!/org/springframework/cache/support/AbstractCacheManager.java" />
       <jump line="185" column="20" filename="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.10.RELEASE/spring-context-4.3.10.RELEASE-sources.jar!/org/springframework/cache/support/AbstractCacheManager.java" />
       <jump line="152" column="4" filename="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.10.RELEASE/spring-context-4.3.10.RELEASE-sources.jar!/org/springframework/cache/support/AbstractCacheManager.java" />
       <jump line="42" column="33" filename="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.10.RELEASE/spring-context-4.3.10.RELEASE-sources.jar!/org/springframework/cache/support/AbstractCacheManager.java" />
@@ -1769,10 +1768,11 @@
       <jump line="112" column="40" filename="/usr/lib/jvm/java-8-openjdk-amd64/src.zip!/java/lang/ThreadLocal.java" />
       <jump line="53" column="47" filename="/usr/lib/jvm/java-8-openjdk-amd64/src.zip!/java/lang/ThreadLocal.java" />
       <jump line="28" column="21" filename="$USER_HOME$/work/r-cache/src/main/java/testxx/RequestScopeCacheManager.java" />
+      <jump line="446" column="0" filename="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/service/BaseService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImluaXQgY2FjaGU6ICIgKyBjYWNoZU5hbWUpOwo=</text>
+        <text encoding="base64">ICAgICAgICBEZWZlcnJlZFJlc3VsdAo=</text>
       </register>
       <register name="-" type="4">
         <text>ConcurrentMapCache</text>
@@ -1784,7 +1784,7 @@
         <text encoding="base64">aW5oZXJpdGFibGVDYWNoZUhvbGRlciA9IG5ldyBOYW1lZEluaGVyaXRhYmxlVGhyZWFkTG9jYWw8TWFwPE9iamVjdCwgT2JqZWN0Pj4oImNhY2hlOiAiICsgY2FjaGVOYW1lKXsKICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgIHByb3RlY3RlZCBNYXA8T2JqZWN0LCBPYmplY3Q+IGluaXRpYWxWYWx1ZSgpIHsKICAgICAgICAgICAgICAgIHJldHVybiBuZXcgSGFzaE1hcDw+KCk7CiAgICAgICAgICAgIH0KICAgICAgICB9Ow==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImluaXQgY2FjaGU6ICIgKyBjYWNoZU5hbWUpOwo=</text>
+        <text encoding="base64">ICAgICAgICBEZWZlcnJlZFJlc3VsdAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1824,28 +1824,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGluaGVyaXRhYmxlQ2FjaGVIb2xkZXIgPSBOYW1lZEluaGVyaXRhYmxlVGhyZWFkTG9jYWwud2l0aEluaXRpYWwoSGFzaE1hcDo6bmV3KTsK</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImluaXQgY2FjaGU6ICIgKyBjYWNoZU5hbWUpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQK</text>
+        <text encoding="base64">Ly8gICAgICAgIGluaGVyaXRhYmxlQ2FjaGVIb2xkZXIgPSBOYW1lZEluaGVyaXRhYmxlVGhyZWFkTG9jYWwud2l0aEluaXRpYWwoSGFzaE1hcDo6bmV3KTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBUCg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDwvcHJvcGVydGllcz4K</text>
+        <text encoding="base64">ICAgIEBUCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDxwcm9wZXJ0aWVzPgo=</text>
+        <text encoding="base64">ICAgIDwvcHJvcGVydGllcz4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDxwcm9wZXJ0aWVzPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">QEltcG9ydChUZXN0V2ViQ29uZmlnLmNsYXNzKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>565</text>
