@@ -1117,11 +1117,12 @@
         <mark key="." line="2" column="38" />
         <mark key="^" line="2" column="38" />
       </file>
-      <file name="$USER_HOME$/work/ch-server/ch-server-market/src/main/resources/create_table.sql" timestamp="1510124819349">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="8" column="12" />
-        <mark key="^" line="8" column="12" />
-        <mark key="." line="8" column="12" />
+      <file name="$USER_HOME$/work/ch-server/ch-server-market/src/main/resources/create_table.sql" timestamp="1510131369863">
+        <mark key="'" line="39" column="17" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="39" column="17" />
+        <mark key="." line="39" column="17" />
+        <mark key="^" line="39" column="17" />
       </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/dto/BaseUserConfig.java" timestamp="1509006272779">
         <mark key="[" line="39" column="5" />
@@ -1402,7 +1403,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="61" column="17" filename="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.10.RELEASE/spring-context-4.3.10.RELEASE-sources.jar!/org/springframework/cache/support/AbstractValueAdaptingCache.java" />
       <jump line="74" column="30" filename="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.10.RELEASE/spring-context-4.3.10.RELEASE-sources.jar!/org/springframework/cache/support/AbstractValueAdaptingCache.java" />
       <jump line="83" column="17" filename="$USER_HOME$/workr/tcache/src/main/java/testxx/RequestScopeCache.java" />
       <jump line="437" column="34" filename="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/service/BaseService.java" />
@@ -1502,10 +1502,21 @@
       <jump line="220" column="25" filename="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.10.RELEASE/spring-context-4.3.10.RELEASE-sources.jar!/org/springframework/cache/concurrent/ConcurrentMapCache.java" />
       <jump line="213" column="29" filename="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.10.RELEASE/spring-context-4.3.10.RELEASE-sources.jar!/org/springframework/cache/concurrent/ConcurrentMapCache.java" />
       <jump line="210" column="21" filename="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.10.RELEASE/spring-context-4.3.10.RELEASE-sources.jar!/org/springframework/cache/concurrent/ConcurrentMapCache.java" />
+      <jump line="39" column="17" filename="$USER_HOME$/work/ch-server/ch-server-market/src/main/resources/create_table.sql" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>toStoreValue</text>
+        <text>CREATE TABLE promotion (
+  id BIGINT(20) NOT NULL AUTO_INCREMENT,
+  PRIMARY KEY(id),
+  create_id BIGINT(20) DEFAULT NULL,
+  create_time DATETIME DEFAULT CURRENT_TIMESTAMP,
+  modify_id BIGINT(20) DEFAULT NULL,
+  modify_time DATETIME DEFAULT NULL ON UPDATE CURRENT_TIMESTAMP,
+
+  name VARCHA
+
+  ) COMMENT '市场推广';</text>
       </register>
       <register name="-" type="4">
         <text>toStoreValue</text>
@@ -1516,8 +1527,18 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB0c2VydmljZS50ZXN0bnVsbHZhbHVlKDFsKTsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gdHNlcnZpY2UudXNlcigxKTsK</text>
+      <register name="1" type="4">
+        <text>CREATE TABLE promotion (
+  id BIGINT(20) NOT NULL AUTO_INCREMENT,
+  PRIMARY KEY(id),
+  create_id BIGINT(20) DEFAULT NULL,
+  create_time DATETIME DEFAULT CURRENT_TIMESTAMP,
+  modify_id BIGINT(20) DEFAULT NULL,
+  modify_time DATETIME DEFAULT NULL ON UPDATE CURRENT_TIMESTAMP,
+
+  name VARCHA
+
+  ) COMMENT '市场推广';</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1557,28 +1578,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gdHNlcnZpY2UudXNlcigxKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CTxwYWNrYWdpbmc+amFyPC9wYWNrYWdpbmc+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CTx2ZXJzaW9uPjAuMC4xLVNOQVBTSE9UPC92ZXJzaW9uPgo=</text>
+        <text encoding="base64">CTxwYWNrYWdpbmc+amFyPC9wYWNrYWdpbmc+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CTxncm91cElkPmNvbS56aWZhbmdkdC5jaDwvZ3JvdXBJZD4K</text>
+        <text encoding="base64">CTx2ZXJzaW9uPjAuMC4xLVNOQVBTSE9UPC92ZXJzaW9uPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CTxncm91cElkPmNvbS56aWZhbmdkdC5jaDwvZ3JvdXBJZD4K</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CTxkZXNjcmlwdGlvbj5EZW1vIHByb2plY3QgZm9yIFNwcmluZyBCb290PC9kZXNjcmlwdGlvbj4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CTxuYW1lPmNoLXNlcnZlci1tYXJrZXQ8L25hbWU+Cg==</text>
+        <text encoding="base64">CTxkZXNjcmlwdGlvbj5EZW1vIHByb2plY3QgZm9yIFNwcmluZyBCb290PC9kZXNjcmlwdGlvbj4K</text>
       </register>
       <register name=":" type="4">
         <text>565</text>
