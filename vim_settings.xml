@@ -1541,11 +1541,11 @@
         <mark key="^" line="6" column="28" />
         <mark key="." line="6" column="28" />
       </file>
-      <file name="$USER_HOME$/work/ch-server/ch-server-market/src/main/java/com/zifangdt/ch/market/service/PromotionService.java" timestamp="1510209514708">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="12" column="20" />
-        <mark key="^" line="12" column="20" />
-        <mark key="." line="12" column="20" />
+      <file name="$USER_HOME$/work/ch-server/ch-server-market/src/main/java/com/zifangdt/ch/market/service/PromotionService.java" timestamp="1510210820368">
+        <mark key="[" line="16" column="36" />
+        <mark key="]" line="16" column="36" />
+        <mark key="^" line="16" column="45" />
+        <mark key="." line="16" column="36" />
       </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-uaa/src/main/java/com/zifangdt/ch/uaa/mapper/UserMapper.java" timestamp="1508405016816">
         <mark key="[" line="18" column="41" />
@@ -1768,10 +1768,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>PromotionTypeEnum</text>
+        <text>Promotions</text>
       </register>
       <register name="-" type="4">
-        <text>PromotionTypeEnum</text>
+        <text>Promotions</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmcm9tU3RvcmVWYWx1ZVw+</text>
