@@ -292,6 +292,9 @@
         <mark key="^" line="17" column="38" />
         <mark key="." line="17" column="38" />
       </file>
+      <file name="$USER_HOME$/work/ch-server/ch-server-market/src/main/java/com/zifangdt/ch/MarketApplication.java" timestamp="1510285242533">
+        <mark key="[" line="17" column="1" />
+      </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-contract/src/main/java/com/zifangdt/ch/contract/api/UaaServerApi.java" timestamp="1509690075158">
         <mark key="[" line="27" column="4" />
         <mark key="]" line="28" column="129" />
@@ -848,11 +851,10 @@
         <mark key="^" line="17" column="72" />
         <mark key="." line="17" column="72" />
       </file>
-      <file name="$USER_HOME$/work/ch-server/ch-server-market/src/main/kotlin/bo.kt" timestamp="1510285171275">
-        <mark key="[" line="6" column="35" />
-        <mark key="]" line="6" column="35" />
-        <mark key="." line="6" column="35" />
-        <mark key="^" line="6" column="35" />
+      <file name="$USER_HOME$/work/ch-server/ch-server-market/src/main/kotlin/bo.kt" timestamp="1510285239484">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-sys-setting/src/main/java/com/zifangdt/ch/syssetting/CachingConfig.java" timestamp="1509525248758">
         <mark key="[" line="15" column="40" />
@@ -926,6 +928,12 @@
         <mark key="]" line="2" column="0" />
         <mark key="^" line="18" column="55" />
         <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/ch-server/ch-server-market/src/main/java/com/zifangdt/ch/market/bo/T.java" timestamp="1510285191383">
+        <mark key="[" line="3" column="1" />
+        <mark key="]" line="8" column="22" />
+        <mark key="^" line="8" column="22" />
+        <mark key="." line="8" column="22" />
       </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/dto/contract/setting/ContractStepDefinition.java" timestamp="1508297308889">
         <mark key="[" line="10" column="61" />
@@ -1641,7 +1649,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/draft</text>
+        <text encoding="base64">ZGF0YSBjbGFzcyBQcm9tb3Rpb25EcmFmdENyZWF0ZUJvICgKICAgICAgICB2YWwgbmFtZTogU3RyaW5nPywKICAgICAgICB2YWwgdHlwZTogU3RyaW5nPywKICAgICAgICB2YWwga2V5czogTGlzdDxTdHJpbmc+LAogICAgICAgIHZhbCB1c2VyT3JnYXM6IExpc3Q8VXNlck9yZ2E+Cik=</text>
       </register>
       <register name="-" type="4">
         <text>/draft</text>
@@ -1652,8 +1660,8 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBuZXcgU3ByaW5nQXBwbGljYXRpb25CdWlsZGVyKFByb2R1Y3RBcHBsaWNhdGlvbi5jbGFzcykud2ViKHRydWUpLnJ1bihhcmdzKTsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS56aWZhbmdkdC5jaC5tYXJrZXQuYm8uUHJvbW90aW9uRHJhZnRDcmVhdGVCbzsK</text>
+      <register name="1" type="4">
+        <text encoding="base64">ZGF0YSBjbGFzcyBQcm9tb3Rpb25EcmFmdENyZWF0ZUJvICgKICAgICAgICB2YWwgbmFtZTogU3RyaW5nPywKICAgICAgICB2YWwgdHlwZTogU3RyaW5nPywKICAgICAgICB2YWwga2V5czogTGlzdDxTdHJpbmc+LAogICAgICAgIHZhbCB1c2VyT3JnYXM6IExpc3Q8VXNlck9yZ2E+Cik=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1693,28 +1701,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIFByb21vdGlvbgo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS56aWZhbmdkdC5jaC5tYXJrZXQuYm8uUHJvbW90aW9uRHJhZnRDcmVhdGVCbzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
+        <text encoding="base64">ICAgIFByb21vdGlvbgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS56aWZhbmdkdC5jaC5tYXJrZXQuUHJvbW90aW9uUXVlcnlCbzE7Cg==</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">aW1wb3J0IGNvbS56aWZhbmdkdC5jaC5tYXJrZXQuUHJvbW90aW9uUXVlcnlCbzE7Cg==</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS56aWZhbmdkdC5jaC5tYXJrZXQuUHJvbW90aW9uUXVlcnlCbzE7Cg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICA8ZGVzY3JpcHRpb24+6IiS6YCC5a625bGF57O757uf6K6+572uPC9kZXNjcmlwdGlvbj4K</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">Cgk8cHJvcGVydGllcz4KCQk8a290bGluLnZlcnNpb24+MS4xLjUxPC9rb3RsaW4udmVyc2lvbj4KCTwvcHJvcGVydGllcz4KCgk8cGFyZW50PgoJCTxncm91cElkPmNvbS56aWZhbmdkdC5jaDwvZ3JvdXBJZD4KCQk8YXJ0aWZhY3RJZD5jaC1zZXJ2ZXItcGFyZW50PC9hcnRpZmFjdElkPgoJCTx2ZXJzaW9uPjEuMC4wPC92ZXJzaW9uPgoJCTxyZWxhdGl2ZVBhdGg+Li4vY2gtc2VydmVyLXBhcmVudC9wb20ueG1sPC9yZWxhdGl2ZVBhdGg+Cgk8L3BhcmVudD4KCgk8ZGVwZW5kZW5jaWVzPgoJCTxkZXBlbmRlbmN5PgoJCQk8Z3JvdXBJZD5jb20uemlmYW5nZHQuY2g8L2dyb3VwSWQ+CgkJCTxhcnRpZmFjdElkPmNoLXNlcnZlci1iYXNlPC9hcnRpZmFjdElkPgoJCTwvZGVwZW5kZW5jeT4KCTwvZGVwZW5kZW5jaWVzPgoKCTxidWlsZD4KCQk8cGx1Z2lucz4KCQkJPHBsdWdpbj4KCQkJCTxncm91cElkPm9yZy5zcHJpbmdmcmFtZXdvcmsuYm9vdDwvZ3JvdXBJZD4KCQkJCTxhcnRpZmFjdElkPnNwcmluZy1ib290LW1hdmVuLXBsdWdpbjwvYXJ0aWZhY3RJZD4KCQkJPC9wbHVnaW4+CgkJPC9wbHVnaW5zPgoJPC9idWlsZD4KPC9wcm9qZWN0Pg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS56aWZhbmdkdC5jaC5tYXJrZXQuUHJvbW90aW9uRHJhZnRDcmVhdGVCbzE7Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS56aWZhbmdkdC5jaC5tYXJrZXQuUHJvbW90aW9uRHJhZnRDcmVhdGVCbzE7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>565</text>
