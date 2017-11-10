@@ -830,6 +830,11 @@
         <mark key="." line="3" column="86" />
         <mark key="^" line="3" column="86" />
       </file>
+      <file name="$USER_HOME$/work/ch-server/ch-server-market/src/main/java/com/zifangdt/ch/market/bo/PromotionDraftCreateBo.java" timestamp="1510284132358">
+        <mark key="[" line="2" column="13" />
+        <mark key="]" line="2" column="13" />
+        <mark key="." line="2" column="13" />
+      </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-market/src/main/kotlin/com/zifangdt/ch/market/PromotionCreateBo.kt" timestamp="1510216397531">
         <mark key="[" line="2" column="30" />
         <mark key="]" line="2" column="28" />
@@ -957,6 +962,12 @@
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/ch-server/ch-server-market/src/main/kotlin/bo.kt" timestamp="1510284113464">
+        <mark key="[" line="6" column="35" />
+        <mark key="]" line="6" column="35" />
+        <mark key="." line="6" column="35" />
+        <mark key="^" line="6" column="35" />
       </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-sys-setting/src/main/java/com/zifangdt/ch/syssetting/CachingConfig.java" timestamp="1509525248758">
         <mark key="[" line="15" column="40" />
@@ -1727,10 +1738,10 @@
         <mark key="^" line="7" column="59" />
         <mark key="." line="7" column="59" />
       </file>
-      <file name="$USER_HOME$/work/ch-server/ch-server-market/src/main/java/com/zifangdt/ch/market/web/PromotionController.java" timestamp="1510220261487">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
+      <file name="$USER_HOME$/work/ch-server/ch-server-market/src/main/java/com/zifangdt/ch/market/web/PromotionController.java" timestamp="1510284127491">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-market/src/main/resources/bootstrap.yaml" timestamp="1510216490519">
         <mark key="[" line="20" column="0" />
@@ -1854,10 +1865,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ProductApplication</text>
+        <text>P</text>
       </register>
       <register name="-" type="4">
-        <text>ProductApplication</text>
+        <text>P</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtYXJrZXRcPg==</text>
@@ -1866,7 +1877,7 @@
         <text encoding="base64">ICAgICAgICBuZXcgU3ByaW5nQXBwbGljYXRpb25CdWlsZGVyKFByb2R1Y3RBcHBsaWNhdGlvbi5jbGFzcykud2ViKHRydWUpLnJ1bihhcmdzKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIFByb21vdGlvbgo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS56aWZhbmdkdC5jaC5tYXJrZXQuYm8uUHJvbW90aW9uRHJhZnRDcmVhdGVCbzsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1906,28 +1917,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
+        <text encoding="base64">ICAgIFByb21vdGlvbgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS56aWZhbmdkdC5jaC5tYXJrZXQuUHJvbW90aW9uUXVlcnlCbzE7Cg==</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">aW1wb3J0IGNvbS56aWZhbmdkdC5jaC5tYXJrZXQuUHJvbW90aW9uUXVlcnlCbzE7Cg==</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS56aWZhbmdkdC5jaC5tYXJrZXQuUHJvbW90aW9uUXVlcnlCbzE7Cg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICA8ZGVzY3JpcHRpb24+6IiS6YCC5a625bGF57O757uf6K6+572uPC9kZXNjcmlwdGlvbj4K</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">Cgk8cHJvcGVydGllcz4KCQk8a290bGluLnZlcnNpb24+MS4xLjUxPC9rb3RsaW4udmVyc2lvbj4KCTwvcHJvcGVydGllcz4KCgk8cGFyZW50PgoJCTxncm91cElkPmNvbS56aWZhbmdkdC5jaDwvZ3JvdXBJZD4KCQk8YXJ0aWZhY3RJZD5jaC1zZXJ2ZXItcGFyZW50PC9hcnRpZmFjdElkPgoJCTx2ZXJzaW9uPjEuMC4wPC92ZXJzaW9uPgoJCTxyZWxhdGl2ZVBhdGg+Li4vY2gtc2VydmVyLXBhcmVudC9wb20ueG1sPC9yZWxhdGl2ZVBhdGg+Cgk8L3BhcmVudD4KCgk8ZGVwZW5kZW5jaWVzPgoJCTxkZXBlbmRlbmN5PgoJCQk8Z3JvdXBJZD5jb20uemlmYW5nZHQuY2g8L2dyb3VwSWQ+CgkJCTxhcnRpZmFjdElkPmNoLXNlcnZlci1iYXNlPC9hcnRpZmFjdElkPgoJCTwvZGVwZW5kZW5jeT4KCTwvZGVwZW5kZW5jaWVzPgoKCTxidWlsZD4KCQk8cGx1Z2lucz4KCQkJPHBsdWdpbj4KCQkJCTxncm91cElkPm9yZy5zcHJpbmdmcmFtZXdvcmsuYm9vdDwvZ3JvdXBJZD4KCQkJCTxhcnRpZmFjdElkPnNwcmluZy1ib290LW1hdmVuLXBsdWdpbjwvYXJ0aWZhY3RJZD4KCQkJPC9wbHVnaW4+CgkJPC9wbHVnaW5zPgoJPC9idWlsZD4KPC9wcm9qZWN0Pg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">aW1wb3J0IGNvbS56aWZhbmdkdC5jaC5tYXJrZXQuUHJvbW90aW9uRHJhZnRDcmVhdGVCbzE7Cg==</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">CQkK</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">PCEtLTxkZXBlbmRlbmN5Pi0tPgoJCQk8IS0tPGdyb3VwSWQ+b3JnLmpldGJyYWlucy5rb3RsaW48L2dyb3VwSWQ+LS0+CgkJCTwhLS08YXJ0aWZhY3RJZD5rb3RsaW4tc3RkbGliLWpyZTg8L2FydGlmYWN0SWQ+LS0+CgkJCTwhLS08dmVyc2lvbj4ke2tvdGxpbi52ZXJzaW9ufTwvdmVyc2lvbj4tLT4KCQk8IS0tPC9kZXBlbmRlbmN5Pi0tPgoJCTwhLS08ZGVwZW5kZW5jeT4tLT4KCQkJPCEtLTxncm91cElkPm9yZy5qZXRicmFpbnMua290bGluPC9ncm91cElkPi0tPgoJCQk8IS0tPGFydGlmYWN0SWQ+a290bGluLXRlc3Q8L2FydGlmYWN0SWQ+LS0+CgkJCTwhLS08dmVyc2lvbj4ke2tvdGxpbi52ZXJzaW9ufTwvdmVyc2lvbj4tLT4KCQkJPCEtLTxzY29wZT50ZXN0PC9zY29wZT4tLT4KCQk8IS0tPC9kZXBlbmRlbmN5Pi0tPg==</text>
       </register>
       <register name=":" type="4">
         <text>565</text>
