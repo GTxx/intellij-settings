@@ -891,7 +891,7 @@
         <mark key="." line="0" column="49" />
         <mark key="^" line="0" column="49" />
       </file>
-      <file name="/fragment.java" timestamp="1510554258335">
+      <file name="/fragment.java" timestamp="1510558317354">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="12" />
@@ -1661,12 +1661,12 @@
       <file name="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/service/BaseService.java" timestamp="1510554315504">
         <mark key="'" line="438" column="30" />
       </file>
-      <file name="$USER_HOME$/work/ch-server/ch-server-market/src/main/java/com/zifangdt/ch/market/service/PromotionService.java" timestamp="1510556766114">
-        <mark key="'" line="187" column="29" />
-        <mark key="[" line="210" column="5" />
-        <mark key="]" line="149" column="24" />
-        <mark key="." line="149" column="24" />
-        <mark key="^" line="149" column="24" />
+      <file name="$USER_HOME$/work/ch-server/ch-server-market/src/main/java/com/zifangdt/ch/market/service/PromotionService.java" timestamp="1510557969693">
+        <mark key="'" line="174" column="0" />
+        <mark key="[" line="213" column="16" />
+        <mark key="]" line="213" column="18" />
+        <mark key="." line="213" column="18" />
+        <mark key="^" line="213" column="18" />
       </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-uaa/src/main/java/com/zifangdt/ch/uaa/mapper/UserMapper.java" timestamp="1508405016816">
         <mark key="[" line="18" column="41" />
@@ -1788,12 +1788,12 @@
         <mark key="^" line="7" column="59" />
         <mark key="." line="7" column="59" />
       </file>
-      <file name="$USER_HOME$/work/ch-server/ch-server-market/src/main/java/com/zifangdt/ch/market/web/PromotionController.java" timestamp="1510555477173">
-        <mark key="'" line="32" column="34" />
-        <mark key="[" line="30" column="3" />
-        <mark key="]" line="33" column="4" />
-        <mark key="^" line="81" column="49" />
-        <mark key="." line="81" column="49" />
+      <file name="$USER_HOME$/work/ch-server/ch-server-market/src/main/java/com/zifangdt/ch/market/web/PromotionController.java" timestamp="1510557983563">
+        <mark key="'" line="33" column="34" />
+        <mark key="[" line="87" column="33" />
+        <mark key="]" line="87" column="66" />
+        <mark key="^" line="87" column="66" />
+        <mark key="." line="87" column="66" />
       </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-market/src/main/resources/bootstrap.yaml" timestamp="1510216490519">
         <mark key="[" line="20" column="0" />
@@ -1820,10 +1820,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="96" column="8" filename="$USER_HOME$/work/ch-server/ch-server-sys-setting/src/main/java/com/zifangdt/ch/syssetting/service/StepDefService.java" />
-      <jump line="39" column="0" filename="$USER_HOME$/work/ch-server/ch-server-sys-setting/src/main/java/com/zifangdt/ch/syssetting/service/StepDefService.java" />
-      <jump line="81" column="54" filename="$USER_HOME$/work/ch-server/ch-server-contract/src/main/java/com/zifangdt/ch/contract/service/setting/ContractStepDefService.java" />
-      <jump line="273" column="12" filename="$USER_HOME$/work/ch-server/ch-server-uaa/src/main/java/com/zifangdt/ch/uaa/service/UserService.java" />
       <jump line="29" column="12" filename="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/web/FetchHeaderInterceptor.java" />
       <jump line="3" column="33" filename="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/web/FetchHeaderInterceptor.java" />
       <jump line="66" column="25" filename="/usr/lib/jvm/java-8-openjdk-amd64/src.zip!/java/util/function/Predicate.java" />
@@ -1920,22 +1916,26 @@
       <jump line="0" column="0" filename="$USER_HOME$/work/ch-server/ch-server-market/src/main/java/com/zifangdt/ch/market/service/PromotionService.java" />
       <jump line="204" column="0" filename="$USER_HOME$/work/ch-server/ch-server-market/src/main/java/com/zifangdt/ch/market/service/PromotionService.java" />
       <jump line="183" column="29" filename="$USER_HOME$/work/ch-server/ch-server-market/src/main/java/com/zifangdt/ch/market/service/PromotionService.java" />
+      <jump line="150" column="16" filename="$USER_HOME$/work/ch-server/ch-server-market/src/main/java/com/zifangdt/ch/market/service/PromotionService.java" />
+      <jump line="215" column="18" filename="$USER_HOME$/work/ch-server/ch-server-market/src/main/java/com/zifangdt/ch/market/service/PromotionService.java" />
+      <jump line="149" column="21" filename="$USER_HOME$/work/ch-server/ch-server-market/src/main/java/com/zifangdt/ch/market/service/PromotionService.java" />
+      <jump line="174" column="0" filename="$USER_HOME$/work/ch-server/ch-server-market/src/main/java/com/zifangdt/ch/market/service/PromotionService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>uaaServerApiForSetting.getDetail(uo.userId.toString(), &quot;id&quot;).getUsername();</text>
+        <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>uaaServerApiForSetting.getDetail(uo.userId.toString(), &quot;id&quot;).getUsername();</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx1c2VybmFtZVw+</text>
+        <text encoding="base64">XDx1c2VySWRzXD4=</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">IHN0YXRpYyBmaW5hbCBPYmplY3RNYXBwZXIgbWFwcGVyID0gbmV3IE9iamVjdE1hcHBlcigpOwogICAgc3RhdGljIHsKICAgICAgICBtYXBwZXIuc2V0U2VyaWFsaXphdGlvbkluY2x1c2lvbihKc29uSW5jbHVkZS5JbmNsdWRlLk5PTl9OVUxMKTsKICAgIH0=</text>
+        <text encoding="base64">aWYgKHVzZXJPcmdhLmlzVXNlcikgewogICAgICAgICAgICAgICAgICAgIHVzZXJJZHMuYWRkKHVzZXJPcmdhLnVzZXJJZCk7CiAgICAgICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgICAgIExpc3Q8TG9uZz4gdXNlcklkczEgPSB1YWFTZXJ2ZXJBcGlGb3JTZXR0aW5nLmdldFdpdGhVc2VyKHVzZXJPcmdhLm9yZ2FJZCk7CiAgICAgICAgICAgICAgICAgICAgdXNlcklkcy5hZGRBbGwodXNlcklkczEpOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgICAgIHVzZXJJZHMuZm9yRWFjaCh1c2VySWQgLT4gewogICAgICAgICAgICAgICAgUHJvbW90aW9uQWZmaWxpYXRlIHBhID0gbmV3IFByb21vdGlvbkFmZmlsaWF0ZSgpOwogICAgICAgICAgICAgICAgcGEuc2V0VXNlcklkKHVzZXJJZCk7CiAgICAgICAgICAgICAgICBwYS5zZXRQcm9tb3Rpb25JZChwcm9tb3Rpb24uZ2V0SWQoKSk7CiAgICAgICAgICAgICAgICBwcm9tb3Rpb25BZmZpbGlhdGVTZXJ2aWNlLnNhdmUocGEpOwogICAgICAgICAgICB9KTs=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBmZXRjaFVzZXJOYW1lcyhiby5nZXRVc2VyT3JnYXMoKS5zdHJlYW0oKS4pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1975,37 +1975,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgY29udGVudCA9IG51bGw7Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBmZXRjaFVzZXJOYW1lcyhiby5nZXRVc2VyT3JnYXMoKS5zdHJlYW0oKS4pOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9IGNhdGNoIHsK</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgY29udGVudCA9IG51bGw7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29udGVudCA9IG1hcHBlci53cml0ZVZhbHVlQXNTdHJpbmcoYm8pOwo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgIExpc3Q8VXNlck9yZ2E+Cg==</text>
+        <text encoding="base64">ICAgICAgICB9IGNhdGNoIHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB1c2VyT3JnYS51c2VybmFtZSA9IHVhYVNlcnZlckFwaUZvclNldHRpbmcuZ2V0RGV0YWlsKC51c2VySWQudG9TdHJpbmcoKSwgImlkIikuZ2V0VXNlcm5hbWUoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29udGVudCA9IG1hcHBlci53cml0ZVZhbHVlQXNTdHJpbmcoYm8pOwo=</text>
       </register>
       <register name=":" type="4">
         <text>565</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx1c2VybmFtZVw+</last-search>
+      <last-search encoding="base64">XDx1c2VySWRzXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx1c2VybmFtZVw+</last-pattern>
+      <last-pattern encoding="base64">XDx1c2VySWRzXD4=</last-pattern>
       <last-replace>cfg</last-replace>
       <last-substitute encoding="base64">XDxtYXJrZXRcPg==</last-substitute>
       <last-dir>-1</last-dir>
@@ -2013,7 +2013,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxTdXBwbGllZFRocmVhZExvY2FsXD4=</entry>
         <entry encoding="base64">XDxBcHBsaWNhdGlvbkNvbnRleHRcPg==</entry>
         <entry encoding="base64">XDxjb250ZXh0XD4=</entry>
         <entry encoding="base64">XDxjYWNoZVw+</entry>
@@ -2033,6 +2032,7 @@
         <entry encoding="base64">XDxmZXRjaFVzZXJGcm9tUmVtb3RlXD4=</entry>
         <entry encoding="base64">XDxnZXREZXRhaWxcPg==</entry>
         <entry encoding="base64">XDx1c2VybmFtZVw+</entry>
+        <entry encoding="base64">XDx1c2VySWRzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>s/crm/cfg/g</entry>
