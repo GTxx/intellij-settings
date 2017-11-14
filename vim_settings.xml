@@ -86,6 +86,12 @@
         <mark key="^" line="30" column="8" />
         <mark key="." line="30" column="8" />
       </file>
+      <file name="$USER_HOME$/work/ch-server/ch-server-market/src/main/java/com/zifangdt/ch/market/util/components/Html.java" timestamp="1510625207792">
+        <mark key="[" line="2" column="19" />
+        <mark key="]" line="3" column="26" />
+        <mark key="^" line="3" column="26" />
+        <mark key="." line="3" column="26" />
+      </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-customer/src/main/java/com/zifangdt/ch/customer/mapper/CellAddressMapper.java" timestamp="1508899542070">
         <mark key="[" line="6" column="4" />
         <mark key="]" line="6" column="4" />
@@ -163,7 +169,6 @@
         <mark key="^" line="97" column="31" />
         <mark key="." line="35" column="0" />
       </file>
-      <file name="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/config/WebConfig.java" timestamp="1510219860737" />
       <file name="$USER_HOME$/work/ch-server/ch-server-customer/src/main/resources/mapper/CellAddressMapper.xml" timestamp="1508899562543">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
@@ -256,6 +261,12 @@
         <mark key="]" line="41" column="47" />
         <mark key="." line="41" column="47" />
         <mark key="^" line="41" column="47" />
+      </file>
+      <file name="$USER_HOME$/work/ch-server/ch-server-market/src/main/java/com/zifangdt/ch/market/util/components/Input.java" timestamp="1510625176123">
+        <mark key="[" line="3" column="25" />
+        <mark key="]" line="4" column="26" />
+        <mark key="^" line="4" column="26" />
+        <mark key="." line="4" column="26" />
       </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/dto/market/PromotionUserOrga.java" timestamp="1510300258853">
         <mark key="[" line="9" column="0" />
@@ -553,7 +564,6 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="50" column="19" />
       </file>
-      <file name="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/validation/DataEnumValue.java" timestamp="1510294072442" />
       <file name="$USER_HOME$/work/ch-server/ch-server-contract/src/main/resources/mapper/setting/ContractStepDefinitionMapper.xml" timestamp="1508244952822">
         <mark key="[" line="32" column="52" />
         <mark key="]" line="32" column="51" />
@@ -832,6 +842,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/work/ch-server/ch-server-market/src/main/java/com/zifangdt/ch/market/util/components/Img.java" timestamp="1510625194017">
+        <mark key="[" line="2" column="18" />
+        <mark key="]" line="3" column="22" />
+        <mark key="^" line="3" column="22" />
+        <mark key="." line="3" column="22" />
+      </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/util/requestcache/AbstractCachingConfig.java" timestamp="1510024714487">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -1072,6 +1088,9 @@
         <mark key="]" line="8" column="22" />
         <mark key="^" line="8" column="22" />
         <mark key="." line="8" column="22" />
+      </file>
+      <file name="editor.xml" timestamp="1510565379132">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-contract/src/main/java/com/zifangdt/ch/contract/validation/MobileNumberValidator.java" timestamp="1508233326038">
         <mark key="[" line="11" column="13" />
@@ -1517,7 +1536,6 @@
         <mark key="^" line="65" column="48" />
         <mark key="." line="65" column="48" />
       </file>
-      <file name="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/converter/CustomBeanSerializerModifier.java" timestamp="1510553788252" />
       <file name="$USER_HOME$/workr/tcache/src/main/java/testxx/App.java" timestamp="1509521249263">
         <mark key="[" line="6" column="12" />
         <mark key="]" line="6" column="21" />
