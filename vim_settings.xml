@@ -1581,12 +1581,12 @@
         <mark key="^" line="7" column="59" />
         <mark key="." line="7" column="59" />
       </file>
-      <file name="$USER_HOME$/work/ch-server/ch-server-market/src/main/java/com/zifangdt/ch/market/web/PromotionController.java" timestamp="1510640566236">
+      <file name="$USER_HOME$/work/ch-server/ch-server-market/src/main/java/com/zifangdt/ch/market/web/PromotionController.java" timestamp="1510643869232">
         <mark key="'" line="33" column="34" />
-        <mark key="[" line="87" column="33" />
-        <mark key="]" line="87" column="66" />
-        <mark key="^" line="87" column="66" />
-        <mark key="." line="87" column="66" />
+        <mark key="[" line="91" column="71" />
+        <mark key="]" line="93" column="7" />
+        <mark key="^" line="93" column="7" />
+        <mark key="." line="93" column="7" />
       </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/dto/market/PromotionAffiliate.java" timestamp="1510545028980">
         <mark key="[" line="10" column="0" />
@@ -1711,10 +1711,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IElPRXhjZXB0aW9u</text>
+        <text>d</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IElPRXhjZXB0aW9u</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxQcm9tb3Rpb25Cb1w+</text>
