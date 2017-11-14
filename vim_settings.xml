@@ -730,11 +730,11 @@
         <mark key="^" line="22" column="55" />
         <mark key="." line="22" column="55" />
       </file>
-      <file name="$USER_HOME$/work/ch-server/ch-server-market/src/main/resources/mapper/PromotionAffiliateMapper.xml" timestamp="1510545173982">
-        <mark key="[" line="19" column="33" />
-        <mark key="]" line="23" column="31" />
-        <mark key="." line="23" column="31" />
-        <mark key="^" line="23" column="31" />
+      <file name="$USER_HOME$/work/ch-server/ch-server-market/src/main/resources/mapper/PromotionAffiliateMapper.xml" timestamp="1510645246416">
+        <mark key="[" line="27" column="39" />
+        <mark key="]" line="29" column="67" />
+        <mark key="." line="29" column="67" />
+        <mark key="^" line="29" column="67" />
       </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/service/ChoiceConfigService.java" timestamp="1508981790436">
         <mark key="[" line="3" column="13" />
@@ -857,11 +857,11 @@
         <mark key="^" line="7" column="103" />
         <mark key="." line="7" column="103" />
       </file>
-      <file name="$USER_HOME$/work/ch-server/ch-server-market/src/main/java/com/zifangdt/ch/market/mapper/PromotionAffiliateMapper.java" timestamp="1510545122288">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="^" line="8" column="45" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/work/ch-server/ch-server-market/src/main/java/com/zifangdt/ch/market/mapper/PromotionAffiliateMapper.java" timestamp="1510645187101">
+        <mark key="[" line="9" column="56" />
+        <mark key="]" line="10" column="115" />
+        <mark key="^" line="10" column="115" />
+        <mark key="." line="10" column="115" />
       </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-contract/src/main/resources/mapper/setting/UserOrgaMapper.xml" timestamp="1508295227910">
         <mark key="[" line="23" column="10" />
@@ -1483,12 +1483,12 @@
       <file name="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/service/BaseService.java" timestamp="1510554315504">
         <mark key="'" line="438" column="30" />
       </file>
-      <file name="$USER_HOME$/work/ch-server/ch-server-market/src/main/java/com/zifangdt/ch/market/service/PromotionService.java" timestamp="1510642069330">
+      <file name="$USER_HOME$/work/ch-server/ch-server-market/src/main/java/com/zifangdt/ch/market/service/PromotionService.java" timestamp="1510645786202">
         <mark key="'" line="203" column="11" />
-        <mark key="[" line="185" column="103" />
-        <mark key="]" line="185" column="102" />
-        <mark key="." line="185" column="102" />
-        <mark key="^" line="185" column="102" />
+        <mark key="[" line="240" column="12" />
+        <mark key="]" line="240" column="32" />
+        <mark key="." line="240" column="32" />
+        <mark key="^" line="240" column="32" />
       </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-uaa/src/main/java/com/zifangdt/ch/uaa/mapper/UserMapper.java" timestamp="1508405016816">
         <mark key="[" line="18" column="41" />
@@ -1581,12 +1581,12 @@
         <mark key="^" line="7" column="59" />
         <mark key="." line="7" column="59" />
       </file>
-      <file name="$USER_HOME$/work/ch-server/ch-server-market/src/main/java/com/zifangdt/ch/market/web/PromotionController.java" timestamp="1510643869232">
-        <mark key="'" line="33" column="34" />
-        <mark key="[" line="91" column="71" />
-        <mark key="]" line="93" column="7" />
-        <mark key="^" line="93" column="7" />
-        <mark key="." line="93" column="7" />
+      <file name="$USER_HOME$/work/ch-server/ch-server-market/src/main/java/com/zifangdt/ch/market/web/PromotionController.java" timestamp="1510645416246">
+        <mark key="'" line="94" column="7" />
+        <mark key="[" line="92" column="4" />
+        <mark key="]" line="92" column="17" />
+        <mark key="^" line="92" column="17" />
+        <mark key="." line="92" column="17" />
       </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/dto/market/PromotionAffiliate.java" timestamp="1510545028980">
         <mark key="[" line="10" column="0" />
@@ -1608,7 +1608,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="36" filename="/usr/lib/jvm/java-8-openjdk-amd64/src.zip!/java/util/function/Predicate.java" />
       <jump line="101" column="12" filename="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.10.RELEASE/spring-web-4.3.10.RELEASE-sources.jar!/org/springframework/web/filter/RequestContextFilter.java" />
       <jump line="26" column="35" filename="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/config/WebConfig.java" />
       <jump line="30" column="32" filename="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/config/WebConfig.java" />
@@ -1708,13 +1707,14 @@
       <jump line="203" column="8" filename="$USER_HOME$/work/ch-server/ch-server-market/src/main/java/com/zifangdt/ch/market/service/PromotionService.java" />
       <jump line="79" column="42" filename="$USER_HOME$/work/ch-server/ch-server-market/src/main/java/com/zifangdt/ch/market/service/PromotionService.java" />
       <jump line="200" column="11" filename="$USER_HOME$/work/ch-server/ch-server-market/src/main/java/com/zifangdt/ch/market/service/PromotionService.java" />
+      <jump line="93" column="7" filename="$USER_HOME$/work/ch-server/ch-server-market/src/main/java/com/zifangdt/ch/market/web/PromotionController.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>d</text>
+        <text>void</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>void</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxQcm9tb3Rpb25Cb1w+</text>
@@ -1723,7 +1723,7 @@
         <text encoding="base64">PHNxbCBpZD0iQmxvYl9Db2x1bW5fTGlzdCI+CiAgICBwZC5jb250ZW50IGFzIHBkX2NvbnRlbnQKICA8L3NxbD4=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBiby4K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1763,28 +1763,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIGNvbXBvbmVudAo=</text>
+        <text encoding="base64">ICAgICAgICBiby4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDxyZXN1bHQgY29sdW1uPSJwZF9jb250ZW50IiBqZGJjVHlwZT0iTE9OR1ZBUkNIQVIiIHByb3BlcnR5PSJjb250ZW50IiAvPgo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIGNvbXBvbmVudAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDxyZXN1bHQgY29sdW1uPSJwX2NvbXBvbmVudHMiIGpkYmNUeXBlPSJMT05HVkFSQ0hBUiIgcHJvcGVydHk9ImNvbXBvbmVudHMiIC8+Cg==</text>
+        <text encoding="base64">ICAgIDxyZXN1bHQgY29sdW1uPSJwZF9jb250ZW50IiBqZGJjVHlwZT0iTE9OR1ZBUkNIQVIiIHByb3BlcnR5PSJjb250ZW50IiAvPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDxyZXN1bHQgY29sdW1uPSJwX2NvbXBvbmVudHMiIGpkYmNUeXBlPSJMT05HVkFSQ0hBUiIgcHJvcGVydHk9ImNvbXBvbmVudHMiIC8+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBmZXRjaFVzZXJOYW1lcyhiby5nZXRVc2VyT3JnYXMoKS5zdHJlYW0oKS4pOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgY29udGVudCA9IG51bGw7Cg==</text>
+        <text encoding="base64">ICAgICAgICBmZXRjaFVzZXJOYW1lcyhiby5nZXRVc2VyT3JnYXMoKS5zdHJlYW0oKS4pOwo=</text>
       </register>
       <register name=":" type="4">
         <text>565</text>
