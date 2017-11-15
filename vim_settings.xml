@@ -1059,11 +1059,11 @@
         <mark key="^" line="6" column="36" />
         <mark key="." line="6" column="36" />
       </file>
-      <file name="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/dto/market/PromotionJoin.java" timestamp="1510711933809">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="14" column="17" />
-        <mark key="^" line="14" column="17" />
-        <mark key="." line="14" column="17" />
+      <file name="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/dto/market/PromotionJoin.java" timestamp="1510714087966">
+        <mark key="[" line="23" column="33" />
+        <mark key="]" line="24" column="3" />
+        <mark key="^" line="24" column="3" />
+        <mark key="." line="24" column="3" />
       </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-sys-setting/src/main/resources/mbg.properties" timestamp="1509083107690">
         <mark key="[" line="2" column="24" />
@@ -1767,11 +1767,11 @@
         <mark key="." line="8" column="11" />
         <mark key="^" line="8" column="11" />
       </file>
-      <file name="$USER_HOME$/work/ch-server/ch-server-market/src/main/resources/mapper/PromotionJoinMapper.xml" timestamp="1510713910051">
-        <mark key="[" line="24" column="38" />
-        <mark key="]" line="24" column="52" />
-        <mark key="." line="24" column="52" />
-        <mark key="^" line="24" column="52" />
+      <file name="$USER_HOME$/work/ch-server/ch-server-market/src/main/resources/mapper/PromotionJoinMapper.xml" timestamp="1510714143963">
+        <mark key="[" line="14" column="46" />
+        <mark key="]" line="14" column="36" />
+        <mark key="." line="14" column="36" />
+        <mark key="^" line="14" column="36" />
       </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-parent/pom.xml" timestamp="1510220153138">
         <mark key="'" line="182" column="9" />
