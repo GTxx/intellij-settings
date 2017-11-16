@@ -21,6 +21,9 @@
         <mark key="^" line="4" column="28" />
         <mark key="." line="4" column="28" />
       </file>
+      <file name="/a.dummy" timestamp="1510839486947">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/dto/syssetting/ContractStepDefinition.java" timestamp="1509690873233">
         <mark key="[" line="9" column="13" />
         <mark key="]" line="9" column="13" />
@@ -619,6 +622,12 @@
         <mark key="]" line="7" column="62" />
         <mark key="^" line="7" column="62" />
         <mark key="." line="7" column="62" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/idea64.vmoptions" timestamp="1509095180209">
+        <mark key="[" line="13" column="61" />
+        <mark key="]" line="14" column="40" />
+        <mark key="^" line="14" column="40" />
+        <mark key="." line="14" column="40" />
       </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-sys-setting/src/main/java/com/zifangdt/ch/syssetting/entity/QuickEntry.java" timestamp="1509083490261">
         <mark key="[" line="29" column="24" />
@@ -1725,12 +1734,6 @@
         <mark key="]" line="28" column="12" />
         <mark key="^" line="28" column="12" />
         <mark key="." line="28" column="12" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/idea64.vmoptions" timestamp="1509095180209">
-        <mark key="[" line="13" column="61" />
-        <mark key="]" line="14" column="40" />
-        <mark key="^" line="14" column="40" />
-        <mark key="." line="14" column="40" />
       </file>
       <file name="$USER_HOME$/work/r-cache/src/main/java/testxx/WebConfig.java" timestamp="1510045753591">
         <mark key="[" line="10" column="43" />
