@@ -208,6 +208,7 @@
         <mark key="^" line="2" column="15" />
         <mark key="." line="2" column="15" />
       </file>
+      <file name="$USER_HOME$/work/ch-server/ch-server-sys-setting/src/main/resources/init_district.sql" timestamp="1510816383287" />
       <file name="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/mapper/setting/ChoiceConfigMapper.java" timestamp="1509610500236">
         <mark key="[" line="8" column="4" />
         <mark key="]" line="8" column="15" />
@@ -781,8 +782,8 @@
         <mark key="^" line="94" column="5" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510814355763">
-        <mark key="[" line="0" column="2" />
+      <file name="/Dummy.txt" timestamp="1510816439090">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
       </file>
