@@ -1344,12 +1344,12 @@
         <mark key="^" line="3" column="16" />
         <mark key="." line="3" column="16" />
       </file>
-      <file name="$USER_HOME$/work/ch-server/ch-server-sys-setting/src/main/java/com/zifangdt/ch/syssetting/entity/QuickEntryRule.java" timestamp="1510824119967">
-        <mark key="'" line="87" column="0" />
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="36" column="13" />
-        <mark key="^" line="36" column="13" />
-        <mark key="." line="36" column="13" />
+      <file name="$USER_HOME$/work/ch-server/ch-server-sys-setting/src/main/java/com/zifangdt/ch/syssetting/entity/QuickEntryRule.java" timestamp="1510885604113">
+        <mark key="'" line="90" column="0" />
+        <mark key="[" line="22" column="60" />
+        <mark key="]" line="22" column="83" />
+        <mark key="^" line="22" column="83" />
+        <mark key="." line="22" column="83" />
       </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-sys-setting/src/main/resources/mapper/UserOrgaMapper.xml" timestamp="1507876690843">
         <mark key="[" line="78" column="0" />
@@ -1593,11 +1593,11 @@
         <mark key="^" line="8" column="11" />
         <mark key="." line="8" column="11" />
       </file>
-      <file name="$USER_HOME$/work/ch-server/ch-server-sys-setting/src/main/java/com/zifangdt/ch/syssetting/service/QuickEntryService.java" timestamp="1510823972713">
-        <mark key="[" line="47" column="11" />
-        <mark key="]" line="48" column="19" />
-        <mark key="^" line="48" column="19" />
-        <mark key="." line="48" column="19" />
+      <file name="$USER_HOME$/work/ch-server/ch-server-sys-setting/src/main/java/com/zifangdt/ch/syssetting/service/QuickEntryService.java" timestamp="1510886156772">
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="0" />
+        <mark key="^" line="53" column="56" />
+        <mark key="." line="55" column="0" />
       </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-product/src/main/resources/application.yaml" timestamp="1506676693070">
         <mark key="[" line="8" column="41" />
@@ -2011,11 +2011,11 @@
       <jump line="15" column="57" filename="$USER_HOME$/work/ch-server/ch-server-uaa/src/main/java/com/zifangdt/ch/uaa/web/setting/ChoiceConfigController.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Password</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>Password</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDaG9pY2VDb25maWdFbnVtXD4=</text>
@@ -2026,8 +2026,8 @@
     Level(&quot;开启等级设置&quot;, ChoiceEnum.getBoolChoice()),
     Tag(&quot;开启标签&quot;, ChoiceEnum.getBoolChoice()),</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ICAgTGlzdDxDaG9pY2VDb25maWdFbnVtPkxvZ2luQWNjb3VudCgi55m75b2V6LSm5Y+36K6+572uIiwgQ2hvaWNlRW51bS5Vc2VybmFtZUxvZ2luLCBDaG9pY2VFbnVtLlBob25lTG9naW4sIENob2ljZUVudW0uSHlicmlkTG9naW4pLAoKICAgIFBhc3N3b3JkKCLlr4bnoIHnlJ/miJDnrZbnlaUiLCBDaG9pY2VFbnVtLkZpeFBhc3N3b3JkLCBDaG9pY2VFbnVtLlJhbmRQYXNzd29yZCksCiAgICBMZXZlbCgi5byA5ZCv562J57qn6K6+572uIiwgQ2hvaWNlRW51bS5nZXRCb29sQ2hvaWNlKCkpLAogICAgVGFnKCLlvIDlkK/moIfnrb4iLCBDaG9pY2VFbnVtLmdldEJvb2xDaG9pY2UoKSks</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2067,28 +2067,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgTGlzdDxMb25nPiByb2xlczsK</text>
+        <text encoding="base64">ICAgICAgICB1c2VkT3JnYW5pemF0aW9uSWRzLgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QEpzb25JZ25vcmVQcm9wZXJ0aWVzCg==</text>
+        <text encoding="base64">ICAgICAgICBDb2xsZWN0aW9ucy51bm1vZGlmaWFibGVTZXQoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">QEpzb25JZ25vcmVQcm9wZXJ0aWVzKHZhbHVlID0gInJvbGVzIiwgYWxsb3dHZXR0ZXJzID0gdHJ1ZSkK</text>
+        <text encoding="base64">ICAgICAgICBVbm1vZGlmaWFibGVTZXQ8TG9uZz4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBDb2xsZWN0aW9uVXRpbHMucmVtb3ZlQWxsKCkK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBTZXQ8TG9uZz4gb3JnYW5pemF0aW9uSWRzID0gbGlzdC5zdHJlYW0oKS5tYXAoUXVpY2tFbnRyeVJ1bGU6OmdldE9yZ2FuaXphdGlvbklkcykuZmxhdE1hcChsIC0+IGwuc3RyZWFtKCkpLmNvbGxlY3QoQ29sbGVjdG9ycy50b1NldCgpKTsK</text>
+      <register name="6" type="4">
+        <text encoding="base64">U2V0PExvbmc+IHVzZWRPcmdhbml6YXRpb25JZHMgPSBsaXN0LnN0cmVhbSgpCiAgICAgICAgICAgICAgICAubWFwKFF1aWNrRW50cnlSdWxlOjpnZXRPcmdhbml6YXRpb25JZHMpCiAgICAgICAgICAgICAgICAuZmxhdE1hcChsIC0+IGwuc3RyZWFtKCkpCiAgICAgICAgICAgICAgICAuY29sbGVjdChDb2xsZWN0b3JzLnRvU2V0KCkpOw==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PE9yZ2FuaXphdGlvbj4gb3JnYW5pemF0aW9ucyA9IG9yZ2FuaXphdAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5jb2xsZWN0KENvbGxlY3RvcnMudG9TZXQoKSk7Cg==</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">aW9uSWRzLnN0cmVhbSgpCiAgICAgICAgICAgICAgICAubWFwKGlkIC0+IHVhYVNlcnZlckFwaS5nZXRPcmdhbml6YXRpb24oaWQpKQogICAgICAgICAgICAgICAgLmNvbGxlY3QoQ29sbGVjdG9ycy50b0xpc3QoKSk7</text>
+        <text encoding="base64">U2V0PExvbmc+IHVzZWRPcmdhbml6YXRpb25JZHMgPSBsaXN0LnN0cmVhbSgpCiAgICAgICAgICAgICAgICAubWFwKFF1aWNrRW50cnlSdWxlOjpnZXRPcmdhbml6YXRpb25JZHMpCiAgICAgICAgICAgICAgICAuZmxhdE1hcChsIC0+IGwuc3RyZWFtKCkpCiAgICAgICAgICAgICAgICAuY29sbGVjdChDb2xsZWN0b3JzLnRvU2V0KCkpOw==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Pj4+Pj4+PiDlop7liqDluILlnLrmjqjlub/mqKHlnZcK</text>
+        <text encoding="base64">ICAgICAgICB1c2VkT3JnYW5pemF0aW9uSWRzLnJlbW92ZUFsbCgpCg==</text>
       </register>
       <register name=":" type="4">
         <text>565</text>
