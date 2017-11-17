@@ -1593,11 +1593,10 @@
         <mark key="^" line="8" column="11" />
         <mark key="." line="8" column="11" />
       </file>
-      <file name="$USER_HOME$/work/ch-server/ch-server-sys-setting/src/main/java/com/zifangdt/ch/syssetting/service/QuickEntryService.java" timestamp="1510888039123">
-        <mark key="[" line="142" column="77" />
-        <mark key="]" line="143" column="17" />
-        <mark key="^" line="143" column="17" />
-        <mark key="." line="143" column="17" />
+      <file name="$USER_HOME$/work/ch-server/ch-server-sys-setting/src/main/java/com/zifangdt/ch/syssetting/service/QuickEntryService.java" timestamp="1510900600702">
+        <mark key="[" line="143" column="0" />
+        <mark key="]" line="143" column="0" />
+        <mark key="." line="143" column="0" />
       </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-product/src/main/resources/application.yaml" timestamp="1506676693070">
         <mark key="[" line="8" column="41" />
@@ -2012,7 +2011,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBAU2NoZWR1bGVkCg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -2027,7 +2026,7 @@
     Tag(&quot;开启标签&quot;, ChoiceEnum.getBoolChoice()),</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBAU2NoZWR1bGVkCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2067,28 +2066,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB1c2VkT3JnYW5pemF0aW9uSWRzLgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBDb2xsZWN0aW9ucy51bm1vZGlmaWFibGVTZXQoKQo=</text>
+        <text encoding="base64">ICAgICAgICB1c2VkT3JnYW5pemF0aW9uSWRzLgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBVbm1vZGlmaWFibGVTZXQ8TG9uZz4K</text>
+        <text encoding="base64">ICAgICAgICBDb2xsZWN0aW9ucy51bm1vZGlmaWFibGVTZXQoKQo=</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBVbm1vZGlmaWFibGVTZXQ8TG9uZz4K</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBDb2xsZWN0aW9uVXRpbHMucmVtb3ZlQWxsKCkK</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">U2V0PExvbmc+IHVzZWRPcmdhbml6YXRpb25JZHMgPSBsaXN0LnN0cmVhbSgpCiAgICAgICAgICAgICAgICAubWFwKFF1aWNrRW50cnlSdWxlOjpnZXRPcmdhbml6YXRpb25JZHMpCiAgICAgICAgICAgICAgICAuZmxhdE1hcChsIC0+IGwuc3RyZWFtKCkpCiAgICAgICAgICAgICAgICAuY29sbGVjdChDb2xsZWN0b3JzLnRvU2V0KCkpOw==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIC5jb2xsZWN0KENvbGxlY3RvcnMudG9TZXQoKSk7Cg==</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">U2V0PExvbmc+IHVzZWRPcmdhbml6YXRpb25JZHMgPSBsaXN0LnN0cmVhbSgpCiAgICAgICAgICAgICAgICAubWFwKFF1aWNrRW50cnlSdWxlOjpnZXRPcmdhbml6YXRpb25JZHMpCiAgICAgICAgICAgICAgICAuZmxhdE1hcChsIC0+IGwuc3RyZWFtKCkpCiAgICAgICAgICAgICAgICAuY29sbGVjdChDb2xsZWN0b3JzLnRvU2V0KCkpOw==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB1c2VkT3JnYW5pemF0aW9uSWRzLnJlbW92ZUFsbCgpCg==</text>
       </register>
       <register name=":" type="4">
         <text>565</text>
