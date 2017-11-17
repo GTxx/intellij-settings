@@ -562,11 +562,11 @@
         <mark key="^" line="7" column="29" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/work/ch-server/ch-server-customer/src/main/resources/generatorConfig.xml" timestamp="1509069433739">
-        <mark key="[" line="48" column="40" />
-        <mark key="]" line="48" column="49" />
-        <mark key="." line="48" column="49" />
-        <mark key="^" line="48" column="49" />
+      <file name="$USER_HOME$/work/ch-server/ch-server-customer/src/main/resources/generatorConfig.xml" timestamp="1510904355488">
+        <mark key="[" line="48" column="65" />
+        <mark key="]" line="48" column="76" />
+        <mark key="." line="48" column="76" />
+        <mark key="^" line="48" column="76" />
       </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-sys-setting/src/main/java/com/zifangdt/ch/syssetting/web/UserConfigController.java" timestamp="1508120235331">
         <mark key="[" line="13" column="13" />
@@ -1289,7 +1289,7 @@
         <mark key="^" line="11" column="31" />
         <mark key="." line="11" column="31" />
       </file>
-      <file name="$USER_HOME$/work/ch-server/ch-server-market/src/main/resources/generatorConfig.xml" timestamp="1510305269411">
+      <file name="$USER_HOME$/work/ch-server/ch-server-market/src/main/resources/generatorConfig.xml" timestamp="1510904332484">
         <mark key="[" line="47" column="50" />
         <mark key="]" line="47" column="51" />
         <mark key="." line="47" column="51" />
@@ -1613,11 +1613,11 @@
         <mark key="." line="8" column="41" />
         <mark key="^" line="3" column="35" />
       </file>
-      <file name="$USER_HOME$/work/ch-server/ch-server-customer/src/main/resources/create_table.sql" timestamp="1510901260908">
-        <mark key="[" line="68" column="17" />
-        <mark key="]" line="68" column="31" />
-        <mark key="^" line="68" column="31" />
-        <mark key="." line="68" column="31" />
+      <file name="$USER_HOME$/work/ch-server/ch-server-customer/src/main/resources/create_table.sql" timestamp="1510904477576">
+        <mark key="[" line="76" column="46" />
+        <mark key="]" line="76" column="50" />
+        <mark key="." line="76" column="50" />
+        <mark key="^" line="76" column="50" />
       </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/converter/CustomBeanSerializerModifier.java" timestamp="1510814323623" />
       <file name="$USER_HOME$/workr/tcache/src/main/java/testxx/App.java" timestamp="1509521249263">
@@ -2019,23 +2019,20 @@
       <jump line="15" column="57" filename="$USER_HOME$/work/ch-server/ch-server-uaa/src/main/java/com/zifangdt/ch/uaa/web/setting/ChoiceConfigController.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>number</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgID4K</text>
       </register>
       <register name="-" type="4">
-        <text>number</text>
+        <text>cfg_number</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDaG9pY2VDb25maWdFbnVtXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>LoginAccount(&quot;登录账号设置&quot;, ChoiceEnum.UsernameLogin, ChoiceEnum.PhoneLogin, ChoiceEnum.HybridLogin),
-    Password(&quot;密码生成策略&quot;, ChoiceEnum.FixPassword, ChoiceEnum.RandPassword),
-    Level(&quot;开启等级设置&quot;, ChoiceEnum.getBoolChoice()),
-    Tag(&quot;开启标签&quot;, ChoiceEnum.getBoolChoice()),</text>
+        <text>cfg_customer_source_item</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Q1JFQVRFIFRBQkxFIAo=</text>
+        <text encoding="base64">ICAgID4K</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2075,28 +2072,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBAU2NoZWR1bGVkCg==</text>
+        <text encoding="base64">ICBudW1iZXIgSU5UKDgpIE5PVCBOVUxMIENPTU1FTlQgJ+S6uuaVsCcsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Q1JFQVRFIFRBQkxFIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB1c2VkT3JnYW5pemF0aW9uSWRzLgo=</text>
+        <text encoding="base64">ICAgICAgICBAU2NoZWR1bGVkCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBDb2xsZWN0aW9ucy51bm1vZGlmaWFibGVTZXQoKQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBVbm1vZGlmaWFibGVTZXQ8TG9uZz4K</text>
+        <text encoding="base64">ICAgICAgICB1c2VkT3JnYW5pemF0aW9uSWRzLgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBDb2xsZWN0aW9uVXRpbHMucmVtb3ZlQWxsKCkK</text>
+        <text encoding="base64">ICAgICAgICBDb2xsZWN0aW9ucy51bm1vZGlmaWFibGVTZXQoKQo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">U2V0PExvbmc+IHVzZWRPcmdhbml6YXRpb25JZHMgPSBsaXN0LnN0cmVhbSgpCiAgICAgICAgICAgICAgICAubWFwKFF1aWNrRW50cnlSdWxlOjpnZXRPcmdhbml6YXRpb25JZHMpCiAgICAgICAgICAgICAgICAuZmxhdE1hcChsIC0+IGwuc3RyZWFtKCkpCiAgICAgICAgICAgICAgICAuY29sbGVjdChDb2xsZWN0b3JzLnRvU2V0KCkpOw==</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBVbm1vZGlmaWFibGVTZXQ8TG9uZz4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5jb2xsZWN0KENvbGxlY3RvcnMudG9TZXQoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBDb2xsZWN0aW9uVXRpbHMucmVtb3ZlQWxsKCkK</text>
       </register>
       <register name=":" type="4">
         <text>565</text>
