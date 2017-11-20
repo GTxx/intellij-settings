@@ -80,11 +80,11 @@
         <mark key="." line="41" column="24" />
         <mark key="^" line="41" column="24" />
       </file>
-      <file name="$USER_HOME$/work/ch-server/ch-server-market/src/main/java/com/zifangdt/ch/market/service/PromotionAffiliateService.java" timestamp="1510735359017">
-        <mark key="[" line="28" column="67" />
-        <mark key="]" line="30" column="24" />
-        <mark key="^" line="30" column="24" />
-        <mark key="." line="30" column="24" />
+      <file name="$USER_HOME$/work/ch-server/ch-server-market/src/main/java/com/zifangdt/ch/market/service/PromotionAffiliateService.java" timestamp="1511143148191">
+        <mark key="[" line="29" column="12" />
+        <mark key="]" line="29" column="16" />
+        <mark key="^" line="29" column="16" />
+        <mark key="." line="29" column="16" />
       </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/validation/OrganizationHasBossValidator.java" timestamp="1509948416130">
         <mark key="[" line="29" column="72" />
@@ -2025,11 +2025,11 @@
       <jump line="15" column="57" filename="$USER_HOME$/work/ch-server/ch-server-uaa/src/main/java/com/zifangdt/ch/uaa/web/setting/ChoiceConfigController.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDxyZXN1bHQgY29sdW1uPSJ1bml0X3R5cGUiIGpkYmNUeXBlPSJJTlRFR0VSIiBwcm9wZXJ0eT0iIiAvPgo=</text>
+      <register name="&quot;" type="4">
+        <text>return</text>
       </register>
       <register name="-" type="4">
-        <text>unitType</text>
+        <text>return</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDaG9pY2VDb25maWdFbnVtXD4=</text>
