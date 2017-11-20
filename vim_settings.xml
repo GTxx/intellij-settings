@@ -1427,11 +1427,11 @@
         <mark key="^" line="7" column="39" />
         <mark key="." line="7" column="39" />
       </file>
-      <file name="$USER_HOME$/work/ch-server/ch-server-market/src/main/java/com/zifangdt/ch/market/bo/PromotionBo.java" timestamp="1510813392672">
-        <mark key="[" line="21" column="39" />
-        <mark key="]" line="22" column="37" />
-        <mark key="." line="22" column="37" />
-        <mark key="^" line="22" column="37" />
+      <file name="$USER_HOME$/work/ch-server/ch-server-market/src/main/java/com/zifangdt/ch/market/bo/PromotionBo.java" timestamp="1511160564957">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="13" column="19" />
+        <mark key="." line="13" column="19" />
+        <mark key="^" line="13" column="19" />
       </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-common/src/main/java/com/zifangdt/ch/common/service/DataDictionaryService.java" timestamp="1510901424091">
         <mark key="[" line="44" column="5" />
@@ -1767,12 +1767,12 @@
         <mark key="^" line="6" column="28" />
         <mark key="." line="6" column="28" />
       </file>
-      <file name="$USER_HOME$/work/ch-server/ch-server-market/src/main/java/com/zifangdt/ch/market/service/PromotionService.java" timestamp="1510814935427">
+      <file name="$USER_HOME$/work/ch-server/ch-server-market/src/main/java/com/zifangdt/ch/market/service/PromotionService.java" timestamp="1511160637479">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="278" column="0" />
-        <mark key="]" line="280" column="12" />
-        <mark key="." line="280" column="12" />
-        <mark key="^" line="280" column="12" />
+        <mark key="[" line="76" column="44" />
+        <mark key="]" line="77" column="37" />
+        <mark key="." line="77" column="37" />
+        <mark key="^" line="77" column="37" />
       </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-uaa/src/main/java/com/zifangdt/ch/uaa/mapper/UserMapper.java" timestamp="1508405016816">
         <mark key="[" line="18" column="41" />
