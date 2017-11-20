@@ -1767,12 +1767,12 @@
         <mark key="^" line="6" column="28" />
         <mark key="." line="6" column="28" />
       </file>
-      <file name="$USER_HOME$/work/ch-server/ch-server-market/src/main/java/com/zifangdt/ch/market/service/PromotionService.java" timestamp="1511160637479">
+      <file name="$USER_HOME$/work/ch-server/ch-server-market/src/main/java/com/zifangdt/ch/market/service/PromotionService.java" timestamp="1511165213969">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="76" column="44" />
-        <mark key="]" line="77" column="37" />
-        <mark key="." line="77" column="37" />
-        <mark key="^" line="77" column="37" />
+        <mark key="[" line="317" column="56" />
+        <mark key="]" line="317" column="62" />
+        <mark key="." line="317" column="62" />
+        <mark key="^" line="317" column="62" />
       </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-uaa/src/main/java/com/zifangdt/ch/uaa/mapper/UserMapper.java" timestamp="1508405016816">
         <mark key="[" line="18" column="41" />
@@ -1892,11 +1892,12 @@
         <mark key="^" line="7" column="59" />
         <mark key="." line="7" column="59" />
       </file>
-      <file name="$USER_HOME$/work/ch-server/ch-server-market/src/main/java/com/zifangdt/ch/market/web/PromotionController.java" timestamp="1511161804719">
+      <file name="$USER_HOME$/work/ch-server/ch-server-market/src/main/java/com/zifangdt/ch/market/web/PromotionController.java" timestamp="1511165266809">
         <mark key="'" line="80" column="43" />
-        <mark key="[" line="171" column="0" />
-        <mark key="]" line="171" column="0" />
-        <mark key="." line="171" column="0" />
+        <mark key="[" line="135" column="62" />
+        <mark key="]" line="136" column="30" />
+        <mark key="." line="136" column="30" />
+        <mark key="^" line="136" column="30" />
       </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-market/src/main/resources/bootstrap.yaml" timestamp="1510216490519">
         <mark key="[" line="20" column="0" />
@@ -2026,19 +2027,19 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">cmV0dXJuIG5ldyBQYWdlPD4ocXVlcnlCby5nZXRQYWdlKCksIHF1ZXJ5Qm8uZ2V0U2l6ZSgpKTs=</text>
+        <text>Invalid</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cmV0dXJuIG5ldyBQYWdlPD4ocXVlcnlCby5nZXRQYWdlKCksIHF1ZXJ5Qm8uZ2V0U2l6ZSgpKTs=</text>
+        <text>Invalid</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDaG9pY2VDb25maWdFbnVtXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDxyZXN1bHQgY29sdW1uPSJ1bml0X3R5cGUiIGpkYmNUeXBlPSJJTlRFR0VSIiBwcm9wZXJ0eT0idW5pdFR5cGUiIC8+Cg==</text>
+        <text encoding="base64">ICAgICAgICBQcm9tb3Rpb25Kb2luIHByb21vdGlvbkpvaW4gPSBwcm9tb3Rpb25Kb2luU2VydmljZS5nZXQocHJvbW90aW9uSm9pbklkKTsKICAgICAgICBwcm9tb3Rpb25Kb2luLnNldFN0YXR1cyhQcm9tb3Rpb25Kb2luU3RhdHVzRW51bS5JbnZhbGlkKTsKICAgICAgICBwcm9tb3Rpb25Kb2luU2VydmljZS51cGRhdGVJbnRlcm5hbChwcm9tb3Rpb25Kb2luKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2078,28 +2079,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgPC9pZj4K</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhbmQgcGouc3VibWl0X2luZm8gbGlrZSAiJSR7c2VhcmNofSUiCg==</text>
+        <text encoding="base64">ICAgICAgPC9pZj4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgPGlmIHRlc3Q9ImNvbnRlbnQgIT0gbnVsbCI+Cg==</text>
+        <text encoding="base64">ICAgICAgICBhbmQgcGouc3VibWl0X2luZm8gbGlrZSAiJSR7c2VhcmNofSUiCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgPGlmIHRlc3Q9ImNvbnRlbnQgIT0gbnVsbCI+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICBAR2V0TWFwcGluZygiL3Rlc3QiKQogICAgdm9pZCB0ZXN0VXNlcm5hbWVIb2xkZXIoKXsKICAgICAgICBNYXA8TG9uZywgVXNlcj4gbWFwID0gbmV3IEhhc2hNYXA8PigpOwogICAgICAgIFVzZXJOYW1lSG9sZGVyLmdldE5hbWUoMWwpOwogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihUaHJlYWQuY3VycmVudFRocmVhZCgpLmdldE5hbWUoKSk7CiAgICB9</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>565</text>
