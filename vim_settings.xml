@@ -1806,12 +1806,12 @@
         <mark key="." line="8" column="11" />
         <mark key="^" line="8" column="11" />
       </file>
-      <file name="$USER_HOME$/work/ch-server/ch-server-market/src/main/resources/mapper/PromotionJoinMapper.xml" timestamp="1511163082849">
+      <file name="$USER_HOME$/work/ch-server/ch-server-market/src/main/resources/mapper/PromotionJoinMapper.xml" timestamp="1511171835748">
         <mark key="'" line="17" column="11" />
-        <mark key="[" line="36" column="31" />
-        <mark key="]" line="36" column="46" />
-        <mark key="." line="36" column="46" />
-        <mark key="^" line="36" column="46" />
+        <mark key="[" line="37" column="22" />
+        <mark key="]" line="37" column="22" />
+        <mark key="." line="37" column="22" />
+        <mark key="^" line="37" column="22" />
       </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-parent/pom.xml" timestamp="1510220153138">
         <mark key="'" line="182" column="9" />
@@ -2020,10 +2020,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">Y29tLnppZmFuZ2R0LmNoLmJhc2UuZHRvLm1hcmtldC5Qcm9tb3Rpb24iPg==</text>
+        <text>$</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Y29tLnppZmFuZ2R0LmNoLmJhc2UuZHRvLm1hcmtldC5Qcm9tb3Rpb24iPg==</text>
+        <text>$</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDaG9pY2VDb25maWdFbnVtXD4=</text>
