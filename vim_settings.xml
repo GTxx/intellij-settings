@@ -823,6 +823,11 @@
         <mark key="^" line="94" column="5" />
         <mark key="." line="34" column="0" />
       </file>
+      <file name="/Dummy.txt" timestamp="1511257522609">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="2" />
+        <mark key="." line="0" column="2" />
+      </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-market/src/main/java/com/zifangdt/ch/market/util/components/Img.java" timestamp="1510625194017">
         <mark key="[" line="2" column="18" />
         <mark key="]" line="3" column="22" />
@@ -1145,6 +1150,11 @@
         <mark key="^" line="7" column="33" />
         <mark key="." line="7" column="33" />
       </file>
+      <file name="$USER_HOME$/work/ch-server/ch-server-market/src/main/resources/mapper/PromotionDraftMapper.xml" timestamp="1510641114943">
+        <mark key="[" line="17" column="2" />
+        <mark key="]" line="19" column="7" />
+        <mark key="." line="20" column="0" />
+      </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-sys-setting/src/main/java/com/zifangdt/ch/syssetting/web/StepDefController.java" timestamp="1510733309841">
         <mark key="[" line="52" column="19" />
         <mark key="]" line="52" column="28" />
@@ -1259,6 +1269,11 @@
         <mark key="]" line="3" column="83" />
         <mark key="." line="3" column="83" />
         <mark key="^" line="2" column="38" />
+      </file>
+      <file name="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/dto/uaa/Organization.java" timestamp="1510824272459">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-gateway/src/main/resources/bootstrap.properties" timestamp="1507617275785">
         <mark key="[" line="2" column="31" />
