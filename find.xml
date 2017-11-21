@@ -5,7 +5,6 @@
     <option name="SEARCH_SCOPE" value="Project Files" />
     <option name="FILE_MASK" value="*.xml" />
     <recentFileMasks>
-      <mask>*.properties</mask>
       <mask>*.html</mask>
       <mask>*.jsp</mask>
       <mask>*.js</mask>
@@ -27,11 +26,12 @@
       <mask>*.ava</mask>
       <mask>*.va</mask>
       <mask>*.x</mask>
-      <mask>*.l</mask>
-      <mask>*.j</mask>
-      <mask>*.ja</mask>
-      <mask>*.java</mask>
       <mask>*.a</mask>
+      <mask>*.l</mask>
+      <mask>*.java</mask>
+      <mask>*.jav</mask>
+      <mask>*.ja</mask>
+      <mask>*.j</mask>
       <mask>*.</mask>
       <mask>*.xm</mask>
       <mask>*.xml</mask>
