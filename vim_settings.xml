@@ -725,8 +725,8 @@
         <mark key="^" line="12" column="14" />
         <mark key="." line="12" column="14" />
       </file>
-      <file name="$USER_HOME$/work/ch-server/ch-server-customer/src/main/java/com/zifangdt/ch/customer/service/CustomerService.java" timestamp="1511337828108">
-        <mark key="'" line="87" column="19" />
+      <file name="$USER_HOME$/work/ch-server/ch-server-customer/src/main/java/com/zifangdt/ch/customer/service/CustomerService.java" timestamp="1511338766263">
+        <mark key="'" line="69" column="16" />
       </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-uaa/src/main/java/com/zifangdt/ch/uaa/web/setting/ChoiceConfigController.java" timestamp="1510825743324">
         <mark key="'" line="15" column="12" />
@@ -1016,7 +1016,7 @@
         <mark key="." line="0" column="49" />
         <mark key="^" line="0" column="49" />
       </file>
-      <file name="/fragment.java" timestamp="1511336726951">
+      <file name="/fragment.java" timestamp="1511339006418">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="16" />
         <mark key="^" line="0" column="12" />
@@ -1893,7 +1893,7 @@
         <mark key="^" line="6" column="28" />
         <mark key="." line="6" column="28" />
       </file>
-      <file name="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/service/BaseService.java" timestamp="1511338044227">
+      <file name="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/service/BaseService.java" timestamp="1511338899747">
         <mark key="'" line="457" column="19" />
       </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-market/src/main/java/com/zifangdt/ch/market/service/PromotionService.java" timestamp="1511335458135">
@@ -2158,8 +2158,8 @@
       <jump line="33" column="5" filename="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/dto/customer/Customer.java" />
       <jump line="13" column="25" filename="$USER_HOME$/work/ch-server/ch-server-market/src/main/java/com/zifangdt/ch/market/config/CustomerDataInitializer.java" />
       <jump line="88" column="8" filename="$USER_HOME$/work/ch-server/ch-server-customer/src/main/java/com/zifangdt/ch/customer/service/CustomerService.java" />
-      <jump line="69" column="16" filename="$USER_HOME$/work/ch-server/ch-server-customer/src/main/java/com/zifangdt/ch/customer/service/CustomerService.java" />
       <jump line="87" column="19" filename="$USER_HOME$/work/ch-server/ch-server-customer/src/main/java/com/zifangdt/ch/customer/service/CustomerService.java" />
+      <jump line="69" column="16" filename="$USER_HOME$/work/ch-server/ch-server-customer/src/main/java/com/zifangdt/ch/customer/service/CustomerService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -2169,7 +2169,7 @@
         <text>, url = &quot;http://localhost:&quot;)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwb3N0U2F2ZVw+</text>
+        <text encoding="base64">XDxzYXZlQ29udGFjdFw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIDxyZXN1bHQgY29sdW1uPSJwal9zdWJtaXRfaW5mbyIgamRiY1R5cGU9IlZBUkNIQVIiIHByb3BlcnR5PSJzdWJtaXRJbmZvIiAvPgo=</text>
@@ -2243,9 +2243,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwb3N0U2F2ZVw+</last-search>
+      <last-search encoding="base64">XDxzYXZlQ29udGFjdFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwb3N0U2F2ZVw+</last-pattern>
+      <last-pattern encoding="base64">XDxzYXZlQ29udGFjdFw+</last-pattern>
       <last-replace>cfg</last-replace>
       <last-substitute encoding="base64">XDxjb3VudFw+</last-substitute>
       <last-dir>-1</last-dir>
@@ -2271,8 +2271,8 @@
         <entry encoding="base64">XDxWYWxpZFw+</entry>
         <entry encoding="base64">XDxOb3RCbGFua1w+</entry>
         <entry encoding="base64">XDxOb3ROdWxsXD4=</entry>
-        <entry encoding="base64">XDxzYXZlQ29udGFjdFw+</entry>
         <entry encoding="base64">XDxwb3N0U2F2ZVw+</entry>
+        <entry encoding="base64">XDxzYXZlQ29udGFjdFw+</entry>
       </history-search>
       <history-cmd>
         <entry>s/crm/cfg/g</entry>
