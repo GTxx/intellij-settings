@@ -826,7 +826,7 @@
         <mark key="^" line="94" column="5" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511258295459">
+      <file name="/Dummy.txt" timestamp="1511317651606">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
@@ -1197,6 +1197,12 @@
         <mark key="." line="2" column="20" />
         <mark key="^" line="2" column="20" />
       </file>
+      <file name="$USER_HOME$/work/ch-server/ch-server-sys-setting/src/main/java/com/zifangdt/ch/syssetting/bo/OrganizationDe.java" timestamp="1511317662357">
+        <mark key="[" line="5" column="54" />
+        <mark key="]" line="5" column="57" />
+        <mark key="^" line="5" column="57" />
+        <mark key="." line="5" column="57" />
+      </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-sys-setting/src/main/resources/mapper/UserConfigMapper.xml" timestamp="1508136673949">
         <mark key="[" line="18" column="37" />
         <mark key="]" line="18" column="49" />
@@ -1276,10 +1282,11 @@
         <mark key="." line="3" column="83" />
         <mark key="^" line="2" column="38" />
       </file>
-      <file name="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/dto/uaa/Organization.java" timestamp="1510824272459">
+      <file name="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/dto/uaa/Organization.java" timestamp="1511317716657">
         <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
+        <mark key="]" line="19" column="57" />
+        <mark key="." line="19" column="57" />
+        <mark key="^" line="19" column="57" />
       </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-gateway/src/main/resources/bootstrap.properties" timestamp="1507617275785">
         <mark key="[" line="2" column="31" />
@@ -1889,10 +1896,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>, url = &quot;http://localhost:8001&quot;)</text>
+        <text>false</text>
       </register>
       <register name="-" type="4">
-        <text>, url = &quot;http://localhost:8001&quot;)</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1YWFTZXJ2ZXJBcGlcPg==</text>
