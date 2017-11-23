@@ -118,6 +118,11 @@
         <mark key="^" line="3" column="26" />
         <mark key="." line="3" column="26" />
       </file>
+      <file name="$USER_HOME$/work/ch-server/ch-server-market/src/main/java/com/zifangdt/ch/market/bo/PromotionJoinQueryBo.java" timestamp="1511343915757">
+        <mark key="'" line="62" column="19" />
+        <mark key="[" line="58" column="3" />
+        <mark key="]" line="64" column="4" />
+      </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-customer/src/main/java/com/zifangdt/ch/customer/mapper/CellAddressMapper.java" timestamp="1508899542070">
         <mark key="[" line="6" column="4" />
         <mark key="]" line="6" column="4" />
@@ -737,8 +742,10 @@
         <mark key="^" line="12" column="14" />
         <mark key="." line="12" column="14" />
       </file>
-      <file name="$USER_HOME$/work/ch-server/ch-server-customer/src/main/java/com/zifangdt/ch/customer/service/CustomerService.java" timestamp="1511420423505">
-        <mark key="'" line="250" column="5" />
+      <file name="$USER_HOME$/work/ch-server/ch-server-customer/src/main/java/com/zifangdt/ch/customer/service/CustomerService.java" timestamp="1511421161575">
+        <mark key="'" line="52" column="38" />
+        <mark key="[" line="249" column="3" />
+        <mark key="]" line="253" column="5" />
       </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-uaa/src/main/java/com/zifangdt/ch/uaa/web/setting/ChoiceConfigController.java" timestamp="1510825743324">
         <mark key="'" line="15" column="12" />
@@ -793,7 +800,7 @@
         <mark key="." line="20" column="28" />
         <mark key="^" line="20" column="28" />
       </file>
-      <file name="$USER_HOME$/work/ch-server/ch-server-product/src/main/resources/create_table.sql" timestamp="1511419972353">
+      <file name="$USER_HOME$/work/ch-server/ch-server-product/src/main/resources/create_table.sql" timestamp="1511422162109">
         <mark key="[" line="68" column="64" />
         <mark key="]" line="76" column="37" />
         <mark key="^" line="76" column="37" />
@@ -1178,8 +1185,10 @@
         <mark key="." line="23" column="53" />
         <mark key="^" line="23" column="53" />
       </file>
-      <file name="$USER_HOME$/work/ch-server/ch-server-contract/src/main/java/com/zifangdt/ch/contract/service/ContractService.java" timestamp="1511408515132">
+      <file name="$USER_HOME$/work/ch-server/ch-server-contract/src/main/java/com/zifangdt/ch/contract/service/ContractService.java" timestamp="1511421731585">
         <mark key="'" line="71" column="38" />
+        <mark key="[" line="206" column="0" />
+        <mark key="]" line="212" column="105" />
       </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-market/src/main/java/com/zifangdt/ch/market/util/components/Component.java" timestamp="1510629678277">
         <mark key="[" line="2" column="24" />
@@ -1475,6 +1484,12 @@
         <mark key="]" line="5" column="76" />
         <mark key="^" line="5" column="76" />
         <mark key="." line="5" column="76" />
+      </file>
+      <file name="$USER_HOME$/work/ch-server/ch-server-product/src/main/java/com/zifangdt/ch/product/service/ProductService.java" timestamp="1511421912685">
+        <mark key="'" line="104" column="47" />
+        <mark key="[" line="128" column="0" />
+        <mark key="]" line="128" column="0" />
+        <mark key="." line="128" column="0" />
       </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-sys-setting/src/main/java/com/zifangdt/ch/syssetting/web/PriceSheetStepService.java" timestamp="1507709043049">
         <mark key="[" line="12" column="45" />
@@ -1869,11 +1884,11 @@
         <mark key="." line="3" column="6" />
         <mark key="^" line="3" column="6" />
       </file>
-      <file name="$USER_HOME$/work/ch-server/ch-server-product/src/main/java/com/zifangdt/ch/product/web/ProductController.java" timestamp="1510713068303">
-        <mark key="[" line="97" column="9" />
-        <mark key="]" line="98" column="33" />
-        <mark key="." line="98" column="33" />
-        <mark key="^" line="98" column="33" />
+      <file name="$USER_HOME$/work/ch-server/ch-server-product/src/main/java/com/zifangdt/ch/product/web/ProductController.java" timestamp="1511421980434">
+        <mark key="[" line="140" column="8" />
+        <mark key="]" line="140" column="19" />
+        <mark key="." line="140" column="19" />
+        <mark key="^" line="140" column="19" />
       </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-customer/src/main/java/com/zifangdt/ch/customer/mapper/CfgNumberMapper.java" timestamp="1509069599634">
         <mark key="[" line="4" column="0" />
@@ -2102,12 +2117,11 @@
         <mark key="^" line="15" column="20" />
         <mark key="." line="15" column="20" />
       </file>
+      <file name="$USER_HOME$/work/ch-server/ch-server-product/src/main/java/com/zifangdt/ch/product/mapper/ProductNewsMapper.java" timestamp="1511421262679">
+        <mark key="[" line="2" column="35" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="264" column="21" filename="$MAVEN_REPOSITORY$/com/github/pagehelper/pagehelper/5.1.0/pagehelper-5.1.0.jar!/com/github/pagehelper/Page.class" />
-      <jump line="214" column="13" filename="$MAVEN_REPOSITORY$/com/github/pagehelper/pagehelper/5.1.0/pagehelper-5.1.0.jar!/com/github/pagehelper/Page.class" />
-      <jump line="213" column="19" filename="$MAVEN_REPOSITORY$/com/github/pagehelper/pagehelper/5.1.0/pagehelper-5.1.0.jar!/com/github/pagehelper/Page.class" />
-      <jump line="198" column="21" filename="$MAVEN_REPOSITORY$/com/github/pagehelper/pagehelper/5.1.0/pagehelper-5.1.0.jar!/com/github/pagehelper/Page.class" />
       <jump line="273" column="52" filename="$USER_HOME$/work/ch-server/ch-server-market/src/main/java/com/zifangdt/ch/market/service/PromotionService.java" />
       <jump line="49" column="25" filename="$USER_HOME$/work/ch-server/ch-server-market/src/main/java/com/zifangdt/ch/market/service/PromotionService.java" />
       <jump line="19" column="20" filename="$USER_HOME$/work/ch-server/ch-server-market/src/main/java/com/zifangdt/ch/market/service/PromotionJoinService.java" />
@@ -2204,32 +2218,26 @@
       <jump line="3" column="14" filename="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/enums/ProductNewsType.java" />
       <jump line="31" column="41" filename="$USER_HOME$/work/ch-server/ch-server-customer/src/main/java/com/zifangdt/ch/customer/service/CustomerService.java" />
       <jump line="250" column="5" filename="$USER_HOME$/work/ch-server/ch-server-customer/src/main/java/com/zifangdt/ch/customer/service/CustomerService.java" />
+      <jump line="82" column="8" filename="$USER_HOME$/work/ch-server/ch-server-product/src/main/java/com/zifangdt/ch/product/service/ProductService.java" />
+      <jump line="43" column="23" filename="$USER_HOME$/work/ch-server/ch-server-product/src/main/java/com/zifangdt/ch/product/service/ProductService.java" />
+      <jump line="52" column="38" filename="$USER_HOME$/work/ch-server/ch-server-customer/src/main/java/com/zifangdt/ch/customer/service/CustomerService.java" />
+      <jump line="87" column="47" filename="$USER_HOME$/work/ch-server/ch-server-product/src/main/java/com/zifangdt/ch/product/service/ProductService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>id BIGINT(20) NOT NULL AUTO_INCREMENT,
-  PRIMARY KEY(id),
-  create_id BIGINT(20) DEFAULT NULL,
-  create_time DATETIME DEFAULT CURRENT_TIMESTAMP,
-  modify_id BIGINT(20) DEFAULT NULL,
-  modify_time DATETIME DEFAULT NULL ON UPDATE CURRENT_TIMESTAMP,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>null</text>
+        <text>new NewsBuilder().tag(NewsTags.ACTION));</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxFdmVudExpc3RlbmVyXD4=</text>
+        <text encoding="base64">XDxwdWJsaXNoZXJcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>id BIGINT(20) NOT NULL AUTO_INCREMENT,
-  PRIMARY KEY(id),
-  create_id BIGINT(20) DEFAULT NULL,
-  create_time DATETIME DEFAULT CURRENT_TIMESTAMP,
-  modify_id BIGINT(20) DEFAULT NULL,
-  modify_time DATETIME DEFAULT NULL ON UPDATE CURRENT_TIMESTAMP,</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG5ldyBOZXdzQnVpbGRlcigpCiAgICAgICAgICAgICAgICAgICAgICAgIC50YWcoTmV3c1RhZ3MuUkVUVVJOX1BBWU1FTlQpCiAgICAgICAgICAgICAgICAgICAgICAgIC5oYXBwZW5lZEF0KHJlY29yZC5nZXRDcmVhdGVUaW1lKCkpCiAgICAgICAgICAgICAgICAgICAgICAgIC5vcGVyYXRvcihyZWNvcmQuZ2V0Q3JlYXRlSWQoKSkKICAgICAgICAgICAgICAgICAgICAgICAgLnNvdXJjZShyZWNvcmQuZ2V0SWQoKSkKICAgICAgICAgICAgICAgICAgICAgICAgLnNvdXJjZU5hbWUocmVjb3JkLmdldE5hbWUoKSkKICAgICAgICAgICAgICAgICAgICAgICAgLmJ1aWxkQ29udHJhY3ROZXdzKGNvbnRyYWN0SWQsIENvbnRyYWN0TmV3c1R5cGUuQ09OVFJBQ1RfUkVUVVJOX1JFQ09SRF9DUkVBVEVEKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0b2RvLnNldAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2269,37 +2277,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0b2RvLnNldFJlbGF0ZWRCaXpUeXBlKFJlbGF0ZWRCaXpUeXBlLkNVU1RPTUVSKTsK</text>
+        <text encoding="base64">ICAgICAgICBQcm9kdWN0TmV3cyBuZXdzID0gbmV3IE5ld3NCdWlsZGVyKCkudGFnKE5ld3NUYWdzLkFDVElPTikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNsYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBOb3ROdWxsCg==</text>
+        <text encoding="base64">ICAgIEBBc3luYwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsCg==</text>
+        <text encoding="base64">ICAgICAgICB0b2RvLnNldAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDwvaW5jbHVkZT4K</text>
+        <text encoding="base64">ICAgICAgICB0b2RvLnNldFJlbGF0ZWRCaXpUeXBlKFJlbGF0ZWRCaXpUeXBlLkNVU1RPTUVSKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNsYXNzCg==</text>
       </register>
       <register name=":" type="4">
         <text>565</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxFdmVudExpc3RlbmVyXD4=</last-search>
+      <last-search encoding="base64">XDxwdWJsaXNoZXJcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxFdmVudExpc3RlbmVyXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxwdWJsaXNoZXJcPg==</last-pattern>
       <last-replace>cfg</last-replace>
       <last-substitute encoding="base64">XDxjb3VudFw+</last-substitute>
       <last-dir>-1</last-dir>
@@ -2325,8 +2333,8 @@
         <entry encoding="base64">XDxpc1Bvb2xcPg==</entry>
         <entry encoding="base64">XDx0eXBlXD4=</entry>
         <entry encoding="base64">XDxzYXZlQWN0aW9uXD4=</entry>
-        <entry encoding="base64">XDxwdWJsaXNoZXJcPg==</entry>
         <entry encoding="base64">XDxFdmVudExpc3RlbmVyXD4=</entry>
+        <entry encoding="base64">XDxwdWJsaXNoZXJcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>s/crm/cfg/g</entry>
