@@ -1941,6 +1941,12 @@
         <mark key="^" line="5" column="55" />
         <mark key="." line="15" column="0" />
       </file>
+      <file name="$USER_HOME$/work/kotlin-koans/src/i_introduction/_2_Named_Arguments/n02NamedArguments.kt" timestamp="1511433863420">
+        <mark key="[" line="26" column="39" />
+        <mark key="]" line="26" column="37" />
+        <mark key="." line="26" column="37" />
+        <mark key="^" line="26" column="37" />
+      </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-product/src/main/java/com/zifangdt/ch/product/api/UaaServerApi.java" timestamp="1510543006043">
         <mark key="[" line="11" column="42" />
         <mark key="]" line="11" column="42" />
@@ -2223,7 +2229,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHRvZG9UYXNrMShjb2xsZWN0aW9uKQo=</text>
+        <text encoding="base64">ICAgIGNvbGxlY3Rpb24uCg==</text>
       </register>
       <register name="-" type="4">
         <text>todoTask0()</text>
@@ -2235,7 +2241,7 @@
         <text encoding="base64">cHJvdGVjdGVkIHZvaWQgcG9zdFVwZGF0ZShUIHN0b3JlZCwgVCB1cGRhdGVkLCBDbGFzczw/PiB1cGRhdGVCb0NsYXNzKSB7CiAgICB9</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHRvZG9UYXNrMShjb2xsZWN0aW9uKQo=</text>
+        <text encoding="base64">ICAgIGNvbGxlY3Rpb24uCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2275,28 +2281,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bwo=</text>
+        <text encoding="base64">ICAgIHRvZG9UYXNrMigpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHBvCg==</text>
+        <text encoding="base64">ICAgIHRvZG9UYXNrMShjb2xsZWN0aW9uKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
+        <text encoding="base64">bwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHBvCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBFdmVudExpc3Rlbgo=</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgIExpc3Q8Q3VzdG9tZXJOZXdzPiBsaXN0ID0gY3VzdG9tZXJOZXdzTWFwcGVyLmZpbmRMaXN0KGlkLCB0YWcpOwogICAgU2V0PExvbmc+IGlkcyA9IGxpc3Quc3RyZWFtKCkubWFwKEN1c3RvbWVyTmV3czo6Z2V0T3BlcmF0b3IpLmNvbGxlY3QoQ29sbGVjdG9ycy50b1NldCgpKTsKICAgIGZldGNoVXNlck5hbWVzKGlkcyk7CgogICAgcmV0dXJuIGxpc3Q7CiAgICB9</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIEBFdmVudExpc3Rlbgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBMaXN0PEN1c3RvbWVyTmV3cz4gZmluZE5ld3MoTG9uZyBpZCwgU3RyaW5nIHRhZykgewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>565</text>
