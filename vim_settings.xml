@@ -489,6 +489,12 @@
         <mark key="^" line="2" column="28" />
         <mark key="." line="2" column="28" />
       </file>
+      <file name="$USER_HOME$/work/kotlin-koans/src/ii_collections/n21Partition.kt" timestamp="1511512601685">
+        <mark key="[" line="15" column="21" />
+        <mark key="]" line="15" column="32" />
+        <mark key="." line="15" column="32" />
+        <mark key="^" line="15" column="32" />
+      </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/dto/contract/setting/BoolConfig.java" timestamp="1508223196681">
         <mark key="[" line="9" column="15" />
         <mark key="]" line="9" column="17" />
@@ -2193,11 +2199,11 @@
       <jump line="78" column="27" filename="$USER_HOME$/work/kotlin-koans/test/ii_collections/TestShop.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHRvZG9Db2xsZWN0aW9uVGFzaygpCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>order</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWthXD4=</text>
@@ -2206,7 +2212,7 @@
         <text encoding="base64">ICAgICBQcm9kdWN0IHByb2R1Y3QgPSBldmVudC5nZXRQcm9kdWN0KCk7CiAgICAgICAgUHJvZHVjdE5ld3MgbmV3cyA9IG5ldyBOZXdzQnVpbGRlcigpCiAgICAgICAgICAgICAgICAudGFnKE5ld3NUYWdzLkFDVElPTikKICAgICAgICAgICAgICAgIC5oYXBwZW5lZEF0KHByb2R1Y3QuZ2V0Q3JlYXRlVGltZSgpKQogICAgICAgICAgICAgICAgLm9wZXJhdG9yKHByb2R1Y3QuZ2V0Q3JlYXRlSWQoKSkKICAgICAgICAgICAgICAgIC5zb3VyY2UocHJvZHVjdC5nZXRJZCgpKQogICAgICAgICAgICAgICAgLnNvdXJjZU5hbWUocHJvZHVjdC5nZXROYW1lKCkpCiAgICAgICAgICAgICAgICAuYnVpbGRQcm9kdWN0TmV3cyhwcm9kdWN0LmdldElkKCksIFByb2R1Y3ROZXdzVHlwZS5DUkVBVEUpOwogICAgICAgIHByb2R1Y3ROZXdzTWFwcGVyLmluc2VydFNlbGVjdGl2ZShuZXdzKTs=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHRvZG9Db2xsZWN0aW9uVGFzaygpCg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2246,28 +2252,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG9yZGVycy5tYXAgeyBpdC5wcm9kdWN0cy5zdW1CIH0gfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGZhbHNlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHRvZG9Db2xsZWN0aW9uVGFzaygpCg==</text>
+        <text encoding="base64">ICAgICAgICB9IGVsc2Ugewo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHRvZG9Db2xsZWN0aW9uVGFzaygpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHRydWUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG9yZGVyZWRQcm9kdWN0cwo=</text>
+        <text encoding="base64">ICAgICAgICBjdXN0b21lci5vcmRlcnMucGFydGl0aW9uIHsgaXQuaXNEZWxpdmVyZWQgfQo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgIHRvZG9Db2xsZWN0aW9uVGFzaygpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHRvZG9Db2xsZWN0aW9uVGFzaygpCg==</text>
+        <text encoding="base64">ICAgIGN1c3RvbWVycy5wYXJ0aXRpb24geyBpdC5kZWxpdiB9Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgIHRvZG9Db2xsZWN0aW9uVGFzaygpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRvZG9Db2xsZWN0aW9uVGFzaygpCg==</text>
+        <text encoding="base64">ICAgIG9yZGVycy5tYXAgeyBpdC5wcm9kdWN0cy5zdW1CIH0gfQo=</text>
       </register>
       <register name=":" type="4">
         <text>565</text>
