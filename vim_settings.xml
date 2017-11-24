@@ -204,6 +204,13 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="5" column="18" />
       </file>
+      <file name="$USER_HOME$/work/kotlin-koans/src/i_introduction/_10_Object_Expressions/n10ObjectExpressions.kt" timestamp="1511507452058">
+        <mark key="'" line="3" column="12" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="^" line="21" column="60" />
+        <mark key="." line="22" column="0" />
+      </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-customer/src/main/resources/mapper/setting/CfgCustomerSourceMapper.xml" timestamp="1511234936702">
         <mark key="[" line="18" column="2" />
         <mark key="]" line="18" column="2" />
@@ -244,6 +251,12 @@
         <mark key="]" line="24" column="0" />
         <mark key="^" line="44" column="16" />
         <mark key="." line="24" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/kotlin-koans/src/i_introduction/_11_SAM_Conversions/n11SAMConversions.kt" timestamp="1511507334480">
+        <mark key="[" line="17" column="42" />
+        <mark key="]" line="17" column="46" />
+        <mark key="." line="17" column="46" />
+        <mark key="^" line="17" column="46" />
       </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-customer/src/main/resources/mapper/setting/UserOrgaMapper.xml" timestamp="1509006589059">
         <mark key="[" line="2" column="59" />
@@ -814,6 +827,12 @@
         <mark key="^" line="5" column="51" />
         <mark key="." line="5" column="13" />
       </file>
+      <file name="$USER_HOME$/work/kotlin-koans/src/i_introduction/_12_Extensions_On_Collections/n12ExtensionsOnCollections.kt" timestamp="1511507688922">
+        <mark key="[" line="20" column="50" />
+        <mark key="]" line="20" column="47" />
+        <mark key="^" line="20" column="47" />
+        <mark key="." line="20" column="47" />
+      </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-market/src/main/java/com/zifangdt/ch/market/bo/PromotionBo.java" timestamp="1511160564957">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="13" column="19" />
@@ -905,9 +924,6 @@
         <mark key="]" line="22" column="20" />
         <mark key="^" line="22" column="20" />
         <mark key="." line="22" column="20" />
-      </file>
-      <file name="/fragment.kt" timestamp="1511436931261">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-product/src/main/java/com/zifangdt/ch/product/web/CategoryController.java" timestamp="1509700422430">
         <mark key="[" line="42" column="30" />
@@ -1016,12 +1032,6 @@
         <mark key="]" line="13" column="90" />
         <mark key="^" line="13" column="90" />
         <mark key="." line="13" column="90" />
-      </file>
-      <file name="$USER_HOME$/work/kotlin-koans/src/i_introduction/_3_Default_Arguments/n03DefaultArguments.kt" timestamp="1511436379856">
-        <mark key="'" line="16" column="20" />
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-uaa/src/main/java/com/zifangdt/ch/uaa/mapper/UserMapper.java" timestamp="1508405016816">
         <mark key="[" line="18" column="41" />
@@ -1174,6 +1184,12 @@
         <mark key="'" line="62" column="19" />
         <mark key="[" line="58" column="3" />
         <mark key="]" line="64" column="4" />
+      </file>
+      <file name="$USER_HOME$/work/kotlin-koans/src/ii_collections/n13Introduction.kt" timestamp="1511508248976">
+        <mark key="[" line="20" column="6" />
+        <mark key="]" line="20" column="10" />
+        <mark key="^" line="20" column="10" />
+        <mark key="." line="20" column="10" />
       </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-sys-setting/src/main/java/com/zifangdt/ch/syssetting/service/UserOrgaService.java" timestamp="1508139078695">
         <mark key="[" line="16" column="7" />
@@ -1891,6 +1907,9 @@
         <mark key="^" line="12" column="25" />
         <mark key="." line="12" column="25" />
       </file>
+      <file name="$USER_HOME$/work/kotlin-koans/test/ii_collections/TestShop.kt" timestamp="1511508342431">
+        <mark key="'" line="66" column="4" />
+      </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/dao/MyBatisConfig.java" timestamp="1510218627807">
         <mark key="[" line="41" column="0" />
         <mark key="]" line="41" column="0" />
@@ -2214,9 +2233,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="169" column="8" filename="$USER_HOME$/work/ch-server/ch-server-market/src/main/java/com/zifangdt/ch/market/web/PromotionController.java" />
-      <jump line="140" column="15" filename="$USER_HOME$/work/ch-server/ch-server-market/src/main/java/com/zifangdt/ch/market/web/PromotionController.java" />
-      <jump line="82" column="41" filename="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/dto/market/PromotionJoin.java" />
       <jump line="0" column="0" filename="$USER_HOME$/work/ch-server/ch-server-sys-setting/src/main/java/com/zifangdt/ch/syssetting/web/QuickEntryRuleController.java" />
       <jump line="466" column="22" filename="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/service/BaseService.java" />
       <jump line="459" column="22" filename="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/service/BaseService.java" />
@@ -2314,22 +2330,25 @@
       <jump line="125" column="22" filename="$USER_HOME$/work/ch-server/ch-server-product/src/main/java/com/zifangdt/ch/product/service/ProductService.java" />
       <jump line="130" column="33" filename="$USER_HOME$/work/ch-server/ch-server-product/src/main/java/com/zifangdt/ch/product/service/ProductService.java" />
       <jump line="506" column="19" filename="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/service/BaseService.java" />
+      <jump line="3" column="12" filename="$USER_HOME$/work/kotlin-koans/src/i_introduction/_10_Object_Expressions/n10ObjectExpressions.kt" />
+      <jump line="0" column="0" filename="$USER_HOME$/work/kotlin-koans/src/ii_collections/n13Introduction.kt" />
+      <jump line="66" column="4" filename="$USER_HOME$/work/kotlin-koans/test/ii_collections/TestShop.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>todoTask9()</text>
+        <text>collections</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwb3N0VXBkYXRlXD4=</text>
+        <text encoding="base64">XDxtYXBcPg==</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ICAgICBQcm9kdWN0IHByb2R1Y3QgPSBldmVudC5nZXRQcm9kdWN0KCk7CiAgICAgICAgUHJvZHVjdE5ld3MgbmV3cyA9IG5ldyBOZXdzQnVpbGRlcigpCiAgICAgICAgICAgICAgICAudGFnKE5ld3NUYWdzLkFDVElPTikKICAgICAgICAgICAgICAgIC5oYXBwZW5lZEF0KHByb2R1Y3QuZ2V0Q3JlYXRlVGltZSgpKQogICAgICAgICAgICAgICAgLm9wZXJhdG9yKHByb2R1Y3QuZ2V0Q3JlYXRlSWQoKSkKICAgICAgICAgICAgICAgIC5zb3VyY2UocHJvZHVjdC5nZXRJZCgpKQogICAgICAgICAgICAgICAgLnNvdXJjZU5hbWUocHJvZHVjdC5nZXROYW1lKCkpCiAgICAgICAgICAgICAgICAuYnVpbGRQcm9kdWN0TmV3cyhwcm9kdWN0LmdldElkKCksIFByb2R1Y3ROZXdzVHlwZS5DUkVBVEUpOwogICAgICAgIHByb2R1Y3ROZXdzTWFwcGVyLmluc2VydFNlbGVjdGl2ZShuZXdzKTs=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2369,44 +2388,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFyc2VJbnQoIjEiKSAtPiAgCg==</text>
+        <text encoding="base64">ICAgIHRvZG9UYXNrMTIoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwYXJzZUludChlKQo=</text>
+        <text encoding="base64">ICAgIENvbGxlY3Rpb25zCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y2xhc3MgRm9vKCk6IEV4cHIoKQo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG8yIC0gbzEK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>TODO(
-    &quot;&quot;&quot;
-        Task 8.
-        Complete the implementation of the 'eval' function above using smart casts and 'when' expression.
-        The 'JavaCode8.eval' method provides the similar functionality written in Java.
-    &quot;&quot;&quot;,
-    documentation = doc8(),
-    references = { JavaCode8().eval(expr) })</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgVE9ETygibm90IGltcGxlbWVudGVkIikgLy9UbyBjaGFuZ2UgYm9keSBvZiBjcmVhdGVkIGZ1bmN0aW9ucyB1c2UgRmlsZSB8IFNldHRpbmdzIHwgRmlsZSBUZW1wbGF0ZXMuCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFyc2VJbnQoIjEiKSAtPiAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>565</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwb3N0VXBkYXRlXD4=</last-search>
+      <last-search encoding="base64">XDxtYXBcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwb3N0VXBkYXRlXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxtYXBcPg==</last-pattern>
       <last-replace>cfg</last-replace>
       <last-substitute encoding="base64">XDxjb3VudFw+</last-substitute>
       <last-dir>-1</last-dir>
@@ -2414,8 +2426,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxOb3ROdWxsXD4=</entry>
-        <entry encoding="base64">XDxwb3N0U2F2ZVw+</entry>
         <entry encoding="base64">XDxzYXZlQ29udGFjdFw+</entry>
         <entry encoding="base64">XDxleGlzdHNcPg==</entry>
         <entry encoding="base64">XDx1c2VybmFtZVw+</entry>
@@ -2434,6 +2444,8 @@
         <entry encoding="base64">XDxwcm9kdWN0TmV3c1w+</entry>
         <entry encoding="base64">XDxwcm9kdWN0TmV3c01hcHBlclw+</entry>
         <entry encoding="base64">XDxwb3N0VXBkYXRlXD4=</entry>
+        <entry encoding="base64">XDxkb2MxMFw+</entry>
+        <entry encoding="base64">XDxtYXBcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>s/crm/cfg/g</entry>
