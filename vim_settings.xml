@@ -2048,6 +2048,11 @@
         <mark key="^" line="6" column="21" />
         <mark key="." line="6" column="21" />
       </file>
+      <file name="$USER_HOME$/work/kotlin-koans/src/i_introduction/_9_Extension_Functions/n09ExtensionFunctions.kt" timestamp="1511504404032">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
+      </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-sys-setting/src/main/java/com/zifangdt/ch/SysSettingApplication.java" timestamp="1509434641358">
         <mark key="[" line="11" column="35" />
         <mark key="]" line="11" column="35" />
@@ -2312,10 +2317,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFyc2VJbnQoIjEiKSAtPiAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>todoTask9()</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwb3N0VXBkYXRlXD4=</text>
@@ -2324,7 +2329,7 @@
         <text encoding="base64">ICAgICBQcm9kdWN0IHByb2R1Y3QgPSBldmVudC5nZXRQcm9kdWN0KCk7CiAgICAgICAgUHJvZHVjdE5ld3MgbmV3cyA9IG5ldyBOZXdzQnVpbGRlcigpCiAgICAgICAgICAgICAgICAudGFnKE5ld3NUYWdzLkFDVElPTikKICAgICAgICAgICAgICAgIC5oYXBwZW5lZEF0KHByb2R1Y3QuZ2V0Q3JlYXRlVGltZSgpKQogICAgICAgICAgICAgICAgLm9wZXJhdG9yKHByb2R1Y3QuZ2V0Q3JlYXRlSWQoKSkKICAgICAgICAgICAgICAgIC5zb3VyY2UocHJvZHVjdC5nZXRJZCgpKQogICAgICAgICAgICAgICAgLnNvdXJjZU5hbWUocHJvZHVjdC5nZXROYW1lKCkpCiAgICAgICAgICAgICAgICAuYnVpbGRQcm9kdWN0TmV3cyhwcm9kdWN0LmdldElkKCksIFByb2R1Y3ROZXdzVHlwZS5DUkVBVEUpOwogICAgICAgIHByb2R1Y3ROZXdzTWFwcGVyLmluc2VydFNlbGVjdGl2ZShuZXdzKTs=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFyc2VJbnQoIjEiKSAtPiAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2364,18 +2369,21 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwYXJzZUludChlKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFyc2VJbnQoIjEiKSAtPiAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y2xhc3MgRm9vKCk6IEV4cHIoKQo=</text>
+        <text encoding="base64">ICAgICAgICBwYXJzZUludChlKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Y2xhc3MgRm9vKCk6IEV4cHIoKQo=</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">fQo=</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>TODO(
     &quot;&quot;&quot;
         Task 8.
@@ -2385,14 +2393,11 @@
     documentation = doc8(),
     references = { JavaCode8().eval(expr) })</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>565</text>
