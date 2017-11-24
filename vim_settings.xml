@@ -1780,11 +1780,11 @@
         <mark key="^" line="27" column="25" />
         <mark key="." line="27" column="25" />
       </file>
-      <file name="$USER_HOME$/work/kotlin-koans/src/i_introduction/_8_Smart_Casts/n08SmartCasts.kt" timestamp="1511438304364">
-        <mark key="[" line="19" column="18" />
-        <mark key="]" line="19" column="23" />
-        <mark key="." line="19" column="23" />
-        <mark key="^" line="19" column="23" />
+      <file name="$USER_HOME$/work/kotlin-koans/src/i_introduction/_8_Smart_Casts/n08SmartCasts.kt" timestamp="1511492432461">
+        <mark key="[" line="19" column="4" />
+        <mark key="]" line="19" column="10" />
+        <mark key="^" line="19" column="10" />
+        <mark key="." line="19" column="10" />
       </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-base/src/main/resources/mapper/setting/UserOrgaMapper.xml" timestamp="1509007615640">
         <mark key="[" line="2" column="35" />
@@ -1906,6 +1906,7 @@
         <mark key="." line="20" column="3" />
         <mark key="^" line="20" column="3" />
       </file>
+      <file name="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/constant/NewsTags.java" timestamp="1511493041999" />
       <file name="$USER_HOME$/workr/tcache/src/main/resources/application.yml" timestamp="1509505735332">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="11" />
@@ -2066,10 +2067,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwb3N0VXBkYXRlXD4=</text>
@@ -2078,7 +2079,7 @@
         <text encoding="base64">ICAgICBQcm9kdWN0IHByb2R1Y3QgPSBldmVudC5nZXRQcm9kdWN0KCk7CiAgICAgICAgUHJvZHVjdE5ld3MgbmV3cyA9IG5ldyBOZXdzQnVpbGRlcigpCiAgICAgICAgICAgICAgICAudGFnKE5ld3NUYWdzLkFDVElPTikKICAgICAgICAgICAgICAgIC5oYXBwZW5lZEF0KHByb2R1Y3QuZ2V0Q3JlYXRlVGltZSgpKQogICAgICAgICAgICAgICAgLm9wZXJhdG9yKHByb2R1Y3QuZ2V0Q3JlYXRlSWQoKSkKICAgICAgICAgICAgICAgIC5zb3VyY2UocHJvZHVjdC5nZXRJZCgpKQogICAgICAgICAgICAgICAgLnNvdXJjZU5hbWUocHJvZHVjdC5nZXROYW1lKCkpCiAgICAgICAgICAgICAgICAuYnVpbGRQcm9kdWN0TmV3cyhwcm9kdWN0LmdldElkKCksIFByb2R1Y3ROZXdzVHlwZS5DUkVBVEUpOwogICAgICAgIHByb2R1Y3ROZXdzTWFwcGVyLmluc2VydFNlbGVjdGl2ZShuZXdzKTs=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2120,26 +2121,33 @@
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+      <register name="3" type="4">
+        <text>TODO(
+    &quot;&quot;&quot;
+        Task 8.
+        Complete the implementation of the 'eval' function above using smart casts and 'when' expression.
+        The 'JavaCode8.eval' method provides the similar functionality written in Java.
+    &quot;&quot;&quot;,
+    documentation = doc8(),
+    references = { JavaCode8().eval(expr) })</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByb3RlY3RlZCB2b2lkIHBvc3RVcGRhdGUoVCBzdG9yZWQsIFQgdXBkYXRlZCwgQ2xhc3M8Pz4gdXBkYXRlQm9DbGFzcykgewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">IFByb2R1Y3ROZXdzIG5ld3MgPSBuZXcgTmV3c0J1aWxkZXIoKQogICAgICAgICAgICAgICAgLnRhZyhOZXdzVGFncy5BQ1RJT04pCiAgICAgICAgICAgICAgICAuaGFwcGVuZWRBdCh0b0JlU2F2ZWQuZ2V0Q3JlYXRlVGltZSgpKQogICAgICAgICAgICAgICAgLm9wZXJhdG9yKEN1cnJlbnRVc2VyLmdldFVzZXJJZCgpKQogICAgICAgICAgICAgICAgLnNvdXJjZSh0b0JlU2F2ZWQuZ2V0SWQoKSkKICAgICAgICAgICAgICAgIC5zb3VyY2VOYW1lKHRvQmVTYXZlZC5nZXROYW1lKCkpCiAgICAgICAgICAgICAgICAuYnVpbGRQcm9kdWN0TmV3cyh0b0JlU2F2ZWQuZ2V0SWQoKSwgUHJvZHVjdE5ld3NUeXBlLkNSRUFURSk7</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIH0K</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgUHJvZHVjdCBwcm9kdWN0Owo=</text>
+        <text encoding="base64">ICAgIHByb3RlY3RlZCB2b2lkIHBvc3RVcGRhdGUoVCBzdG9yZWQsIFQgdXBkYXRlZCwgQ2xhc3M8Pz4gdXBkYXRlQm9DbGFzcykgewo=</text>
       </register>
       <register name=":" type="4">
         <text>565</text>
