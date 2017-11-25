@@ -2,15 +2,11 @@
   <component name="FindSettings">
     <option name="customScope" value="Project Files" />
     <option name="defaultScopeName" value="Project Files" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project Files" />
     <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
-      <mask>*.properties</mask>
       <mask>*.html</mask>
       <mask>*.jsp</mask>
-      <mask>*.xml</mask>
       <mask>*.js</mask>
       <mask>*.as</mask>
       <mask>*.css</mask>
@@ -19,8 +15,6 @@
       <mask>*.mxml</mask>
       <mask>*.mxl</mask>
       <mask>*.ml</mask>
-      <mask>*.l</mask>
-      <mask>*.</mask>
       <mask>*</mask>
       <mask>p</mask>
       <mask>po</mask>
@@ -29,6 +23,17 @@
       <mask>pom.xm</mask>
       <mask>pom.xml</mask>
       <mask>java</mask>
+      <mask>*.ava</mask>
+      <mask>*.va</mask>
+      <mask>*.a</mask>
+      <mask>*.l</mask>
+      <mask>*.jav</mask>
+      <mask>*.xml</mask>
+      <mask>*.xm</mask>
+      <mask>*.x</mask>
+      <mask>*.</mask>
+      <mask>*.j</mask>
+      <mask>*.ja</mask>
       <mask>*.java</mask>
     </recentFileMasks>
   </component>
