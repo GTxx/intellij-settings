@@ -1345,10 +1345,10 @@
         <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/api/UaaServerApiForSetting.java" timestamp="1511764055827">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="^" line="24" column="45" />
-        <mark key="." line="23" column="0" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="^" line="21" column="45" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/work/kotlin-koans/src/i_introduction/_7_Nullable_Types/n07NullableTypes.kt" timestamp="1511437942994">
         <mark key="[" line="27" column="61" />
@@ -2128,7 +2128,7 @@
         <mark key="." line="16" column="59" />
         <mark key="^" line="16" column="59" />
       </file>
-      <file name="$USER_HOME$/work/ch-server/ch-server-product/src/main/java/com/zifangdt/ch/product/web/ProductController.java" timestamp="1511775193126">
+      <file name="$USER_HOME$/work/ch-server/ch-server-product/src/main/java/com/zifangdt/ch/product/web/ProductController.java" timestamp="1511777140630">
         <mark key="[" line="140" column="45" />
         <mark key="]" line="140" column="45" />
         <mark key="." line="140" column="45" />
