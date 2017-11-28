@@ -540,8 +540,11 @@
         <mark key="^" line="17" column="72" />
         <mark key="." line="17" column="72" />
       </file>
-      <file name="$USER_HOME$/work/kotlin-koans/src/iv_properties/n35HowDelegatesWork.kt" timestamp="1511840579682">
+      <file name="$USER_HOME$/work/kotlin-koans/src/iv_properties/n35HowDelegatesWork.kt" timestamp="1511841016503">
         <mark key="'" line="8" column="4" />
+        <mark key="[" line="31" column="81" />
+        <mark key="]" line="31" column="81" />
+        <mark key="." line="31" column="81" />
       </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-sys-setting/src/main/java/com/zifangdt/ch/syssetting/CachingConfig.java" timestamp="1509525248758">
         <mark key="[" line="15" column="40" />
@@ -2011,10 +2014,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>thisRef</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>thisRef</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0b2RvVGFzazM1XD4=</text>
