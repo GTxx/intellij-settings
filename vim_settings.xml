@@ -712,7 +712,7 @@
         <mark key="^" line="9" column="43" />
         <mark key="." line="9" column="43" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.1.4/ddbb6fc27a3d79fa1ff8b70edb977fe8b1e5a2f9/kotlin-stdlib-1.1.4-sources.jar!/generated/_Collections.kt" timestamp="1511857112328" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.1.4/ddbb6fc27a3d79fa1ff8b70edb977fe8b1e5a2f9/kotlin-stdlib-1.1.4-sources.jar!/generated/_Collections.kt" timestamp="1511859661702" />
       <file name="$USER_HOME$/work/ch-server/ch-server-customer/src/main/java/com/zifangdt/ch/customer/service/setting/ContractUserConfigService.java" timestamp="1509006666802">
         <mark key="[" line="21" column="14" />
         <mark key="]" line="21" column="12" />
@@ -751,6 +751,12 @@
         <mark key="[" line="5" column="13" />
         <mark key="]" line="5" column="13" />
         <mark key="." line="5" column="13" />
+      </file>
+      <file name="$USER_HOME$/work/kotlin-koans/src/v_builders/n40BuildersHowItWorks.kt" timestamp="1511858867927">
+        <mark key="[" line="86" column="13" />
+        <mark key="]" line="86" column="12" />
+        <mark key="." line="86" column="12" />
+        <mark key="^" line="86" column="12" />
       </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-contract/src/main/java/com/zifangdt/ch/contract/bo/setting/StepUser.java" timestamp="1509956229161">
         <mark key="[" line="2" column="0" />
@@ -1190,6 +1196,12 @@
         <mark key="^" line="20" column="10" />
         <mark key="." line="20" column="10" />
       </file>
+      <file name="$USER_HOME$/work/kotlin-koans/src/vi_generics/n41GenericFunctions.kt" timestamp="1511860059036">
+        <mark key="[" line="45" column="116" />
+        <mark key="]" line="45" column="116" />
+        <mark key="^" line="45" column="116" />
+        <mark key="." line="45" column="116" />
+      </file>
       <file name="$USER_HOME$/work/kotlin-koans/src/ii_collections/n23CompoundTasks.kt" timestamp="1511515220886">
         <mark key="[" line="16" column="90" />
         <mark key="]" line="16" column="90" />
@@ -1621,11 +1633,11 @@
         <mark key="." line="14" column="15" />
         <mark key="^" line="14" column="15" />
       </file>
-      <file name="$USER_HOME$/work/kotlin-koans/src/v_builders/n39HtmlBuilders.kt" timestamp="1511857955371">
-        <mark key="[" line="23" column="13" />
-        <mark key="]" line="23" column="13" />
-        <mark key="^" line="23" column="13" />
-        <mark key="." line="23" column="13" />
+      <file name="$USER_HOME$/work/kotlin-koans/src/v_builders/n39HtmlBuilders.kt" timestamp="1511858972006">
+        <mark key="[" line="44" column="24" />
+        <mark key="]" line="44" column="52" />
+        <mark key="^" line="44" column="52" />
+        <mark key="." line="44" column="52" />
       </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-sys-setting/src/main/resources/mapper/ContractStepDefinitionMapper.xml" timestamp="1509693581742">
         <mark key="[" line="12" column="37" />
@@ -1895,12 +1907,12 @@
         <mark key="^" line="12" column="25" />
         <mark key="." line="12" column="25" />
       </file>
-      <file name="$USER_HOME$/work/kotlin-koans/src/v_builders/n36ExtensionFunctionLiterals.kt" timestamp="1511856566435">
+      <file name="$USER_HOME$/work/kotlin-koans/src/v_builders/n36ExtensionFunctionLiterals.kt" timestamp="1511859030410">
         <mark key="'" line="16" column="35" />
         <mark key="[" line="15" column="11" />
-        <mark key="]" line="15" column="26" />
-        <mark key="." line="15" column="26" />
-        <mark key="^" line="15" column="25" />
+        <mark key="]" line="15" column="11" />
+        <mark key="." line="15" column="11" />
+        <mark key="^" line="15" column="11" />
       </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/dao/MyBatisConfig.java" timestamp="1510218627807">
         <mark key="[" line="41" column="0" />
@@ -2311,24 +2323,19 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0aGlzXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>if (hasNext()){
-               current = current.nextDay()
-               return current
-           } else {
-               throw NoSuchElementException()
-           }</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgIGlmIChjaGVjayh4KSkgYXJyYXlMaXN0LmFkZCh4KSAgZWxzZSBhcnJheUxpc3QxLmFkZCh4KQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGEubmUK</text>
+        <text encoding="base64">aW1wb3J0IGtvdGxpbi5jb2xsZWN0aW9ucy5IYXNoU2V0Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2368,28 +2375,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGEubmUK</text>
+        <text encoding="base64">aW1wb3J0IGtvdGxpbi5jb2xsZWN0aW9ucy5BcnJheUxpc3QK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGFbMV0gPSAyCg==</text>
+        <text encoding="base64">ICAgIHZhbCBzZWNvbmQgPSBBcnJheUxpc3Q8VD4oKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGFbMV0gPSAyCg==</text>
+        <text encoding="base64">ICAgIHZhbCBmaXJzdCA9IEFycmF5TGlzdDxUPigpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGRkCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGEuZ2V0KCkK</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICB0b2RvVGFzazM5KCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLgo=</text>
+        <text encoding="base64">ICAgIGEubmUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIFN0cmluZ0J1aWxkZXIoKS5hcHBseSB7ICB9Cg==</text>
+        <text encoding="base64">ICAgIGEubmUK</text>
       </register>
       <register name=":" type="4">
         <text>565</text>
