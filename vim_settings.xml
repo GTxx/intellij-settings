@@ -769,6 +769,12 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/piczz/app/src/main/java/com/xx/piczz/activity/Album.kt" timestamp="1511959547683">
+        <mark key="[" line="18" column="25" />
+        <mark key="]" line="18" column="25" />
+        <mark key="^" line="18" column="61" />
+        <mark key="." line="18" column="25" />
+      </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/util/requestcache/CachingConfig.java" timestamp="1509591844172">
         <mark key="[" line="6" column="22" />
         <mark key="]" line="6" column="22" />
@@ -2160,10 +2166,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>, url = &quot;http://localhost:&quot;)</text>
+        <text>(</text>
       </register>
       <register name="-" type="4">
-        <text>, url = &quot;http://localhost:&quot;)</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvbkRvd25sb2FkXD4=</text>
@@ -2172,7 +2178,9 @@
         <text encoding="base64">ICAgIDxyZXN1bHQgY29sdW1uPSJwal9zdWJtaXRfaW5mbyIgamRiY1R5cGU9IlZBUkNIQVIiIHByb3BlcnR5PSJzdWJtaXRJbmZvIiAvPgo=</text>
       </register>
       <register name="1" type="4">
-        <text>value = &quot;CUSTOMER-SERVER&quot;, path = &quot;/customers&quot;</text>
+        <text>override fun onCreate(savedInstanceState: Bundle?, persistentState: PersistableBundle?) {
+        super.onCreate(savedInstanceState, persistentState)
+    }</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2211,29 +2219,29 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">fQo=</text>
+      <register name="2" type="4">
+        <text>value = &quot;CUSTOMER-SERVER&quot;, path = &quot;/customers&quot;</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRhdGFFbnVtLmluaXRQYWlycyhjb21tb25TZXJ2ZXJBcGkuZ2V0RGF0YShkYXRhRW51bSkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYoZGF0YUVudW0uaXNQcm9kdWN0RGF0YSgpKXsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRhdGFFbnVtLmluaXRQYWlycyhjb21tb25TZXJ2ZXJBcGkuZ2V0RGF0YShkYXRhRW51bSkpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IoRGF0YUVudW0gZGF0YUVudW06RGF0YUVudW0udmFsdWVzKCkpewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYoZGF0YUVudW0uaXNQcm9kdWN0RGF0YSgpKXsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZihkYXRhRW51bS5pc1Byb2R1Y3REYXRhKCkpewo=</text>
+        <text encoding="base64">ICAgICAgICBmb3IoRGF0YUVudW0gZGF0YUVudW06RGF0YUVudW0udmFsdWVzKCkpewo=</text>
       </register>
       <register name=":" type="4">
         <text>565</text>
