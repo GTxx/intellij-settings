@@ -1115,6 +1115,12 @@
         <mark key="^" line="13" column="90" />
         <mark key="." line="13" column="90" />
       </file>
+      <file name="$USER_HOME$/work/kotlin-koans/src/i_introduction/_3_Default_Arguments/n03DefaultArguments.kt" timestamp="1511436379856">
+        <mark key="'" line="16" column="20" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+      </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-uaa/src/main/java/com/zifangdt/ch/uaa/mapper/UserMapper.java" timestamp="1508405016816">
         <mark key="[" line="18" column="41" />
         <mark key="]" line="20" column="34" />
@@ -1813,6 +1819,12 @@
         <mark key="^" line="9" column="56" />
         <mark key="." line="9" column="56" />
       </file>
+      <file name="$USER_HOME$/work/ch-server/ch-server-gateway/src/main/java/com/zifangdt/ch/gateway/config/SecurityConfig.java" timestamp="1511921988794">
+        <mark key="'" line="41" column="25" />
+        <mark key="[" line="106" column="5" />
+        <mark key="]" line="108" column="0" />
+        <mark key="." line="108" column="0" />
+      </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-uaa/src/main/java/com/zifangdt/ch/uaa/web/OrganizationController.java" timestamp="1510305670230">
         <mark key="'" line="25" column="4" />
         <mark key="[" line="25" column="4" />
@@ -2165,6 +2177,12 @@
         <mark key="." line="126" column="37" />
         <mark key="^" line="126" column="37" />
       </file>
+      <file name="$USER_HOME$/work/kotlin-koans/src/i_introduction/_4_Lambdas/n04Lambdas.kt" timestamp="1511857482423">
+        <mark key="'" line="20" column="29" />
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
+      </file>
       <file name="$USER_HOME$/work/kotlin-koans/src/i_introduction/_8_Smart_Casts/n08SmartCasts.kt" timestamp="1511502208785">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
@@ -2502,7 +2520,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBtYXBwZXIuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>Category</text>
@@ -2514,7 +2532,7 @@
         <text encoding="base64">QEdyb3VwU2VxdWVuY2Uoe1N0ZXBPcmdhLmNsYXNzLCBWYWxpZE9yZGVyLlNlY29uZC5jbGFzcywgVmFsaWRPcmRlci5UaGlyZC5jbGFzc30pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBtYXBwZXIuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2554,28 +2572,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QEdyb3VwU2VxdWVuY2Uoe0NhdGVnb3J5LmNsYXNzLCBWYWxpZE9yZGVyLlNlY29uZC5jbGFzc30pCg==</text>
+        <text encoding="base64">ICAgICAgICBtYXBwZXIuCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cAo=</text>
+        <text encoding="base64">QEdyb3VwU2VxdWVuY2Uoe0NhdGVnb3J5LmNsYXNzLCBWYWxpZE9yZGVyLlNlY29uZC5jbGFzc30pCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS56aWZhbmdkdC5jaC5wcm9kdWN0Lm1hcHBlci5DYXRlZ29yeU1hcHBlcjsK</text>
+        <text encoding="base64">cAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS56aWZhbmdkdC5jaC5wcm9kdWN0Lm1hcHBlci5DYXRlZ29yeU1hcHBlcjsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIENhdGVnb3J5TWFwcGVyIGNhdGVnb3J5TWFwcGVyOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
+        <text encoding="base64">ICAgIENhdGVnb3J5TWFwcGVyIGNhdGVnb3J5TWFwcGVyOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZmFsc2U7Cg==</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
       </register>
-      <register name="9" type="4">
-        <text>value = &quot;CUSTOMER-SERVER&quot;, path = &quot;/customers&quot;</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZmFsc2U7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>565</text>
