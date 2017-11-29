@@ -1813,11 +1813,11 @@
         <mark key="^" line="9" column="56" />
         <mark key="." line="9" column="56" />
       </file>
-      <file name="$USER_HOME$/work/ch-server/ch-server-gateway/src/main/java/com/zifangdt/ch/gateway/config/SecurityConfig.java" timestamp="1511939841924">
+      <file name="$USER_HOME$/work/ch-server/ch-server-gateway/src/main/java/com/zifangdt/ch/gateway/config/SecurityConfig.java" timestamp="1511940683211">
         <mark key="'" line="63" column="28" />
-        <mark key="[" line="100" column="23" />
-        <mark key="]" line="101" column="15" />
-        <mark key="." line="101" column="15" />
+        <mark key="[" line="103" column="0" />
+        <mark key="]" line="103" column="0" />
+        <mark key="." line="103" column="0" />
         <mark key="^" line="101" column="15" />
       </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-uaa/src/main/java/com/zifangdt/ch/uaa/web/OrganizationController.java" timestamp="1510305670230">
@@ -2512,8 +2512,8 @@
       <jump line="9" column="0" filename="$USER_HOME$/work/ch-server/ch-server-market/src/main/java/com/zifangdt/ch/market/web/PromotionController.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>component</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>component</text>
@@ -2567,26 +2567,26 @@
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="4">
         <text encoding="base64">ICAgIC8qKgogICAgICog6I635Y+W5rS75Yqo5oql5ZCN6aG16Z2i55qE5qC35byPCiAgICAgKiBAcGFyYW0gcHJvbW90aW9uSWQKICAgICAqIEByZXR1cm4KICAgICAqLwogICAgQEdldE1hcHBpbmcoIi97aWR9L2NvbXBvbmVudCIpCiAgICBTdHJpbmcgZ2V0UHJvbW90aW9uTGF5b3V0KEBQYXRoVmFyaWFibGUoImlkIikgTG9uZyBwcm9tb3Rpb25JZCl7CiAgICAgICAgcmV0dXJuIHByb21vdGlvblNlcnZpY2UuZ2V0KHByb21vdGlvbklkKS5nZXRDb21wb25lbnRzKCk7CiAgICB9</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZWdpc3RyeS4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZWdpc3RyeS4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZWdpc3RyeS5hbnRNYXRjaGVycygiL20vIikuYW5vbnltb3VzKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHZhbCBiID0gYSA/OiAK</text>
+        <text encoding="base64">ICAgICAgICByZWdpc3RyeS5hbnRNYXRjaGVycygiL20vIikuYW5vbnltb3VzKCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgIHZhbCBiID0gYSA/OiAK</text>
       </register>
       <register name=":" type="4">
         <text>565</text>
