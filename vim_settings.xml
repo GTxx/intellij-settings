@@ -1819,11 +1819,11 @@
         <mark key="^" line="9" column="56" />
         <mark key="." line="9" column="56" />
       </file>
-      <file name="$USER_HOME$/work/ch-server/ch-server-gateway/src/main/java/com/zifangdt/ch/gateway/config/SecurityConfig.java" timestamp="1511921988794">
+      <file name="$USER_HOME$/work/ch-server/ch-server-gateway/src/main/java/com/zifangdt/ch/gateway/config/SecurityConfig.java" timestamp="1511935762961">
         <mark key="'" line="41" column="25" />
-        <mark key="[" line="106" column="5" />
-        <mark key="]" line="108" column="0" />
-        <mark key="." line="108" column="0" />
+        <mark key="[" line="70" column="0" />
+        <mark key="]" line="70" column="0" />
+        <mark key="." line="70" column="0" />
       </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-uaa/src/main/java/com/zifangdt/ch/uaa/web/OrganizationController.java" timestamp="1510305670230">
         <mark key="'" line="25" column="4" />
@@ -2525,7 +2525,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHZhbCBiID0gYSA/OiAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>{1 }</text>
@@ -2537,7 +2537,7 @@
         <text encoding="base64">QEdyb3VwU2VxdWVuY2Uoe1N0ZXBPcmdhLmNsYXNzLCBWYWxpZE9yZGVyLlNlY29uZC5jbGFzcywgVmFsaWRPcmRlci5UaGlyZC5jbGFzc30pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHZhbCBiID0gYSA/OiAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2577,28 +2577,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICByZWdpc3RyeS5hbnRNYXRjaGVycygiL20vIikuYW5vbnltb3VzKCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIFRPRE8oIm5vdCBpbXBsZW1lbnRlZCIpIC8vVG8gY2hhbmdlIGJvZHkgb2YgY3JlYXRlZCBmdW5jdGlvbnMgdXNlIEZpbGUgfCBTZXR0aW5ncyB8IEZpbGUgVGVtcGxhdGVzLgo=</text>
+        <text encoding="base64">ICAgIHZhbCBiID0gYSA/OiAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnVuIGxldChmdW5jdGlvbjogKCkgLT4gVW5pdCkgewo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFRPRE8oIm5vdCBpbXBsZW1lbnRlZCIpIC8vVG8gY2hhbmdlIGJvZHkgb2YgY3JlYXRlZCBmdW5jdGlvbnMgdXNlIEZpbGUgfCBTZXR0aW5ncyB8IEZpbGUgVGVtcGxhdGVzLgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBtYXBwZXIuCg==</text>
+        <text encoding="base64">ZnVuIGxldChmdW5jdGlvbjogKCkgLT4gVW5pdCkgewo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">QEdyb3VwU2VxdWVuY2Uoe0NhdGVnb3J5LmNsYXNzLCBWYWxpZE9yZGVyLlNlY29uZC5jbGFzc30pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cAo=</text>
+        <text encoding="base64">ICAgICAgICBtYXBwZXIuCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS56aWZhbmdkdC5jaC5wcm9kdWN0Lm1hcHBlci5DYXRlZ29yeU1hcHBlcjsK</text>
+        <text encoding="base64">QEdyb3VwU2VxdWVuY2Uoe0NhdGVnb3J5LmNsYXNzLCBWYWxpZE9yZGVyLlNlY29uZC5jbGFzc30pCg==</text>
       </register>
       <register name=":" type="4">
         <text>565</text>
