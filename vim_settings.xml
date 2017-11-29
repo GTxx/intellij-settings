@@ -1938,6 +1938,11 @@
         <mark key="^" line="32" column="4" />
         <mark key="." line="36" column="0" />
       </file>
+      <file name="$USER_HOME$/work/ch-server/ch-server-sys-setting/src/main/java/com/zifangdt/ch/syssetting/web/t.kt" timestamp="1511923440213">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-gateway/src/main/resources/application.yml" timestamp="1510731696377">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="26" column="31" />
@@ -2520,10 +2525,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhbCBiID0gYSA/OiAK</text>
       </register>
       <register name="-" type="4">
-        <text>Category</text>
+        <text>{1 }</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZXRPd25lclw+</text>
@@ -2532,7 +2537,7 @@
         <text encoding="base64">QEdyb3VwU2VxdWVuY2Uoe1N0ZXBPcmdhLmNsYXNzLCBWYWxpZE9yZGVyLlNlY29uZC5jbGFzcywgVmFsaWRPcmRlci5UaGlyZC5jbGFzc30pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhbCBiID0gYSA/OiAK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2572,28 +2577,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBtYXBwZXIuCg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QEdyb3VwU2VxdWVuY2Uoe0NhdGVnb3J5LmNsYXNzLCBWYWxpZE9yZGVyLlNlY29uZC5jbGFzc30pCg==</text>
+        <text encoding="base64">ICAgIFRPRE8oIm5vdCBpbXBsZW1lbnRlZCIpIC8vVG8gY2hhbmdlIGJvZHkgb2YgY3JlYXRlZCBmdW5jdGlvbnMgdXNlIEZpbGUgfCBTZXR0aW5ncyB8IEZpbGUgVGVtcGxhdGVzLgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cAo=</text>
+        <text encoding="base64">ZnVuIGxldChmdW5jdGlvbjogKCkgLT4gVW5pdCkgewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS56aWZhbmdkdC5jaC5wcm9kdWN0Lm1hcHBlci5DYXRlZ29yeU1hcHBlcjsK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBtYXBwZXIuCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIENhdGVnb3J5TWFwcGVyIGNhdGVnb3J5TWFwcGVyOwo=</text>
+        <text encoding="base64">QEdyb3VwU2VxdWVuY2Uoe0NhdGVnb3J5LmNsYXNzLCBWYWxpZE9yZGVyLlNlY29uZC5jbGFzc30pCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
+        <text encoding="base64">cAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZmFsc2U7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS56aWZhbmdkdC5jaC5wcm9kdWN0Lm1hcHBlci5DYXRlZ29yeU1hcHBlcjsK</text>
       </register>
       <register name=":" type="4">
         <text>565</text>
