@@ -699,8 +699,12 @@
         <mark key="^" line="7" column="10" />
         <mark key="." line="7" column="10" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/piczz/app/src/main/java/com/xx/piczz/activity/Album.java" timestamp="1511958060063">
-        <mark key="'" line="67" column="16" />
+      <file name="$USER_HOME$/AndroidStudioProjects/piczz/app/src/main/java/com/xx/piczz/activity/Album.java" timestamp="1511963376644">
+        <mark key="'" line="64" column="12" />
+        <mark key="[" line="73" column="12" />
+        <mark key="]" line="73" column="12" />
+        <mark key="^" line="73" column="18" />
+        <mark key="." line="73" column="12" />
       </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-contract/src/main/java/com/zifangdt/ch/contract/web/setting/ContractUserConfigController.java" timestamp="1509010114103">
         <mark key="[" line="9" column="0" />
@@ -769,11 +773,11 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/piczz/app/src/main/java/com/xx/piczz/activity/Album.kt" timestamp="1511961581427">
-        <mark key="[" line="20" column="45" />
-        <mark key="]" line="20" column="52" />
-        <mark key="." line="20" column="52" />
-        <mark key="^" line="20" column="52" />
+      <file name="$USER_HOME$/AndroidStudioProjects/piczz/app/src/main/java/com/xx/piczz/activity/Album.kt" timestamp="1511963336389">
+        <mark key="[" line="16" column="12" />
+        <mark key="]" line="16" column="11" />
+        <mark key="^" line="16" column="11" />
+        <mark key="." line="16" column="11" />
       </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/util/requestcache/CachingConfig.java" timestamp="1509591844172">
         <mark key="[" line="6" column="22" />
@@ -2063,9 +2067,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="0" filename="$USER_HOME$/work/ch-server/ch-server-market/src/main/java/com/zifangdt/ch/market/web/PromotionController.java" />
-      <jump line="38" column="27" filename="$USER_HOME$/work/ch-server/ch-server-market/src/main/java/com/zifangdt/ch/market/service/PromotionService.java" />
-      <jump line="156" column="27" filename="$USER_HOME$/work/ch-server/ch-server-market/src/main/java/com/zifangdt/ch/market/service/PromotionService.java" />
       <jump line="68" column="21" filename="$USER_HOME$/work/ch-server/ch-server-market/src/main/java/com/zifangdt/ch/market/service/PromotionService.java" />
       <jump line="230" column="0" filename="$USER_HOME$/work/ch-server/ch-server-market/src/main/java/com/zifangdt/ch/market/service/PromotionService.java" />
       <jump line="539" column="19" filename="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/service/BaseService.java" />
@@ -2163,22 +2164,25 @@
       <jump line="607" column="19" filename="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/service/BaseService.java" />
       <jump line="458" column="13" filename="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/service/BaseService.java" />
       <jump line="67" column="16" filename="$USER_HOME$/AndroidStudioProjects/piczz/app/src/main/java/com/xx/piczz/activity/Album.java" />
+      <jump line="61" column="51" filename="$USER_HOME$/AndroidStudioProjects/piczz/app/src/main/java/com/xx/piczz/activity/Album.java" />
+      <jump line="73" column="18" filename="$USER_HOME$/AndroidStudioProjects/piczz/app/src/main/java/com/xx/piczz/activity/Album.java" />
+      <jump line="64" column="12" filename="$USER_HOME$/AndroidStudioProjects/piczz/app/src/main/java/com/xx/piczz/activity/Album.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB2aWV3UGFnZXIubwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>onPageScrolled</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxPdmVycmlkZVw+</text>
+        <text encoding="base64">XDxBbGJ1bURldGFpbEFQSVRhc2tcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIDxyZXN1bHQgY29sdW1uPSJwal9zdWJtaXRfaW5mbyIgamRiY1R5cGU9IlZBUkNIQVIiIHByb3BlcnR5PSJzdWJtaXRJbmZvIiAvPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB2aWV3UGFnZXIubwo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2218,39 +2222,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICBmdW4gb25QYWdlU2Nyb2xsKCkK</text>
+      <register name="3" type="4">
+        <text encoding="base64">IHZhbCBsaXN0ZW5lcjogT25QYWdlQ2hhbmdlTGlzdGVuZXIgPSBvYmplY3Q6IE9uUGFnZUNoYW5nZUxpc3RlbmVyIHsKLy8gICAgICAgICAgICBvdmVycmlkZSBmdW4gb25QYWdlU2Nyb2xsU3RhdGVDaGFuZ2VkKHN0YXRlOiBJbnQpIHsKLy8gICAgICAgICAgICB9Ci8vCi8vICAgICAgICAgICAgb3ZlcnJpZGUgZnVuIG9uUGFnZVNjcm9sbGVkKHBvc2l0aW9uOiBJbnQsIHBvc2l0aW9uT2Zmc2V0OiBGbG9hdCwgcG9zaXRpb25PZmZzZXRQaXhlbHM6IEludCkgewovLwovLyAgICAgICAgICAgIH0KLy8gICAgICAgICAgICBvdmVycmlkZSBmdW4gb25QYWdlU2VsZWN0ZWQocG9zaXRpb246IEludCkgewovLwovLyAgICAgICAgICAgIH0=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuc3VwcG9ydC52NC52aWV3LlZpZXdQYWdlci5PblBhZ2VDaGFuZ2VMaXN0ZW5lcgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgb3ZlcnJpZGUgZnVuIG9uUGFnZVNjCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CnByaXZhdGUgZnVuIFZpZXdQYWdlci5hZGRPblBhZ2VDaGFuZ2VMaXN0ZW5lcigpIHsKICAgIFRPRE8oIm5vdCBpbXBsZW1lbnRlZCIpIC8vVG8gY2hhbmdlIGJvZHkgb2YgY3JlYXRlZCBmdW5jdGlvbnMgdXNlIEZpbGUgfCBTZXR0aW5ncyB8IEZpbGUgVGVtcGxhdGVzLgp9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="6" type="4">
-        <text>override fun onCreate(savedInstanceState: Bundle?, persistentState: PersistableBundle?) {
-        super.onCreate(savedInstanceState, persistentState)
-    }</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICB2aWV3UGFnZXIubwo=</text>
       </register>
-      <register name="7" type="4">
-        <text>value = &quot;CUSTOMER-SERVER&quot;, path = &quot;/customers&quot;</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICAgICBmdW4gb25QYWdlU2Nyb2xsKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuc3VwcG9ydC52NC52aWV3LlZpZXdQYWdlci5PblBhZ2VDaGFuZ2VMaXN0ZW5lcgo=</text>
       </register>
       <register name=":" type="4">
         <text>565</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxPdmVycmlkZVw+</last-search>
+      <last-search encoding="base64">XDxBbGJ1bURldGFpbEFQSVRhc2tcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxPdmVycmlkZVw+</last-pattern>
+      <last-pattern encoding="base64">XDxBbGJ1bURldGFpbEFQSVRhc2tcPg==</last-pattern>
       <last-replace>cfg</last-replace>
       <last-substitute encoding="base64">XDxjb3VudFw+</last-substitute>
       <last-dir>-1</last-dir>
@@ -2258,8 +2260,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxhZmZpbGlhdGVcPg==</entry>
-        <entry encoding="base64">XDxwX25hbWVcPg==</entry>
         <entry encoding="base64">XDxmaW5kQnlRdWVyeVw+</entry>
         <entry encoding="base64">XDxQYWdlRHRvXD4=</entry>
         <entry encoding="base64">XDxEYXRhTm90Rm91bmRFeGNlcHRpb25cPg==</entry>
@@ -2278,6 +2278,8 @@
         <entry encoding="base64">XDxleGlzdHNcPg==</entry>
         <entry encoding="base64">XDxvbkRvd25sb2FkXD4=</entry>
         <entry encoding="base64">XDxPdmVycmlkZVw+</entry>
+        <entry encoding="base64">XDxnZXRTdXBwb3J0RnJhZ21lbnRNYW5hZ2VyXD4=</entry>
+        <entry encoding="base64">XDxBbGJ1bURldGFpbEFQSVRhc2tcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>s/crm/cfg/g</entry>
