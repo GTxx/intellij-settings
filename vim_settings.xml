@@ -1177,12 +1177,12 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/dto/market/PromotionAffiliate.java" timestamp="1511950870900">
+      <file name="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/dto/market/PromotionAffiliate.java" timestamp="1511950961267">
         <mark key="'" line="16" column="12" />
-        <mark key="[" line="85" column="15" />
-        <mark key="]" line="85" column="17" />
-        <mark key="." line="85" column="17" />
-        <mark key="^" line="85" column="17" />
+        <mark key="[" line="93" column="37" />
+        <mark key="]" line="93" column="47" />
+        <mark key="." line="93" column="47" />
+        <mark key="^" line="93" column="47" />
       </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/dto/common/DataDictionary.java" timestamp="1507797582064">
         <mark key="[" line="15" column="21" />
@@ -2535,10 +2535,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>promotionUrl</text>
+        <text>Id</text>
       </register>
       <register name="-" type="4">
-        <text>promotionUrl</text>
+        <text>Id</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhZmZpbGlhdGVzXD4=</text>
