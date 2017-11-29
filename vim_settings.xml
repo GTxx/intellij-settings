@@ -769,11 +769,11 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/piczz/app/src/main/java/com/xx/piczz/activity/Album.kt" timestamp="1511959547683">
-        <mark key="[" line="18" column="25" />
-        <mark key="]" line="18" column="25" />
-        <mark key="^" line="18" column="61" />
-        <mark key="." line="18" column="25" />
+      <file name="$USER_HOME$/AndroidStudioProjects/piczz/app/src/main/java/com/xx/piczz/activity/Album.kt" timestamp="1511961581427">
+        <mark key="[" line="20" column="45" />
+        <mark key="]" line="20" column="52" />
+        <mark key="." line="20" column="52" />
+        <mark key="^" line="20" column="52" />
       </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/util/requestcache/CachingConfig.java" timestamp="1509591844172">
         <mark key="[" line="6" column="22" />
@@ -2165,22 +2165,20 @@
       <jump line="67" column="16" filename="$USER_HOME$/AndroidStudioProjects/piczz/app/src/main/java/com/xx/piczz/activity/Album.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>(</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB2aWV3UGFnZXIubwo=</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>onPageScrolled</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxvbkRvd25sb2FkXD4=</text>
+        <text encoding="base64">XDxPdmVycmlkZVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIDxyZXN1bHQgY29sdW1uPSJwal9zdWJtaXRfaW5mbyIgamRiY1R5cGU9IlZBUkNIQVIiIHByb3BlcnR5PSJzdWJtaXRJbmZvIiAvPgo=</text>
       </register>
-      <register name="1" type="4">
-        <text>override fun onCreate(savedInstanceState: Bundle?, persistentState: PersistableBundle?) {
-        super.onCreate(savedInstanceState, persistentState)
-    }</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICB2aWV3UGFnZXIubwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2219,38 +2217,40 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
-        <text>value = &quot;CUSTOMER-SERVER&quot;, path = &quot;/customers&quot;</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">fQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICBmdW4gb25QYWdlU2Nyb2xsKCkK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRhdGFFbnVtLmluaXRQYWlycyhjb21tb25TZXJ2ZXJBcGkuZ2V0RGF0YShkYXRhRW51bSkpOwo=</text>
+      <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuc3VwcG9ydC52NC52aWV3LlZpZXdQYWdlci5PblBhZ2VDaGFuZ2VMaXN0ZW5lcgo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CnByaXZhdGUgZnVuIFZpZXdQYWdlci5hZGRPblBhZ2VDaGFuZ2VMaXN0ZW5lcigpIHsKICAgIFRPRE8oIm5vdCBpbXBsZW1lbnRlZCIpIC8vVG8gY2hhbmdlIGJvZHkgb2YgY3JlYXRlZCBmdW5jdGlvbnMgdXNlIEZpbGUgfCBTZXR0aW5ncyB8IEZpbGUgVGVtcGxhdGVzLgp9Cg==</text>
+      </register>
+      <register name="6" type="4">
+        <text>override fun onCreate(savedInstanceState: Bundle?, persistentState: PersistableBundle?) {
+        super.onCreate(savedInstanceState, persistentState)
+    }</text>
+      </register>
+      <register name="7" type="4">
+        <text>value = &quot;CUSTOMER-SERVER&quot;, path = &quot;/customers&quot;</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYoZGF0YUVudW0uaXNQcm9kdWN0RGF0YSgpKXsK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IoRGF0YUVudW0gZGF0YUVudW06RGF0YUVudW0udmFsdWVzKCkpewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>565</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxvbkRvd25sb2FkXD4=</last-search>
+      <last-search encoding="base64">XDxPdmVycmlkZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxvbkRvd25sb2FkXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxPdmVycmlkZVw+</last-pattern>
       <last-replace>cfg</last-replace>
       <last-substitute encoding="base64">XDxjb3VudFw+</last-substitute>
       <last-dir>-1</last-dir>
@@ -2258,7 +2258,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxwcm9tb3Rpb25Kb2luU2VydmljZVw+</entry>
         <entry encoding="base64">XDxhZmZpbGlhdGVcPg==</entry>
         <entry encoding="base64">XDxwX25hbWVcPg==</entry>
         <entry encoding="base64">XDxmaW5kQnlRdWVyeVw+</entry>
@@ -2278,6 +2277,7 @@
         <entry encoding="base64">XDxzYXZlQ29udGFjdFw+</entry>
         <entry encoding="base64">XDxleGlzdHNcPg==</entry>
         <entry encoding="base64">XDxvbkRvd25sb2FkXD4=</entry>
+        <entry encoding="base64">XDxPdmVycmlkZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>s/crm/cfg/g</entry>
