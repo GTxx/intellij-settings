@@ -1278,12 +1278,12 @@
         <mark key="^" line="45" column="116" />
         <mark key="." line="45" column="116" />
       </file>
-      <file name="$USER_HOME$/work/ch-server/ch-server-product/src/main/java/com/zifangdt/ch/product/bo/ProductImportBo.java" timestamp="1512028253711">
-        <mark key="'" line="97" column="33" />
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="^" line="89" column="34" />
-        <mark key="." line="29" column="0" />
+      <file name="$USER_HOME$/work/ch-server/ch-server-product/src/main/java/com/zifangdt/ch/product/bo/ProductImportBo.java" timestamp="1512034801562">
+        <mark key="'" line="106" column="33" />
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="^" line="34" column="3" />
+        <mark key="." line="37" column="0" />
       </file>
       <file name="$USER_HOME$/work/kotlin-koans/src/ii_collections/n23CompoundTasks.kt" timestamp="1511515220886">
         <mark key="[" line="16" column="90" />
@@ -2534,8 +2534,8 @@
       <jump line="50" column="15" filename="$USER_HOME$/work/ch-server/ch-server-product/src/main/java/com/zifangdt/ch/product/web/ProductController.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>HttpResponse</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
         <text>HttpResponse</text>
@@ -2547,7 +2547,7 @@
         <text encoding="base64">TGlzdDxDdXN0b21lckV4Y2VsRXhwb3J0Qm8+IGxpc3QgPSBjdXN0b21lclNlcnZpY2UuZmluZExpc3RGb3JXZWJUb0V4cG9ydChjdXN0b21lcldlYlF1ZXJ5Qm8pOwogICAgICAgIFdvcmtib29rIHdvcmtib29rID0gRXhjZWxFeHBvcnRVdGlsLmV4cG9ydEV4Y2VsKG5ldyBFeHBvcnRQYXJhbXMobnVsbCwgbnVsbCksIEN1c3RvbWVyRXhjZWxFeHBvcnRCby5jbGFzcywgbGlzdCk7</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2587,28 +2587,29 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICDkuqflk4HlkI3np7AqCee8luWPt+adoeeggSoJ57G755uuKgnnu5/kuIDmiqXku7cqCeaIkOacrOS7tyoJ5ZOB54mMCeWei+WPtwnljZXkvY0J5bqT5a2YCeWbvueJhwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+      <register name="4" type="4">
+        <text>@Excel(name = &quot;库存&quot;)
+    private Integer stock;</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmlkID0gaWQ7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHNldElkKExvbmcgaWQpIHsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gaWQ7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>565</text>
