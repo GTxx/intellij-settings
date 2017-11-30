@@ -1278,12 +1278,12 @@
         <mark key="^" line="45" column="116" />
         <mark key="." line="45" column="116" />
       </file>
-      <file name="$USER_HOME$/work/ch-server/ch-server-product/src/main/java/com/zifangdt/ch/product/bo/ProductImportBo.java" timestamp="1512007668167">
-        <mark key="'" line="6" column="24" />
-        <mark key="[" line="28" column="4" />
-        <mark key="]" line="29" column="26" />
-        <mark key="^" line="28" column="3" />
-        <mark key="." line="28" column="4" />
+      <file name="$USER_HOME$/work/ch-server/ch-server-product/src/main/java/com/zifangdt/ch/product/bo/ProductImportBo.java" timestamp="1512008872165">
+        <mark key="'" line="107" column="33" />
+        <mark key="[" line="99" column="34" />
+        <mark key="]" line="99" column="34" />
+        <mark key="^" line="99" column="34" />
+        <mark key="." line="99" column="34" />
       </file>
       <file name="$USER_HOME$/work/kotlin-koans/src/ii_collections/n23CompoundTasks.kt" timestamp="1511515220886">
         <mark key="[" line="16" column="90" />
@@ -1806,7 +1806,7 @@
         <mark key="." line="2" column="71" />
         <mark key="^" line="2" column="38" />
       </file>
-      <file name="/fragment.java" timestamp="1511942293057">
+      <file name="/fragment.java" timestamp="1512009115399">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="12" />
@@ -2257,11 +2257,11 @@
         <mark key="." line="16" column="59" />
         <mark key="^" line="16" column="59" />
       </file>
-      <file name="$USER_HOME$/work/ch-server/ch-server-product/src/main/java/com/zifangdt/ch/product/web/ProductController.java" timestamp="1512007712795">
+      <file name="$USER_HOME$/work/ch-server/ch-server-product/src/main/java/com/zifangdt/ch/product/web/ProductController.java" timestamp="1512008637672">
         <mark key="'" line="35" column="13" />
-        <mark key="[" line="159" column="0" />
-        <mark key="]" line="159" column="0" />
-        <mark key="." line="159" column="0" />
+        <mark key="[" line="162" column="0" />
+        <mark key="]" line="162" column="0" />
+        <mark key="." line="162" column="0" />
       </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-market/src/main/java/com/zifangdt/ch/market/api/CustomerServerApi.java" timestamp="1511337937205">
         <mark key="[" line="9" column="59" />
@@ -2431,9 +2431,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="0" filename="$USER_HOME$/work/ch-server/ch-server-market/src/main/java/com/zifangdt/ch/market/web/PromotionController.java" />
-      <jump line="64" column="13" filename="$USER_HOME$/work/ch-server/ch-server-market/src/main/java/com/zifangdt/ch/market/service/PromotionService.java" />
-      <jump line="255" column="35" filename="$USER_HOME$/work/ch-server/ch-server-market/src/main/java/com/zifangdt/ch/market/service/PromotionService.java" />
       <jump line="112" column="34" filename="$USER_HOME$/work/ch-server/ch-server-market/src/main/java/com/zifangdt/ch/market/service/PromotionService.java" />
       <jump line="279" column="26" filename="$USER_HOME$/work/ch-server/ch-server-market/src/main/java/com/zifangdt/ch/market/service/PromotionService.java" />
       <jump line="15" column="72" filename="$USER_HOME$/work/ch-server/ch-server-market/src/main/resources/mapper/PromotionAffiliateMapper.xml" />
@@ -2531,22 +2528,25 @@
       <jump line="252" column="33" filename="$USER_HOME$/work/ch-server/ch-server-market/src/main/java/com/zifangdt/ch/market/service/PromotionService.java" />
       <jump line="240" column="28" filename="$USER_HOME$/work/ch-server/ch-server-market/src/main/java/com/zifangdt/ch/market/service/PromotionService.java" />
       <jump line="238" column="25" filename="$USER_HOME$/work/ch-server/ch-server-market/src/main/java/com/zifangdt/ch/market/service/PromotionService.java" />
+      <jump line="29" column="20" filename="$USER_HOME$/work/ch-server/ch-server-product/src/main/java/com/zifangdt/ch/product/bo/ProductImportBo.java" />
+      <jump line="108" column="13" filename="$USER_HOME$/work/ch-server/ch-server-product/src/main/java/com/zifangdt/ch/product/bo/ProductImportBo.java" />
+      <jump line="107" column="33" filename="$USER_HOME$/work/ch-server/ch-server-product/src/main/java/com/zifangdt/ch/product/bo/ProductImportBo.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>Id</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhZmZpbGlhdGVzXD4=</text>
+        <text encoding="base64">XDxzdG9ja1w+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBwcm9tb3Rpb24uc2V0VXJsKHByb21vdGlvblVybCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwYXJhbXMuc2V0SGVhZFJvd3MoMSk7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2586,39 +2586,39 @@
         </keys>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>private Product convertFrom(ProductImportBo bo){
 
     }</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">ICBARXhjZWwobmFtZSA9ICLlupPlrZgiKQogICAgcHJpdmF0ZSBJbnRlZ2VyIHN0b2NrOw==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAvL1RPRE86IHVzZSByZWFsIHVybAo=</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">KTsKICAgICAgICA=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>565</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhZmZpbGlhdGVzXD4=</last-search>
+      <last-search encoding="base64">XDxzdG9ja1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhZmZpbGlhdGVzXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxzdG9ja1w+</last-pattern>
       <last-replace>cfg</last-replace>
       <last-substitute encoding="base64">XDxjb3VudFw+</last-substitute>
       <last-dir>-1</last-dir>
@@ -2626,7 +2626,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxkb2MxMFw+</entry>
         <entry encoding="base64">XDxtYXBcPg==</entry>
         <entry encoding="base64">XDxyZWthXD4=</entry>
         <entry encoding="base64">XDx9XD4=</entry>
@@ -2646,6 +2645,7 @@
         <entry encoding="base64">XDxFeGNlbEltcG9ydFV0aWxcPg==</entry>
         <entry encoding="base64">XDx2YWxpZGF0b3JcPg==</entry>
         <entry encoding="base64">XDxhZmZpbGlhdGVzXD4=</entry>
+        <entry encoding="base64">XDxzdG9ja1w+</entry>
       </history-search>
       <history-cmd>
         <entry>s/crm/cfg/g</entry>
