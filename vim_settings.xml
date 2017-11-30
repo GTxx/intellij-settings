@@ -2309,8 +2309,8 @@
         <mark key="." line="18" column="30" />
         <mark key="^" line="18" column="30" />
       </file>
-      <file name="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/service/BaseService.java" timestamp="1511340852254">
-        <mark key="'" line="458" column="13" />
+      <file name="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/service/BaseService.java" timestamp="1512022847084">
+        <mark key="'" line="421" column="22" />
         <mark key="[" line="506" column="4" />
         <mark key="]" line="507" column="4" />
       </file>
@@ -2431,7 +2431,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="112" column="34" filename="$USER_HOME$/work/ch-server/ch-server-market/src/main/java/com/zifangdt/ch/market/service/PromotionService.java" />
       <jump line="279" column="26" filename="$USER_HOME$/work/ch-server/ch-server-market/src/main/java/com/zifangdt/ch/market/service/PromotionService.java" />
       <jump line="15" column="72" filename="$USER_HOME$/work/ch-server/ch-server-market/src/main/resources/mapper/PromotionAffiliateMapper.xml" />
       <jump line="38" column="55" filename="$USER_HOME$/work/ch-server/ch-server-market/src/main/java/com/zifangdt/ch/market/web/PromotionController.java" />
@@ -2531,6 +2530,7 @@
       <jump line="29" column="20" filename="$USER_HOME$/work/ch-server/ch-server-product/src/main/java/com/zifangdt/ch/product/bo/ProductImportBo.java" />
       <jump line="108" column="13" filename="$USER_HOME$/work/ch-server/ch-server-product/src/main/java/com/zifangdt/ch/product/bo/ProductImportBo.java" />
       <jump line="107" column="33" filename="$USER_HOME$/work/ch-server/ch-server-product/src/main/java/com/zifangdt/ch/product/bo/ProductImportBo.java" />
+      <jump line="421" column="22" filename="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/service/BaseService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -2540,7 +2540,7 @@
         <text>0</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzdG9ja1w+</text>
+        <text encoding="base64">XDxmZXRjaFVzZXJOYW1lc1w+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBwcm9tb3Rpb24uc2V0VXJsKHByb21vdGlvblVybCk7Cg==</text>
@@ -2616,9 +2616,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzdG9ja1w+</last-search>
+      <last-search encoding="base64">XDxmZXRjaFVzZXJOYW1lc1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzdG9ja1w+</last-pattern>
+      <last-pattern encoding="base64">XDxmZXRjaFVzZXJOYW1lc1w+</last-pattern>
       <last-replace>cfg</last-replace>
       <last-substitute encoding="base64">XDxjb3VudFw+</last-substitute>
       <last-dir>-1</last-dir>
@@ -2626,7 +2626,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxtYXBcPg==</entry>
         <entry encoding="base64">XDxyZWthXD4=</entry>
         <entry encoding="base64">XDx9XD4=</entry>
         <entry encoding="base64">XDxkcmFmdFw+</entry>
@@ -2646,6 +2645,7 @@
         <entry encoding="base64">XDx2YWxpZGF0b3JcPg==</entry>
         <entry encoding="base64">XDxhZmZpbGlhdGVzXD4=</entry>
         <entry encoding="base64">XDxzdG9ja1w+</entry>
+        <entry encoding="base64">XDxmZXRjaFVzZXJOYW1lc1w+</entry>
       </history-search>
       <history-cmd>
         <entry>s/crm/cfg/g</entry>
