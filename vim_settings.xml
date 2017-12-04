@@ -21,13 +21,6 @@
         <mark key="." line="40" column="59" />
         <mark key="^" line="37" column="64" />
       </file>
-      <file name="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/enums/ProductNewsType.java" timestamp="1511419535746">
-        <mark key="'" line="3" column="14" />
-        <mark key="[" line="4" column="22" />
-        <mark key="]" line="4" column="23" />
-        <mark key="^" line="4" column="23" />
-        <mark key="." line="4" column="23" />
-      </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-product/src/main/resources/generatorConfig.xml" timestamp="1507703324066">
         <mark key="[" line="46" column="53" />
         <mark key="]" line="46" column="53" />
@@ -57,11 +50,11 @@
         <mark key="^" line="5" column="67" />
         <mark key="." line="6" column="4" />
       </file>
-      <file name="$USER_HOME$/work/ch-server/ch-server-product/src/main/java/com/zifangdt/ch/product/mapper/ProductMapper.java" timestamp="1508319447103">
-        <mark key="[" line="28" column="37" />
-        <mark key="]" line="28" column="46" />
-        <mark key="^" line="28" column="46" />
-        <mark key="." line="28" column="46" />
+      <file name="$USER_HOME$/work/ch-server/ch-server-product/src/main/java/com/zifangdt/ch/product/mapper/ProductMapper.java" timestamp="1512377906675">
+        <mark key="[" line="28" column="67" />
+        <mark key="]" line="30" column="39" />
+        <mark key="^" line="30" column="39" />
+        <mark key="." line="30" column="39" />
       </file>
       <file name="$USER_HOME$/work/r-cache/src/test/java/testxx/TestCacheConfig.java" timestamp="1510108867507">
         <mark key="[" line="10" column="30" />
@@ -115,13 +108,6 @@
         <mark key="]" line="35" column="0" />
         <mark key="^" line="38" column="16" />
         <mark key="." line="35" column="0" />
-      </file>
-      <file name="$USER_HOME$/work/ch-server/ch-server-market/src/main/resources/mapper/PromotionMapper.xml" timestamp="1511170797000">
-        <mark key="'" line="50" column="0" />
-        <mark key="[" line="45" column="37" />
-        <mark key="]" line="45" column="51" />
-        <mark key="." line="45" column="51" />
-        <mark key="^" line="45" column="51" />
       </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-customer/src/main/java/com/zifangdt/ch/customer/mapper/CrmCellAddressMapper.java" timestamp="1508899530456">
         <mark key="[" line="8" column="17" />
@@ -206,13 +192,6 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="5" column="18" />
       </file>
-      <file name="$USER_HOME$/work/kotlin-koans/src/i_introduction/_10_Object_Expressions/n10ObjectExpressions.kt" timestamp="1511507452058">
-        <mark key="'" line="3" column="12" />
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="^" line="21" column="60" />
-        <mark key="." line="22" column="0" />
-      </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-customer/src/main/resources/mapper/setting/CfgCustomerSourceMapper.xml" timestamp="1511234936702">
         <mark key="[" line="18" column="2" />
         <mark key="]" line="18" column="2" />
@@ -238,9 +217,9 @@
         <mark key="." line="17" column="38" />
       </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-market/src/main/java/com/zifangdt/ch/MarketApplication.java" timestamp="1512114512425">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-market/src/main/java/com/zifangdt/ch/market/service/PromotionUserOrgaService.java" timestamp="1510300502195">
         <mark key="[" line="7" column="39" />
@@ -365,13 +344,6 @@
         <mark key="^" line="17" column="109" />
         <mark key="." line="17" column="109" />
       </file>
-      <file name="$USER_HOME$/work/ch-server/ch-server-market/src/main/resources/logback.xml" timestamp="1510647859267">
-        <mark key="'" line="74" column="3" />
-        <mark key="[" line="29" column="58" />
-        <mark key="]" line="29" column="63" />
-        <mark key="." line="29" column="63" />
-        <mark key="^" line="29" column="63" />
-      </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-sys-setting/src/main/resources/mapper/QuickEntryMapper.xml" timestamp="1509083388424">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
@@ -387,13 +359,6 @@
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
-      </file>
-      <file name="$USER_HOME$/work/ch-server/ch-server-market/src/main/java/com/zifangdt/ch/market/config/CustomerDataInitializer.java" timestamp="1511336975812">
-        <mark key="'" line="17" column="25" />
-        <mark key="[" line="14" column="13" />
-        <mark key="]" line="14" column="13" />
-        <mark key="^" line="27" column="12" />
-        <mark key="." line="14" column="13" />
       </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-market/src/main/java/com/zifangdt/ch/market/mapper/PromotionDraftMapper.java" timestamp="1510217609633">
         <mark key="[" line="7" column="1" />
@@ -447,6 +412,13 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/service/setting/UserConfigService.java" timestamp="1512379202727">
+        <mark key="'" line="170" column="19" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+        <mark key="^" line="58" column="23" />
+      </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-market/src/main/java/com/zifangdt/ch/market/entity/Promotion.java" timestamp="1510134188803">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
@@ -459,11 +431,11 @@
         <mark key="^" line="23" column="66" />
         <mark key="." line="23" column="66" />
       </file>
-      <file name="$USER_HOME$/work/ch-server/ch-server-product/src/main/resources/mapper/ProductMapper.xml" timestamp="1511172886991">
-        <mark key="[" line="101" column="17" />
-        <mark key="]" line="101" column="17" />
-        <mark key="." line="101" column="17" />
-        <mark key="^" line="101" column="17" />
+      <file name="$USER_HOME$/work/ch-server/ch-server-product/src/main/resources/mapper/ProductMapper.xml" timestamp="1512378489969">
+        <mark key="[" line="120" column="10" />
+        <mark key="]" line="120" column="11" />
+        <mark key="^" line="120" column="11" />
+        <mark key="." line="120" column="11" />
       </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-product/src/main/java/com/zifangdt/ch/product/bo/ProductQueryBo.java" timestamp="1511766511407">
         <mark key="[" line="43" column="28" />
@@ -495,13 +467,6 @@
         <mark key="^" line="22" column="55" />
         <mark key="." line="22" column="55" />
       </file>
-      <file name="$USER_HOME$/work/ch-server/ch-server-market/src/main/resources/mapper/PromotionAffiliateMapper.xml" timestamp="1510802623324">
-        <mark key="'" line="42" column="16" />
-        <mark key="[" line="35" column="35" />
-        <mark key="]" line="35" column="38" />
-        <mark key="." line="35" column="38" />
-        <mark key="^" line="35" column="38" />
-      </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/service/ChoiceConfigService.java" timestamp="1508981790436">
         <mark key="[" line="3" column="13" />
         <mark key="]" line="3" column="0" />
@@ -514,7 +479,7 @@
         <mark key="^" line="94" column="5" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512373162116">
+      <file name="/Dummy.txt" timestamp="1512379152229">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
@@ -567,13 +532,6 @@
         <mark key="^" line="107" column="31" />
         <mark key="." line="107" column="31" />
       </file>
-      <file name="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/dto/product/Product.java" timestamp="1512370057794">
-        <mark key="'" line="184" column="26" />
-        <mark key="[" line="67" column="28" />
-        <mark key="]" line="67" column="38" />
-        <mark key="^" line="67" column="38" />
-        <mark key="." line="67" column="38" />
-      </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-product/src/main/java/com/zifangdt/ch/product/event/ProductUpdateEvent.java" timestamp="1511490990993">
         <mark key="[" line="8" column="4" />
         <mark key="]" line="8" column="10" />
@@ -615,10 +573,6 @@
         <mark key="^" line="7" column="103" />
         <mark key="." line="7" column="103" />
       </file>
-      <file name="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/dto/customer/Customer.java" timestamp="1512370044327">
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="44" />
-      </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-sys-setting/src/main/java/com/zifangdt/ch/syssetting/mapper/CrmUserOrgaMapper.java" timestamp="1507876575528">
         <mark key="[" line="8" column="17" />
         <mark key="]" line="8" column="17" />
@@ -645,13 +599,6 @@
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/work/kotlin-koans/src/iv_properties/n35HowDelegatesWork.kt" timestamp="1511853681956">
-        <mark key="'" line="8" column="4" />
-        <mark key="[" line="32" column="86" />
-        <mark key="]" line="32" column="86" />
-        <mark key="." line="32" column="86" />
-        <mark key="^" line="32" column="119" />
       </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-sys-setting/src/main/java/com/zifangdt/ch/syssetting/CachingConfig.java" timestamp="1509525248758">
         <mark key="[" line="15" column="40" />
@@ -683,24 +630,17 @@
         <mark key="^" line="6" column="36" />
         <mark key="." line="6" column="36" />
       </file>
-      <file name="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/dto/market/PromotionJoin.java" timestamp="1511333918068">
-        <mark key="'" line="86" column="41" />
-        <mark key="[" line="29" column="26" />
-        <mark key="]" line="30" column="3" />
-        <mark key="^" line="30" column="3" />
-        <mark key="." line="30" column="3" />
-      </file>
       <file name="$USER_HOME$/work/kotlin-koans/src/ii_collections/n15AllAnyAndOtherPredicates.kt" timestamp="1511510366013">
         <mark key="[" line="37" column="27" />
         <mark key="]" line="37" column="33" />
         <mark key="^" line="37" column="33" />
         <mark key="." line="37" column="33" />
       </file>
-      <file name="$USER_HOME$/work/ch-server/ch-server-product/src/main/resources/mapper/CategoryMapper.xml" timestamp="1512358997532">
-        <mark key="[" line="50" column="20" />
-        <mark key="]" line="50" column="22" />
-        <mark key="^" line="50" column="22" />
-        <mark key="." line="50" column="22" />
+      <file name="$USER_HOME$/work/ch-server/ch-server-product/src/main/resources/mapper/CategoryMapper.xml" timestamp="1512377838767">
+        <mark key="[" line="50" column="24" />
+        <mark key="]" line="50" column="31" />
+        <mark key="^" line="50" column="31" />
+        <mark key="." line="50" column="31" />
       </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-market/src/main/java/com/zifangdt/ch/market/mapper/PromotionMapper.java" timestamp="1511170430983">
         <mark key="[" line="13" column="33" />
@@ -742,13 +682,6 @@
         <mark key="]" line="16" column="3" />
         <mark key="^" line="16" column="3" />
         <mark key="." line="16" column="3" />
-      </file>
-      <file name="$USER_HOME$/work/ch-server/ch-server-market/src/main/java/com/zifangdt/ch/market/service/PromotionJoinService.java" timestamp="1511861648326">
-        <mark key="'" line="63" column="30" />
-        <mark key="[" line="57" column="8" />
-        <mark key="]" line="57" column="20" />
-        <mark key="." line="57" column="20" />
-        <mark key="^" line="57" column="20" />
       </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-customer/src/main/resources/mapper/CustomerMapper.xml" timestamp="1511949571848">
         <mark key="[" line="38" column="16" />
@@ -800,13 +733,6 @@
         <mark key="[" line="5" column="13" />
         <mark key="]" line="5" column="13" />
         <mark key="." line="5" column="13" />
-      </file>
-      <file name="$USER_HOME$/work/ch-server/ch-server-market/src/main/resources/mapper/PromotionDraftMapper.xml" timestamp="1510641114943">
-        <mark key="'" line="23" column="20" />
-        <mark key="[" line="17" column="2" />
-        <mark key="]" line="19" column="7" />
-        <mark key="^" line="23" column="5" />
-        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/work/kotlin-koans/src/v_builders/n40BuildersHowItWorks.kt" timestamp="1511858867927">
         <mark key="[" line="86" column="13" />
@@ -903,11 +829,6 @@
         <mark key="." line="13" column="19" />
         <mark key="^" line="13" column="19" />
       </file>
-      <file name="$USER_HOME$/work/ch-server/ch-server-customer/src/main/java/com/zifangdt/ch/customer/web/CustomerController.java" timestamp="1512370579031">
-        <mark key="'" line="202" column="28" />
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="56" column="75" />
-      </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-customer/src/main/resources/mapper/CfgNumberMapper.xml" timestamp="1509074241045">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -961,13 +882,6 @@
         <mark key="^" line="10" column="53" />
         <mark key="." line="10" column="53" />
       </file>
-      <file name="$USER_HOME$/work/ch-server/ch-server-market/src/main/resources/create_table.sql" timestamp="1511333878154">
-        <mark key="'" line="45" column="13" />
-        <mark key="[" line="38" column="43" />
-        <mark key="]" line="39" column="55" />
-        <mark key="^" line="39" column="55" />
-        <mark key="." line="39" column="55" />
-      </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/dto/customer/setting/CfgNumber.java" timestamp="1509073548369">
         <mark key="[" line="28" column="24" />
         <mark key="]" line="28" column="24" />
@@ -984,13 +898,6 @@
         <mark key="]" line="5" column="17" />
         <mark key="^" line="4" column="10" />
         <mark key="." line="5" column="17" />
-      </file>
-      <file name="$USER_HOME$/work/kotlin-koans/src/v_builders/n37StringAndMapBuilders.kt" timestamp="1511856225275">
-        <mark key="'" line="7" column="20" />
-        <mark key="[" line="33" column="4" />
-        <mark key="]" line="33" column="4" />
-        <mark key="." line="33" column="4" />
-        <mark key="^" line="37" column="19" />
       </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-sys-setting/src/main/java/com/zifangdt/ch/syssetting/bo/UserBo.java" timestamp="1509428505898">
         <mark key="[" line="14" column="22" />
@@ -1133,20 +1040,6 @@
         <mark key="." line="14" column="38" />
         <mark key="^" line="14" column="38" />
       </file>
-      <file name="$USER_HOME$/work/ch-server/ch-server-market/src/main/resources/mapper/PromotionJoinMapper.xml" timestamp="1511862044162">
-        <mark key="'" line="18" column="11" />
-        <mark key="[" line="38" column="34" />
-        <mark key="]" line="38" column="39" />
-        <mark key="^" line="38" column="39" />
-        <mark key="." line="38" column="39" />
-      </file>
-      <file name="$USER_HOME$/work/ch-server/ch-server-parent/pom.xml" timestamp="1510220153138">
-        <mark key="'" line="182" column="9" />
-        <mark key="[" line="36" column="29" />
-        <mark key="]" line="36" column="34" />
-        <mark key="^" line="36" column="34" />
-        <mark key="." line="36" column="34" />
-      </file>
       <file name="$USER_HOME$/workr/tcache/src/main/java/testxx/CachingConfig.java" timestamp="1509591691281">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -1159,13 +1052,6 @@
         <mark key="^" line="3" column="61" />
       </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/mapper/setting/UserConfigMapper.java" timestamp="1512116533203" />
-      <file name="$USER_HOME$/work/ch-server/ch-server-uaa/src/main/java/com/zifangdt/ch/uaa/web/UserController.java" timestamp="1509950042642">
-        <mark key="'" line="248" column="56" />
-        <mark key="[" line="69" column="27" />
-        <mark key="]" line="69" column="45" />
-        <mark key="^" line="69" column="45" />
-        <mark key="." line="69" column="45" />
-      </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-customer/src/main/java/com/zifangdt/ch/customer/mapper/setting/CfgNumberMapper.java" timestamp="1509072301715">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="59" />
@@ -1176,13 +1062,6 @@
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
-      </file>
-      <file name="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/dto/market/PromotionAffiliate.java" timestamp="1511950961267">
-        <mark key="'" line="16" column="12" />
-        <mark key="[" line="93" column="37" />
-        <mark key="]" line="93" column="47" />
-        <mark key="." line="93" column="47" />
-        <mark key="^" line="93" column="47" />
       </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-common/src/main/java/com/zifangdt/ch/common/web/FileController.java" timestamp="1512374348568">
         <mark key="[" line="25" column="4" />
@@ -1277,12 +1156,11 @@
         <mark key="^" line="45" column="116" />
         <mark key="." line="45" column="116" />
       </file>
-      <file name="$USER_HOME$/work/ch-server/ch-server-product/src/main/java/com/zifangdt/ch/product/bo/ProductImportBo.java" timestamp="1512373849888">
-        <mark key="'" line="37" column="11" />
-        <mark key="[" line="111" column="0" />
-        <mark key="]" line="111" column="0" />
-        <mark key="^" line="33" column="38" />
-        <mark key="." line="111" column="0" />
+      <file name="$USER_HOME$/work/ch-server/ch-server-product/src/main/java/com/zifangdt/ch/product/bo/ProductImportBo.java" timestamp="1512377713769">
+        <mark key="'" line="36" column="11" />
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
       </file>
       <file name="$USER_HOME$/work/kotlin-koans/src/ii_collections/n23CompoundTasks.kt" timestamp="1511515220886">
         <mark key="[" line="16" column="90" />
@@ -1610,13 +1488,6 @@
         <mark key="^" line="10" column="10" />
         <mark key="." line="10" column="10" />
       </file>
-      <file name="$USER_HOME$/work/ch-server/ch-server-uaa/src/main/java/com/zifangdt/ch/uaa/web/setting/ChoiceConfigController.java" timestamp="1510825743324">
-        <mark key="'" line="15" column="12" />
-        <mark key="[" line="15" column="29" />
-        <mark key="]" line="15" column="40" />
-        <mark key="^" line="15" column="40" />
-        <mark key="." line="15" column="40" />
-      </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-sys-setting/src/main/java/com/zifangdt/ch/syssetting/mapper/BoolConfigMapper.java" timestamp="1507799750695">
         <mark key="[" line="7" column="53" />
         <mark key="]" line="7" column="62" />
@@ -1739,13 +1610,6 @@
         <mark key="." line="14" column="15" />
         <mark key="^" line="14" column="15" />
       </file>
-      <file name="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/dto/customer/setting/CfgCustomerSource.java" timestamp="1511252789048">
-        <mark key="'" line="46" column="0" />
-        <mark key="[" line="21" column="46" />
-        <mark key="]" line="22" column="3" />
-        <mark key="." line="22" column="3" />
-        <mark key="^" line="22" column="3" />
-      </file>
       <file name="$USER_HOME$/work/kotlin-koans/src/v_builders/n39HtmlBuilders.kt" timestamp="1511858972006">
         <mark key="[" line="44" column="24" />
         <mark key="]" line="44" column="52" />
@@ -1780,13 +1644,6 @@
         <mark key="]" line="7" column="94" />
         <mark key="^" line="7" column="94" />
         <mark key="." line="7" column="94" />
-      </file>
-      <file name="$USER_HOME$/work/ch-server/ch-server-product/src/main/java/com/zifangdt/ch/product/service/CategoryService.java" timestamp="1512359104815">
-        <mark key="'" line="24" column="0" />
-        <mark key="[" line="66" column="29" />
-        <mark key="]" line="66" column="42" />
-        <mark key="." line="66" column="42" />
-        <mark key="^" line="66" column="42" />
       </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-config/src/main/resources/application.properties" timestamp="1508833752295">
         <mark key="[" line="3" column="50" />
@@ -1828,20 +1685,6 @@
         <mark key="]" line="9" column="56" />
         <mark key="^" line="9" column="56" />
         <mark key="." line="9" column="56" />
-      </file>
-      <file name="$USER_HOME$/work/ch-server/ch-server-gateway/src/main/java/com/zifangdt/ch/gateway/config/SecurityConfig.java" timestamp="1511940683211">
-        <mark key="'" line="63" column="28" />
-        <mark key="[" line="103" column="0" />
-        <mark key="]" line="103" column="0" />
-        <mark key="." line="103" column="0" />
-        <mark key="^" line="101" column="15" />
-      </file>
-      <file name="$USER_HOME$/work/ch-server/ch-server-uaa/src/main/java/com/zifangdt/ch/uaa/web/OrganizationController.java" timestamp="1510305670230">
-        <mark key="'" line="25" column="4" />
-        <mark key="[" line="25" column="4" />
-        <mark key="]" line="26" column="63" />
-        <mark key="^" line="58" column="44" />
-        <mark key="." line="58" column="44" />
       </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-market/src/main/java/com/zifangdt/ch/market/mapper/PromotionAffiliateMapper.java" timestamp="1510731278246">
         <mark key="[" line="11" column="45" />
@@ -1891,13 +1734,6 @@
         <mark key="]" line="15" column="33" />
         <mark key="." line="15" column="33" />
         <mark key="^" line="15" column="33" />
-      </file>
-      <file name="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/web/FetchHeaderInterceptor.java" timestamp="1510039922529">
-        <mark key="'" line="3" column="33" />
-        <mark key="[" line="16" column="69" />
-        <mark key="]" line="16" column="69" />
-        <mark key="." line="16" column="69" />
-        <mark key="^" line="16" column="103" />
       </file>
       <file name="$USER_HOME$/work/ch-server/zz/src/main/java/kk/User.java" timestamp="1508730205359">
         <mark key="[" line="2" column="0" />
@@ -2033,25 +1869,18 @@
         <mark key="^" line="5" column="76" />
         <mark key="." line="5" column="76" />
       </file>
-      <file name="$USER_HOME$/work/ch-server/ch-server-product/src/main/java/com/zifangdt/ch/product/service/ProductService.java" timestamp="1512370740647">
+      <file name="$USER_HOME$/work/ch-server/ch-server-product/src/main/java/com/zifangdt/ch/product/service/ProductService.java" timestamp="1512377889156">
         <mark key="'" line="69" column="53" />
-        <mark key="[" line="71" column="5" />
-        <mark key="]" line="72" column="3" />
-        <mark key="^" line="72" column="3" />
-        <mark key="." line="72" column="3" />
+        <mark key="[" line="137" column="8" />
+        <mark key="]" line="137" column="14" />
+        <mark key="." line="137" column="14" />
+        <mark key="^" line="137" column="14" />
       </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-customer/src/main/java/com/zifangdt/ch/customer/service/setting/CustomerSettingServiceInterface.java" timestamp="1509069351243">
         <mark key="[" line="3" column="50" />
         <mark key="]" line="3" column="16" />
         <mark key="^" line="3" column="16" />
         <mark key="." line="3" column="16" />
-      </file>
-      <file name="$USER_HOME$/work/ch-server/ch-server-sys-setting/src/main/java/com/zifangdt/ch/syssetting/entity/QuickEntryRule.java" timestamp="1510885604113">
-        <mark key="'" line="90" column="0" />
-        <mark key="[" line="22" column="60" />
-        <mark key="]" line="22" column="83" />
-        <mark key="^" line="22" column="83" />
-        <mark key="." line="22" column="83" />
       </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-sys-setting/src/main/resources/mapper/UserOrgaMapper.xml" timestamp="1507876690843">
         <mark key="[" line="78" column="0" />
@@ -2069,13 +1898,6 @@
         <mark key="]" line="12" column="25" />
         <mark key="^" line="12" column="25" />
         <mark key="." line="12" column="25" />
-      </file>
-      <file name="$USER_HOME$/work/kotlin-koans/src/v_builders/n36ExtensionFunctionLiterals.kt" timestamp="1511859030410">
-        <mark key="'" line="16" column="35" />
-        <mark key="[" line="15" column="11" />
-        <mark key="]" line="15" column="11" />
-        <mark key="." line="15" column="11" />
-        <mark key="^" line="15" column="11" />
       </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/dao/MyBatisConfig.java" timestamp="1510218627807">
         <mark key="[" line="41" column="0" />
@@ -2138,13 +1960,6 @@
         <mark key="^" line="14" column="35" />
         <mark key="." line="14" column="35" />
       </file>
-      <file name="$USER_HOME$/work/ch-server/ch-server-market/src/main/java/com/zifangdt/ch/market/bo/PromotionDraftBo.java" timestamp="1511233025955">
-        <mark key="'" line="38" column="24" />
-        <mark key="[" line="20" column="19" />
-        <mark key="]" line="20" column="23" />
-        <mark key="^" line="20" column="23" />
-        <mark key="." line="20" column="23" />
-      </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-sys-setting/src/main/java/com/zifangdt/ch/syssetting/entity/QuickEntryRuleExample.java" timestamp="1509087334408">
         <mark key="[" line="6" column="19" />
         <mark key="]" line="6" column="19" />
@@ -2184,13 +1999,6 @@
         <mark key="]" line="8" column="17" />
         <mark key="." line="8" column="17" />
       </file>
-      <file name="$USER_HOME$/work/ch-server/ch-server-customer/src/main/java/com/zifangdt/ch/customer/service/setting/CfgCustomerSourceService.java" timestamp="1511254619103">
-        <mark key="'" line="117" column="8" />
-        <mark key="[" line="126" column="33" />
-        <mark key="]" line="126" column="37" />
-        <mark key="." line="126" column="37" />
-        <mark key="^" line="126" column="37" />
-      </file>
       <file name="$USER_HOME$/work/kotlin-koans/src/i_introduction/_8_Smart_Casts/n08SmartCasts.kt" timestamp="1511502208785">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
@@ -2225,13 +2033,6 @@
         <mark key="]" line="143" column="0" />
         <mark key="." line="143" column="0" />
       </file>
-      <file name="$USER_HOME$/work/ch-server/ch-server-customer/src/main/resources/create_table.sql" timestamp="1511333677809">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="76" column="46" />
-        <mark key="]" line="76" column="50" />
-        <mark key="." line="76" column="50" />
-        <mark key="^" line="76" column="50" />
-      </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/converter/CustomBeanSerializerModifier.java" timestamp="1512114975534">
         <mark key="'" line="94" column="77" />
       </file>
@@ -2263,12 +2064,12 @@
         <mark key="." line="16" column="59" />
         <mark key="^" line="16" column="59" />
       </file>
-      <file name="$USER_HOME$/work/ch-server/ch-server-product/src/main/java/com/zifangdt/ch/product/web/ProductController.java" timestamp="1512377190521">
+      <file name="$USER_HOME$/work/ch-server/ch-server-product/src/main/java/com/zifangdt/ch/product/web/ProductController.java" timestamp="1512378364210">
         <mark key="'" line="211" column="90" />
-        <mark key="[" line="237" column="39" />
-        <mark key="]" line="238" column="24" />
-        <mark key="^" line="238" column="24" />
-        <mark key="." line="238" column="24" />
+        <mark key="[" line="263" column="45" />
+        <mark key="]" line="265" column="56" />
+        <mark key="^" line="265" column="56" />
+        <mark key="." line="265" column="56" />
       </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-market/src/main/java/com/zifangdt/ch/market/api/CustomerServerApi.java" timestamp="1511337937205">
         <mark key="[" line="9" column="59" />
@@ -2315,25 +2116,6 @@
         <mark key="." line="18" column="30" />
         <mark key="^" line="18" column="30" />
       </file>
-      <file name="$USER_HOME$/work/ch-server/ch-server-market/src/main/java/com/zifangdt/ch/market/service/PromotionService.java" timestamp="1511950809641">
-        <mark key="'" line="238" column="25" />
-        <mark key="[" line="235" column="18" />
-        <mark key="]" line="235" column="83" />
-        <mark key="." line="235" column="83" />
-        <mark key="^" line="235" column="83" />
-      </file>
-      <file name="$USER_HOME$/work/ch-server/ch-server-customer/src/main/java/com/zifangdt/ch/customer/web/setting/CustomerSourceController.java" timestamp="1511254642007">
-        <mark key="'" line="33" column="26" />
-        <mark key="[" line="77" column="0" />
-        <mark key="]" line="77" column="0" />
-        <mark key="." line="77" column="0" />
-        <mark key="^" line="76" column="58" />
-      </file>
-      <file name="$USER_HOME$/work/ch-server/ch-server-customer/src/main/java/com/zifangdt/ch/customer/bo/CustomerExcelImportBo.java" timestamp="1512120312812">
-        <mark key="'" line="13" column="8" />
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="26" />
-      </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-market/src/main/java/com/zifangdt/ch/market/api/TodoServerApi.java" timestamp="1511403782312">
         <mark key="[" line="9" column="34" />
         <mark key="]" line="9" column="34" />
@@ -2345,13 +2127,6 @@
         <mark key="]" line="19" column="34" />
         <mark key="^" line="19" column="34" />
         <mark key="." line="19" column="34" />
-      </file>
-      <file name="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/enums/DataEnum.java" timestamp="1511231642946">
-        <mark key="'" line="16" column="4" />
-        <mark key="[" line="33" column="24" />
-        <mark key="]" line="33" column="23" />
-        <mark key="^" line="33" column="23" />
-        <mark key="." line="33" column="23" />
       </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-gateway/src/main/java/com/zifangdt/ch/gateway/security/DelegatingUserService.java" timestamp="1509947358829">
         <mark key="[" line="26" column="20" />
@@ -2423,13 +2198,6 @@
         <mark key="." line="11" column="3" />
         <mark key="^" line="11" column="3" />
       </file>
-      <file name="$USER_HOME$/work/ch-server/ch-server-market/src/main/java/com/zifangdt/ch/market/web/PromotionController.java" timestamp="1511942696384">
-        <mark key="'" line="9" column="0" />
-        <mark key="[" line="109" column="4" />
-        <mark key="]" line="109" column="19" />
-        <mark key="." line="109" column="19" />
-        <mark key="^" line="109" column="19" />
-      </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-contract/src/main/java/com/zifangdt/ch/contract/entity/ContractStepDefinition.java" timestamp="1508228417021">
         <mark key="[" line="7" column="8" />
         <mark key="]" line="7" column="13" />
@@ -2438,9 +2206,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="6" filename="$USER_HOME$/work/ch-server/ch-server-product/src/main/resources/mapper/RepoProductMapper.xml" />
-      <jump line="19" column="6" filename="$USER_HOME$/work/ch-server/ch-server-product/src/main/resources/mapper/RepoProductMapper.xml" />
-      <jump line="18" column="6" filename="$USER_HOME$/work/ch-server/ch-server-product/src/main/resources/mapper/RepoProductMapper.xml" />
       <jump line="17" column="6" filename="$USER_HOME$/work/ch-server/ch-server-product/src/main/resources/mapper/RepoProductMapper.xml" />
       <jump line="16" column="6" filename="$USER_HOME$/work/ch-server/ch-server-product/src/main/resources/mapper/RepoProductMapper.xml" />
       <jump line="15" column="6" filename="$USER_HOME$/work/ch-server/ch-server-product/src/main/resources/mapper/RepoProductMapper.xml" />
@@ -2538,22 +2303,25 @@
       <jump line="148" column="44" filename="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.10.RELEASE/spring-web-4.3.10.RELEASE-sources.jar!/org/springframework/web/multipart/commons/CommonsMultipartFile.java" />
       <jump line="128" column="12" filename="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.10.RELEASE/spring-web-4.3.10.RELEASE-sources.jar!/org/springframework/web/multipart/support/StandardMultipartHttpServletRequest.java" />
       <jump line="211" column="90" filename="$USER_HOME$/work/ch-server/ch-server-product/src/main/java/com/zifangdt/ch/product/web/ProductController.java" />
+      <jump line="153" column="19" filename="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/service/setting/UserConfigService.java" />
+      <jump line="154" column="31" filename="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/service/setting/UserConfigService.java" />
+      <jump line="170" column="19" filename="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/service/setting/UserConfigService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICwgPGluY2x1ZGUgcmVmaWQ9IkJsb2JfQ29sdW1uX0xpc3QiLz4K</text>
       </register>
       <register name="-" type="4">
-        <text>ProductImportBo</text>
+        <text encoding="base64">PC9pbmNsdWRlPg==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxmaWxlXD4=</text>
+        <text encoding="base64">XDx1c2VyQ29uZmlnXD4=</text>
       </register>
       <register name="0" type="4">
         <text>HttpServletResponse response)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICwgPGluY2x1ZGUgcmVmaWQ9IkJsb2JfQ29sdW1uX0xpc3QiLz4K</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2593,46 +2361,44 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEJlYW5VdGlscy5jb3B5UHJvcGVydGllcyhibywgZXhwb3J0Qm8pOwo=</text>
+        <text encoding="base64">ICAgIDxpbmNsdWRlIHJlZmlkPSJCYXNlX0NvbHVtbl9MaXN0Ii8+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFByb2R1Y3RFeHBvcnRCbyBleHBvcnRCbyA9IG5ldyBQcm9kdWN0RXhwb3J0Qm8oKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAocHJvZHVjdCA9PSBudWxsKSBwcm9kdWN0ID0gbmV3IFByb2R1Y3QoKTsK</text>
       </register>
-      <register name="4" type="4">
-        <text>ProductExportBo exportBo = new ProductExportBo();
-                BeanUtils.copyProperties(bo, exportBo);</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFByb2R1Y3QgcHJvZHVjdCA9IG5ldyBQcm9kdWN0KCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBJbXBvcnRTdGF0aXN0aWNzIGltcG9ydFN0YXRpc3RpY3MgPSBuZXcgSW1wb3J0U3RhdGlzdGljcyhib3Muc2l6ZSgpIC0gZmFpbHVyZXMuc2l6ZSgpLCBmYWlsdXJlcy5zaXplKCkpOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IFJlc3BvbnNlRW50aXR5PD4oUmVzdFJlc3VsdC5zdWNjZXNzKGltcG9ydFN0YXRpc3RpY3MpLCBIdHRwU3RhdHVzLk9LKTsK</text>
+        <text encoding="base64">ICAgIFByb2R1Y3QgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBEYXRhRW51bVZhbHVlKERhdGFFbnVtLnByb2R1Y3RVbml0KQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRmlsZXMuZGVsZXRlKHRlbXBQYXRoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0U3RhdGlzdGljcy5zZXRGYWlsdXJlRXhjZWwoZmlsZU5hbWVzLmdldCgwKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEJlYW5VdGlscy5jb3B5UHJvcGVydGllcyhibywgZXhwb3J0Qm8pOwo=</text>
       </register>
       <register name=":" type="4">
         <text>565</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxmaWxlXD4=</last-search>
+      <last-search encoding="base64">XDx1c2VyQ29uZmlnXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxmaWxlXD4=</last-pattern>
+      <last-pattern encoding="base64">XDx1c2VyQ29uZmlnXD4=</last-pattern>
       <last-replace>cfg</last-replace>
       <last-substitute encoding="base64">XDxjb3VudFw+</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxNZDVQYXNzd29yZEVuY29kZXJcPg==</entry>
         <entry encoding="base64">XDxwYXNzd29yZEVuY29kZXJcPg==</entry>
         <entry encoding="base64">XDx1c2VyRGV0YWlsc1NlcnZpY2VcPg==</entry>
         <entry encoding="base64">XDxqd3RBdXRoZW50aWNhdGlvblByb3ZpZGVyXD4=</entry>
@@ -2652,6 +2418,7 @@
         <entry encoding="base64">XDxleHBvcnRFeGNlbFw+</entry>
         <entry encoding="base64">XDxtYXBcPg==</entry>
         <entry encoding="base64">XDxmaWxlXD4=</entry>
+        <entry encoding="base64">XDx1c2VyQ29uZmlnXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>s/crm/cfg/g</entry>
