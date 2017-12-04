@@ -1158,6 +1158,7 @@
         <mark key="." line="3" column="71" />
         <mark key="^" line="3" column="61" />
       </file>
+      <file name="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/mapper/setting/UserConfigMapper.java" timestamp="1512116533203" />
       <file name="$USER_HOME$/work/ch-server/ch-server-uaa/src/main/java/com/zifangdt/ch/uaa/web/UserController.java" timestamp="1509950042642">
         <mark key="'" line="248" column="56" />
         <mark key="[" line="69" column="27" />
@@ -1590,6 +1591,7 @@
         <mark key="." line="21" column="49" />
         <mark key="^" line="21" column="49" />
       </file>
+      <file name="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/validation/DataEnumValuesValidator.java" timestamp="1512377020540" />
       <file name="$USER_HOME$/work/kotlin-koans/src/i_introduction/_5_String_Templates/n05StringTemplates.kt" timestamp="1511436910647">
         <mark key="[" line="37" column="32" />
         <mark key="]" line="37" column="38" />
@@ -2261,12 +2263,12 @@
         <mark key="." line="16" column="59" />
         <mark key="^" line="16" column="59" />
       </file>
-      <file name="$USER_HOME$/work/ch-server/ch-server-product/src/main/java/com/zifangdt/ch/product/web/ProductController.java" timestamp="1512375589340">
+      <file name="$USER_HOME$/work/ch-server/ch-server-product/src/main/java/com/zifangdt/ch/product/web/ProductController.java" timestamp="1512377190521">
         <mark key="'" line="211" column="90" />
-        <mark key="[" line="265" column="39" />
-        <mark key="]" line="265" column="47" />
-        <mark key="." line="265" column="47" />
-        <mark key="^" line="265" column="47" />
+        <mark key="[" line="237" column="39" />
+        <mark key="]" line="238" column="24" />
+        <mark key="^" line="238" column="24" />
+        <mark key="." line="238" column="24" />
       </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-market/src/main/java/com/zifangdt/ch/market/api/CustomerServerApi.java" timestamp="1511337937205">
         <mark key="[" line="9" column="59" />
@@ -2539,19 +2541,19 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>file</text>
+        <text>ProductImportBo</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmaWxlXD4=</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">QFBvc3RNYXBwaW5nCiAgICBwdWJsaWMgTGlzdDxTdHJpbmc+IHVwbG9hZChAUmVxdWVzdFBhcmFtKCJmaWxlIikgTGlzdDxNdWx0aXBhcnRGaWxlPiBmaWxlcykgdGhyb3dzIEV4Y2VwdGlvbiB7</text>
+        <text>HttpServletResponse response)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2591,28 +2593,29 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEJlYW5VdGlscy5jb3B5UHJvcGVydGllcyhibywgZXhwb3J0Qm8pOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRmlsZUl0ZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFByb2R1Y3RFeHBvcnRCbyBleHBvcnRCbyA9IG5ldyBQcm9kdWN0RXhwb3J0Qm8oKTsK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
+      <register name="4" type="4">
+        <text>ProductExportBo exportBo = new ProductExportBo();
+                BeanUtils.copyProperties(bo, exportBo);</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICBwdWJsaWMgU3RyaW5nIGdldFN0cmluZygpIHsKICAgICAgICAgICAgICAgICAgICByZXR1cm4gbnVsbDsKICAgICAgICAgICAgICAgIH0KCiAgICAgICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgICAgIHB1YmxpYyB2b2lkIHdyaXRlKEZpbGUgZmlsZSkgdGhyb3dzIEV4Y2VwdGlvbiB7CgogICAgICAgICAgICAgICAgfQoKICAgICAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICAgICAgcHVibGljIHZvaWQgZGVsZXRlKCkgewoKICAgICAgICAgICAgICAgIH0KCiAgICAgICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgICAgIHB1YmxpYyBTdHJpbmcgZ2V0RmllbGROYW1lKCkgewogICAgICAgICAgICB9</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBJbXBvcnRTdGF0aXN0aWNzIGltcG9ydFN0YXRpc3RpY3MgPSBuZXcgSW1wb3J0U3RhdGlzdGljcyhib3Muc2l6ZSgpIC0gZmFpbHVyZXMuc2l6ZSgpLCBmYWlsdXJlcy5zaXplKCkpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IFJlc3BvbnNlRW50aXR5PD4oUmVzdFJlc3VsdC5zdWNjZXNzKGltcG9ydFN0YXRpc3RpY3MpLCBIdHRwU3RhdHVzLk9LKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgRmlsZXMuZGVsZXRlKHRlbXBQYXRoKTsK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHB1YmxpYyB2b2lkIHNldEZpZWxkTmFtZShTdHJpbmcgcykgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0U3RhdGlzdGljcy5zZXRGYWlsdXJlRXhjZWwoZmlsZU5hbWVzLmdldCgwKSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>565</text>
