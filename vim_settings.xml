@@ -988,11 +988,11 @@
         <mark key="]" line="10" column="18" />
         <mark key="." line="10" column="18" />
       </file>
-      <file name="$USER_HOME$/work/ch-server/ch-server-common/src/main/java/com/zifangdt/ch/common/web/DataDictionaryController.java" timestamp="1512467424110">
-        <mark key="[" line="64" column="56" />
-        <mark key="]" line="64" column="59" />
-        <mark key="." line="64" column="59" />
-        <mark key="^" line="64" column="59" />
+      <file name="$USER_HOME$/work/ch-server/ch-server-common/src/main/java/com/zifangdt/ch/common/web/DataDictionaryController.java" timestamp="1512472681700">
+        <mark key="[" line="62" column="30" />
+        <mark key="]" line="62" column="28" />
+        <mark key="." line="62" column="28" />
+        <mark key="^" line="62" column="28" />
       </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/mapper/setting/BaseChoiceConfigMapper.java" timestamp="1509610435831">
         <mark key="[" line="5" column="17" />
@@ -2131,11 +2131,11 @@
         <mark key="^" line="20" column="39" />
         <mark key="." line="20" column="39" />
       </file>
-      <file name="$USER_HOME$/work/ch-server/ch-server-common/src/main/java/com/zifangdt/ch/common/service/DataDictionaryService.java" timestamp="1512468019348">
-        <mark key="[" line="104" column="62" />
-        <mark key="]" line="111" column="11" />
-        <mark key="." line="111" column="11" />
-        <mark key="^" line="111" column="11" />
+      <file name="$USER_HOME$/work/ch-server/ch-server-common/src/main/java/com/zifangdt/ch/common/service/DataDictionaryService.java" timestamp="1512472725245">
+        <mark key="[" line="98" column="23" />
+        <mark key="]" line="98" column="30" />
+        <mark key="." line="98" column="30" />
+        <mark key="^" line="98" column="30" />
       </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-sys-setting/src/main/java/com/zifangdt/ch/syssetting/entity/District.java" timestamp="1508837484117">
         <mark key="[" line="42" column="7" />
@@ -2556,7 +2556,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Source</text>
+        <text>.customerTypes</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2588,7 +2588,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Source</text>
+        <text>.customerTypes</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjZmdDdXN0b21lclNvdXJjZVNlcnZpY2VcPg==</text>
