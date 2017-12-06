@@ -1615,10 +1615,12 @@
         <mark key="^" line="10" column="10" />
         <mark key="." line="10" column="10" />
       </file>
-      <file name="$USER_HOME$/work/ch-server/ch-server-customer/src/main/java/com/zifangdt/ch/customer/service/CustomerService.java" timestamp="1511338766263">
+      <file name="$USER_HOME$/work/ch-server/ch-server-customer/src/main/java/com/zifangdt/ch/customer/service/CustomerService.java" timestamp="1512526297225">
         <mark key="'" line="69" column="16" />
-        <mark key="[" line="249" column="3" />
-        <mark key="]" line="253" column="5" />
+        <mark key="[" line="88" column="18" />
+        <mark key="]" line="88" column="17" />
+        <mark key="." line="88" column="17" />
+        <mark key="^" line="88" column="17" />
       </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-uaa/src/main/java/com/zifangdt/ch/uaa/web/setting/ChoiceConfigController.java" timestamp="1510825743324">
         <mark key="'" line="15" column="12" />
@@ -2557,7 +2559,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>, url = &quot;http://localhost:8001&quot;)</text>
+        <text>setVersion</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2589,7 +2591,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>, url = &quot;http://localhost:8001&quot;)</text>
+        <text>setVersion</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjaG9pY2VDb25maWdTZXJ2aWNlXD4=</text>
