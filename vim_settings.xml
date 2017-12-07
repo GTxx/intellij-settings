@@ -116,6 +116,11 @@
         <mark key="^" line="38" column="16" />
         <mark key="." line="35" column="0" />
       </file>
+      <file name="$USER_HOME$/work/ch-server/ch-server-message/src/main/java/com/zifangdt/ch/message/huanxin/HuanxinMessage.java" timestamp="1512639091067">
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
+      </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-market/src/main/resources/mapper/PromotionMapper.xml" timestamp="1511170797000">
         <mark key="'" line="50" column="0" />
         <mark key="[" line="45" column="37" />
@@ -646,6 +651,10 @@
         <mark key="]" line="7" column="103" />
         <mark key="^" line="7" column="103" />
         <mark key="." line="7" column="103" />
+      </file>
+      <file name="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/dto/customer/Customer.java" timestamp="1512370044327">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="44" />
       </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-sys-setting/src/main/java/com/zifangdt/ch/syssetting/mapper/CrmUserOrgaMapper.java" timestamp="1507876575528">
         <mark key="[" line="8" column="17" />
@@ -1405,6 +1414,12 @@
         <mark key="." line="15" column="87" />
         <mark key="^" line="27" column="23" />
       </file>
+      <file name="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/api/MessageServerApi.java" timestamp="1512639171679">
+        <mark key="[" line="5" column="22" />
+        <mark key="]" line="5" column="28" />
+        <mark key="^" line="5" column="28" />
+        <mark key="." line="5" column="28" />
+      </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-market/src/main/java/com/zifangdt/ch/market/entity/PromUserOrga.java" timestamp="1510134278220">
         <mark key="[" line="8" column="18" />
         <mark key="]" line="8" column="12" />
@@ -1592,6 +1607,12 @@
         <mark key="]" line="11" column="60" />
         <mark key="^" line="11" column="60" />
         <mark key="." line="11" column="60" />
+      </file>
+      <file name="$USER_HOME$/work/ch-server/ch-server-message/src/main/java/com/zifangdt/ch/message/huanxin/HuanxinApi.java" timestamp="1512639021212">
+        <mark key="[" line="71" column="60" />
+        <mark key="]" line="71" column="60" />
+        <mark key="^" line="71" column="59" />
+        <mark key="." line="71" column="60" />
       </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-contract/src/main/resources/mapper/setting/UserConfigMapper.xml" timestamp="1508295142896">
         <mark key="[" line="21" column="12" />
@@ -2014,11 +2035,12 @@
         <mark key="^" line="12" column="34" />
         <mark key="." line="12" column="34" />
       </file>
-      <file name="$USER_HOME$/work/ch-server/ch-server-message/src/main/java/com/zifangdt/ch/message/web/MessageController.java" timestamp="1512637391136">
-        <mark key="[" line="29" column="46" />
-        <mark key="]" line="30" column="43" />
-        <mark key="." line="30" column="43" />
-        <mark key="^" line="30" column="43" />
+      <file name="$USER_HOME$/work/ch-server/ch-server-message/src/main/java/com/zifangdt/ch/message/web/MessageController.java" timestamp="1512639131573">
+        <mark key="'" line="31" column="38" />
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="^" line="49" column="44" />
+        <mark key="." line="45" column="0" />
       </file>
       <file name="$USER_HOME$/workr/tcache/src/main/java/testxx/RequestScopeCacheStorage.java" timestamp="1509538775721">
         <mark key="[" line="19" column="55" />
@@ -2317,6 +2339,10 @@
         <mark key="]" line="143" column="0" />
         <mark key="." line="143" column="0" />
       </file>
+      <file name="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/api/CommonServerApi.java" timestamp="1512639159611">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="70" />
+      </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-customer/src/main/resources/create_table.sql" timestamp="1511333677809">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="76" column="46" />
@@ -2528,8 +2554,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="66" column="5" filename="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/dto/customer/Customer.java" />
-      <jump line="33" column="5" filename="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/dto/customer/Customer.java" />
       <jump line="13" column="25" filename="$USER_HOME$/work/ch-server/ch-server-market/src/main/java/com/zifangdt/ch/market/config/CustomerDataInitializer.java" />
       <jump line="88" column="8" filename="$USER_HOME$/work/ch-server/ch-server-customer/src/main/java/com/zifangdt/ch/customer/service/CustomerService.java" />
       <jump line="87" column="19" filename="$USER_HOME$/work/ch-server/ch-server-customer/src/main/java/com/zifangdt/ch/customer/service/CustomerService.java" />
@@ -2628,10 +2652,12 @@
       <jump line="26" column="25" filename="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/util/huanxin/HuanxinApi.java" />
       <jump line="61" column="13" filename="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/util/huanxin/HuanxinApi.java" />
       <jump line="9" column="0" filename="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/util/huanxin/HuanxinApi.java" />
+      <jump line="46" column="8" filename="$USER_HOME$/work/ch-server/ch-server-message/src/main/java/com/zifangdt/ch/message/web/MessageController.java" />
+      <jump line="31" column="38" filename="$USER_HOME$/work/ch-server/ch-server-message/src/main/java/com/zifangdt/ch/message/web/MessageController.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>N</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2663,16 +2689,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>MarketApplication</text>
+        <text>N</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxSZXNwb25zZUJvZHlcPg==</text>
+        <text encoding="base64">XDx1c2VyXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoSFVBTlhJTl9UT0tFTl9JU19FWFBJUkVEIHx8IEhVQU5YSU5fVE9LRU4gPT0gbnVsbCl7Cg==</text>
+        <text encoding="base64">QEZlaWduQ2xpZW50KHZhbHVlID0gIkNPTU1PTi1TRVJWRVIiLHF1YWxpZmllciA9ICJjb21tb25TZXJ2ZXJPZkJhc2UiKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICB1c2VyLnNldFVzZXJuYW1lKCJ0ZXN0Iik7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2697,45 +2723,44 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB1c2VyLnNldFBhc3N3b3JkKCIxMjMiKTsK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB1c2VyLnNldFVzZXJuYW1lKCJ0ZXN0Iik7Cg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICBVc2VyIHVzZXIgPSBuZXcgVXNlcigpOwo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICBAR2V0TWFwcGluZygiL3Rva2VuIikKICAgIFN0cmluZyBnZXRUb2tlbigpIHRocm93cyBJT0V4Y2VwdGlvbiB7CiAgICAgICAgcmV0dXJuIGh1YW54aW5BcGkuZ2V0VG9rZW4oKTsKICAgIH0=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBodWFueGluTWVzc2FnZS5zZXRNc2cobmV3IE1zZyhtZXNzYWdlKSk7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBodWFueGluTWVzc2FnZS5zZXRNc2cobmV3IE1zZyhtZXNzYWdlKSk7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBodWFueGluTWVzc2FnZS5zZXRUYXJnZXQodXNlcnMpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBSZXF1ZXN0TWFwcGluZygiL2NyZWF0ZVVzZXIiKQo=</text>
+        <text encoding="base64">ICAgICAgICBodWFueGluTWVzc2FnZS5zZXRGcm9tKCJhZG1pbiIpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICA8cGFja2FnaW5nPmphcjwvcGFja2FnaW5nPgo=</text>
+        <text encoding="base64">ICAgICAgICBIdWFueGluTWVzc2FnZSBodWFueGluTWVzc2FnZSA9IG5ldyBIdWFueGluTWVzc2FnZSgpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICA8dmVyc2lvbj4xLjAtU05BUFNIT1Q8L3ZlcnNpb24+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>565</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxSZXNwb25zZUJvZHlcPg==</last-search>
+      <last-search encoding="base64">XDx1c2VyXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxSZXNwb25zZUJvZHlcPg==</last-pattern>
+      <last-pattern encoding="base64">XDx1c2VyXD4=</last-pattern>
       <last-replace>cfg</last-replace>
       <last-substitute encoding="base64">XDxjb3VudFw+</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx2YWxpZGF0b3JcPg==</entry>
         <entry encoding="base64">XDxGaWxlc1w+</entry>
         <entry encoding="base64">XDxJTVBPUlRfVEVNUF9GSUxFX1BSRUZJWFw+</entry>
         <entry encoding="base64">XDxURU1QTEFURV9GQUlMVVJFX0ZJTEVOQU1FXD4=</entry>
@@ -2755,6 +2780,7 @@
         <entry encoding="base64">XDx1c2VyT3JnYU1hcHBlclw+</entry>
         <entry encoding="base64">XDxnZXRIdWFueGluVG9rZW5cPg==</entry>
         <entry encoding="base64">XDxSZXNwb25zZUJvZHlcPg==</entry>
+        <entry encoding="base64">XDx1c2VyXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>s/crm/cfg/g</entry>
