@@ -1147,11 +1147,11 @@
         <mark key="^" line="5" column="60" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/web/setting/UserConfigController.java" timestamp="1512546272865">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="69" />
-        <mark key="." line="14" column="0" />
-        <mark key="^" line="27" column="14" />
+      <file name="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/web/setting/UserConfigController.java" timestamp="1512611335024">
+        <mark key="[" line="114" column="9" />
+        <mark key="]" line="115" column="19" />
+        <mark key="^" line="115" column="19" />
+        <mark key="." line="115" column="19" />
       </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-product/README.MD" timestamp="1506676389234">
         <mark key="[" line="6" column="4" />
@@ -1448,10 +1448,11 @@
         <mark key="^" line="5" column="4" />
       </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/dto/todo/TodoTask.java" timestamp="1512445945658" />
-      <file name="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/util/huanxin/HuanxinApi.java" timestamp="1512554334422">
-        <mark key="[" line="29" column="24" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
+      <file name="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/util/huanxin/HuanxinApi.java" timestamp="1512611406235">
+        <mark key="[" line="47" column="66" />
+        <mark key="]" line="47" column="67" />
+        <mark key="." line="47" column="67" />
+        <mark key="^" line="47" column="67" />
       </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/dto/product/Repo.java" timestamp="1508309311779">
         <mark key="[" line="30" column="24" />
@@ -2599,7 +2600,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAobmV3IEhhc2hTZXQ8PigpKQo=</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2631,7 +2632,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>TOKEN</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRGcm9tVXNlck9yT3Jnbml6YXRpb25cPg==</text>
@@ -2640,7 +2641,7 @@
         <text encoding="base64">ICAgICAgICByZXR1cm4gdXNlckNvbmZpZ1NlcnZpY2UuZ2V0RnJvbVVzZXJPck9yZ25pemF0aW9uKHVzZXJPcmdhcyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAobmV3IEhhc2hTZXQ8PigpKQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2664,32 +2665,32 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBTZXQ8TG9uZz4gZGlmZlVzZXJJZHMgPSBuZXcgSGFzaFNldDw+KHVzZXJJZHMpLnJlbW92ZUFsbChleGlzdFVzZXJJZHMpOwo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="4">
         <text>@Autowired
     public void setHuanxinConfig(HuanxinConfig huanxinConfig){
         this.huanxinConfig = huanxinConfig;
     }</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIEBBdQo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIC5hZAo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBvYmplY3RNYXBwZXIuY29uZmlndXJlCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5zZXRkZTsK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBPYmplY3RNYXBwZXJGCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5zZXRkZTsK</text>
       </register>
       <register name=":" type="4">
         <text>565</text>
