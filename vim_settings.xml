@@ -454,12 +454,12 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/service/setting/UserConfigService.java" timestamp="1512546244856">
+      <file name="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/service/setting/UserConfigService.java" timestamp="1512614451109">
         <mark key="'" line="53" column="26" />
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
-        <mark key="^" line="58" column="23" />
+        <mark key="[" line="139" column="126" />
+        <mark key="]" line="139" column="125" />
+        <mark key="." line="139" column="125" />
+        <mark key="^" line="139" column="125" />
       </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-market/src/main/java/com/zifangdt/ch/market/entity/Promotion.java" timestamp="1510134188803">
         <mark key="[" line="15" column="0" />
@@ -1147,11 +1147,11 @@
         <mark key="^" line="5" column="60" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/web/setting/UserConfigController.java" timestamp="1512611335024">
+      <file name="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/web/setting/UserConfigController.java" timestamp="1512613219517">
         <mark key="[" line="114" column="9" />
-        <mark key="]" line="115" column="19" />
-        <mark key="^" line="115" column="19" />
-        <mark key="." line="115" column="19" />
+        <mark key="]" line="115" column="11" />
+        <mark key="^" line="115" column="11" />
+        <mark key="." line="115" column="11" />
       </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-product/README.MD" timestamp="1506676389234">
         <mark key="[" line="6" column="4" />
@@ -2599,8 +2599,8 @@
       <jump line="53" column="26" filename="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/service/setting/UserConfigService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAobmV3IEhhc2hTZXQ8PigpKQo=</text>
+      <register name="&quot;" type="4">
+        <text>d</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2632,7 +2632,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRGcm9tVXNlck9yT3Jnbml6YXRpb25cPg==</text>
