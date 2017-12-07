@@ -454,12 +454,12 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/service/setting/UserConfigService.java" timestamp="1512614451109">
-        <mark key="'" line="53" column="26" />
-        <mark key="[" line="139" column="126" />
-        <mark key="]" line="139" column="125" />
-        <mark key="." line="139" column="125" />
-        <mark key="^" line="139" column="125" />
+      <file name="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/service/setting/UserConfigService.java" timestamp="1512616451998">
+        <mark key="'" line="40" column="39" />
+        <mark key="[" line="177" column="5" />
+        <mark key="]" line="178" column="3" />
+        <mark key="." line="178" column="3" />
+        <mark key="^" line="178" column="3" />
       </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-market/src/main/java/com/zifangdt/ch/market/entity/Promotion.java" timestamp="1510134188803">
         <mark key="[" line="15" column="0" />
@@ -1147,11 +1147,12 @@
         <mark key="^" line="5" column="60" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/web/setting/UserConfigController.java" timestamp="1512613219517">
-        <mark key="[" line="114" column="9" />
-        <mark key="]" line="115" column="11" />
-        <mark key="^" line="115" column="11" />
-        <mark key="." line="115" column="11" />
+      <file name="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/web/setting/UserConfigController.java" timestamp="1512615996713">
+        <mark key="'" line="33" column="33" />
+        <mark key="[" line="115" column="96" />
+        <mark key="]" line="116" column="65" />
+        <mark key="^" line="116" column="65" />
+        <mark key="." line="116" column="65" />
       </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-product/README.MD" timestamp="1506676389234">
         <mark key="[" line="6" column="4" />
@@ -2497,9 +2498,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/work/ch-server/ch-server-customer/src/main/resources/create_table.sql" />
-      <jump line="65" column="5" filename="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/dto/customer/Customer.java" />
-      <jump line="11" column="24" filename="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/dto/customer/Customer.java" />
       <jump line="7" column="43" filename="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/dto/customer/Customer.java" />
       <jump line="153" column="7" filename="$USER_HOME$/work/ch-server/ch-server-market/src/main/java/com/zifangdt/ch/market/web/PromotionController.java" />
       <jump line="28" column="0" filename="$USER_HOME$/work/ch-server/ch-server-market/src/main/java/com/zifangdt/ch/market/service/PromotionJoinService.java" />
@@ -2597,10 +2595,13 @@
       <jump line="361" column="28" filename="$MAVEN_REPOSITORY$/com/squareup/retrofit2/retrofit/2.3.0/retrofit-2.3.0-sources.jar!/retrofit2/Retrofit.java" />
       <jump line="395" column="43" filename="$MAVEN_REPOSITORY$/com/squareup/retrofit2/retrofit/2.3.0/retrofit-2.3.0-sources.jar!/retrofit2/Retrofit.java" />
       <jump line="53" column="26" filename="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/service/setting/UserConfigService.java" />
+      <jump line="40" column="39" filename="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/service/setting/UserConfigService.java" />
+      <jump line="116" column="33" filename="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/web/setting/UserConfigController.java" />
+      <jump line="33" column="33" filename="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/web/setting/UserConfigController.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>d</text>
+        <text>getUserOrgasFor(userConfigEnum);</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2632,16 +2633,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>getUserOrgasFor(userConfigEnum);</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRGcm9tVXNlck9yT3Jnbml6YXRpb25cPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gdXNlckNvbmZpZ1NlcnZpY2UuZ2V0RnJvbVVzZXJPck9yZ25pemF0aW9uKHVzZXJPcmdhcyk7Cg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">TGlzdDxMb25nPiB1c2VySWRzID0gdXNlck9yZ2FzLnN0cmVhbSgpCiAgICAgICAgICAgICAgICAubWFwKHVzZXJPcmdhIC0+IHVzZXJPcmdhU2VydmljZS5nZXRVc2Vyc0Zvcih1c2VyT3JnYSkpCiAgICAgICAgICAgICAgICAuZmxhdE1hcChDb2xsZWN0aW9uOjpzdHJlYW0pCiAgICAgICAgICAgICAgICAuY29sbGVjdChDb2xsZWN0b3JzLnRvTGlzdCgpKTs=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAobmV3IEhhc2hTZXQ8PigpKQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2666,31 +2667,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBTZXQ8TG9uZz4gZGlmZlVzZXJJZHMgPSBuZXcgSGFzaFNldDw+KHVzZXJJZHMpLnJlbW92ZUFsbChleGlzdFVzZXJJZHMpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>@Autowired
-    public void setHuanxinConfig(HuanxinConfig huanxinConfig){
-        this.huanxinConfig = huanxinConfig;
-    }</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBBdQo=</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PExvbmc+IHVzZXJJZHMgPSB1c2VyT3JnYXMuc3RyZWFtKCkK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
+      <register name="6" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5tYXAodXNlck9yZ2EgLT4gdXNlck9yZ2FTZXJ2aWNlLmdldFVzZXJzRm9yKHVzZXJPcmdhKSkKICAgICAgICAgICAgICAgIC5mbGF0TWFwKENvbGxlY3Rpb246OnN0cmVhbSkKICAgICAgICAgICAgICAgIC5jb2xsZWN0KENvbGxlY3RvcnMudG9MaXN0KCkpOw==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5hZAo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBvYmplY3RNYXBwZXIuY29uZmlndXJlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdXNlck9yZ2Euc2V0Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5zZXRkZTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>565</text>
