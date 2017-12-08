@@ -2316,11 +2316,11 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/work/ch-server/ch-server-message/src/main/java/com/zifangdt/ch/MessageApplication.java" timestamp="1512701891243">
-        <mark key="[" line="7" column="66" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-        <mark key="^" line="16" column="54" />
+      <file name="$USER_HOME$/work/ch-server/ch-server-message/src/main/java/com/zifangdt/ch/MessageApplication.java" timestamp="1512720009312">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="15" column="54" />
       </file>
       <file name="$USER_HOME$/workr/tcache/src/main/resources/application.yml" timestamp="1509505735332">
         <mark key="[" line="0" column="0" />
@@ -2474,8 +2474,8 @@
       <jump line="61" column="5" filename="$USER_HOME$/work/ch-server/ch-server-common/src/main/java/com/zifangdt/ch/common/web/DataDictionaryController.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>dataDictionaryMapper.findByValueAndType(value, DataEnum.contractTypes.getType());</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IG9yZy5teQo=</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2523,7 +2523,7 @@
         }</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsCg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5teQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2548,28 +2548,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkZC5zZXRWYWx1ZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkYXRhRGljdGlvbmFyeU1hcHBlci51cGRhdGVCeVByaW1hcnlLZXkoZGQpOwo=</text>
+        <text encoding="base64">ICAgICAgICBkZC5zZXRWYWx1ZSgpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB1cGRhdGVJbnRlcm5hbChkZCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkYXRhRGljdGlvbmFyeU1hcHBlci51cGRhdGVCeVByaW1hcnlLZXkoZGQpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdXBkYXRlSW50ZXJuYWwoZGQpOwo=</text>
+        <text encoding="base64">ICAgICAgICB1cGRhdGVJbnRlcm5hbChkZCk7Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdXBkYXRlSW50ZXJuYWwoZGQpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdXBkYXRlSW50ZXJuYWwoZGQpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBMb25nIGlkID0gMQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkaWN0aW9uYXJ5LnNldEUK</text>
+        <text encoding="base64">ICAgICAgICBMb25nIGlkID0gMQo=</text>
       </register>
       <register name=":" type="4">
         <text>565</text>
