@@ -239,7 +239,6 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="17" column="43" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/squareup/retrofit2/converter-jackson/2.3.0/converter-jackson-2.3.0-sources.jar!/retrofit2/converter/jackson/JacksonConverterFactory.java" timestamp="1512550005467" />
       <file name="$USER_HOME$/work/ch-server/ch-server-contract/src/main/resources/application.yml" timestamp="1510717356636">
         <mark key="[" line="17" column="36" />
         <mark key="]" line="17" column="38" />
@@ -391,6 +390,10 @@
         <mark key="^" line="8" column="3" />
         <mark key="." line="8" column="4" />
       </file>
+      <file name="$USER_HOME$/work/ch-server/ch-server-contract/src/main/java/com/zifangdt/ch/contract/web/setting/ContractBoolConfigController.java" timestamp="1512697637583">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="14" column="40" />
+      </file>
       <file name="$USER_HOME$/work/r-cache/src/test/java/testxx/MyTest.java" timestamp="1510108925445">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
@@ -402,11 +405,10 @@
         <mark key="^" line="7" column="10" />
         <mark key="." line="7" column="10" />
       </file>
-      <file name="$USER_HOME$/work/ch-server/ch-server-contract/src/main/java/com/zifangdt/ch/contract/web/setting/ContractUserConfigController.java" timestamp="1509010114103">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="^" line="7" column="69" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/work/ch-server/ch-server-contract/src/main/java/com/zifangdt/ch/contract/web/setting/ContractUserConfigController.java" timestamp="1512698059263">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-uaa/src/main/java/com/zifangdt/ch/uaa/service/setting/ChoiceConfigService.java" timestamp="1509614699771">
         <mark key="[" line="12" column="32" />
@@ -583,6 +585,12 @@
         <mark key="[" line="9" column="17" />
         <mark key="]" line="9" column="17" />
         <mark key="." line="9" column="17" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/idea64.vmoptions" timestamp="1509095180209">
+        <mark key="[" line="13" column="61" />
+        <mark key="]" line="14" column="40" />
+        <mark key="^" line="14" column="40" />
+        <mark key="." line="14" column="40" />
       </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-market/src/main/java/com/zifangdt/ch/market/mapper/PromotionUserOrgaMapper.java" timestamp="1510134497386">
         <mark key="[" line="6" column="0" />
@@ -782,7 +790,6 @@
         <mark key="]" line="5" column="13" />
         <mark key="." line="5" column="13" />
       </file>
-      <file name="$USER_HOME$/work/ch-server/ch-server-approval/pom.xml" timestamp="1512636514479" />
       <file name="$USER_HOME$/work/ch-server/ch-server-sys-setting/src/main/java/com/zifangdt/ch/syssetting/mapper/UserConfigMapper.java" timestamp="1507876328856">
         <mark key="[" line="7" column="66" />
         <mark key="]" line="8" column="38" />
@@ -1146,7 +1153,6 @@
         <mark key="." line="3" column="71" />
         <mark key="^" line="3" column="61" />
       </file>
-      <file name="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/mapper/setting/UserConfigMapper.java" timestamp="1512116533203" />
       <file name="$USER_HOME$/work/ch-server/ch-server-customer/src/main/java/com/zifangdt/ch/customer/mapper/setting/CfgNumberMapper.java" timestamp="1509072301715">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="59" />
@@ -1381,7 +1387,6 @@
         <mark key="." line="5" column="4" />
         <mark key="^" line="5" column="4" />
       </file>
-      <file name="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/dto/todo/TodoTask.java" timestamp="1512445945658" />
       <file name="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/util/huanxin/HuanxinApi.java" timestamp="1512634439200">
         <mark key="'" line="9" column="0" />
         <mark key="[" line="23" column="0" />
@@ -1582,7 +1587,6 @@
         <mark key="." line="21" column="49" />
         <mark key="^" line="21" column="49" />
       </file>
-      <file name="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/validation/DataEnumValuesValidator.java" timestamp="1512377020540" />
       <file name="$USER_HOME$/work/kotlin-koans/src/i_introduction/_5_String_Templates/n05StringTemplates.kt" timestamp="1511436910647">
         <mark key="[" line="37" column="32" />
         <mark key="]" line="37" column="38" />
@@ -1595,7 +1599,6 @@
         <mark key="." line="8" column="55" />
         <mark key="^" line="8" column="55" />
       </file>
-      <file name="$USER_HOME$/work/ch-server/ch-server-config/src/main/resources/application-dev.properties" timestamp="1512639899960" />
       <file name="$USER_HOME$/work/kotlin-koans/src/ii_collections/n20GroupBy.kt" timestamp="1511511942502">
         <mark key="[" line="10" column="4" />
         <mark key="]" line="10" column="10" />
@@ -1918,6 +1921,12 @@
         <mark key="]" line="20" column="44" />
         <mark key="^" line="20" column="44" />
         <mark key="." line="20" column="44" />
+      </file>
+      <file name="$USER_HOME$/work/ch-server/ch-server-contract/src/main/java/com/zifangdt/ch/contract/web/setting/AggregateController.java" timestamp="1512698022775">
+        <mark key="[" line="20" column="4" />
+        <mark key="]" line="32" column="5" />
+        <mark key="." line="20" column="4" />
+        <mark key="^" line="20" column="3" />
       </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-customer/src/main/resources/mapper/setting/UserConfigMapper.xml" timestamp="1509006543021">
         <mark key="[" line="3" column="80" />
@@ -2361,12 +2370,6 @@
         <mark key="^" line="28" column="12" />
         <mark key="." line="28" column="12" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/idea64.vmoptions" timestamp="1509095180209">
-        <mark key="[" line="13" column="61" />
-        <mark key="]" line="14" column="40" />
-        <mark key="^" line="14" column="40" />
-        <mark key="." line="14" column="40" />
-      </file>
       <file name="$USER_HOME$/work/r-cache/src/main/java/testxx/WebConfig.java" timestamp="1510045753591">
         <mark key="[" line="10" column="43" />
         <mark key="]" line="11" column="3" />
@@ -2484,7 +2487,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuc2NoZWR1bGluZy5hbm5vdGF0aW9uLkFzeW5jOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2516,16 +2519,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>configList</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhcHBsaWNhdGlvbkV2ZW50UHVibGlzaGVyXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHNhdmUoVCB0b0JlU2F2ZWQpIHsK</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIEJvb2xDb25maWdTZXJ2aWNlIGJvb2xDb25maWdTZXJ2aWNlOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuc2NoZWR1bGluZy5hbm5vdGF0aW9uLkFzeW5jOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2550,39 +2553,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS56aWZhbmdkdC5jaC5wcm9kdWN0Lm1hcHBlci5Qcm9kdWN0TmV3c01hcHBlcjsK</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">QEF1dG93aXJlZAogICAgQm9vbENvbmZpZ1NlcnZpY2UgYm9vbENvbmZpZ1NlcnZpY2U7CgogICAgQEdldE1hcHBpbmcKICAgIHB1YmxpYyBNYXA8U3RyaW5nLCBPYmplY3Q+IGdldEFsbFNldHRpbmdzKCl7CiAgICAgICAgTWFwPFN0cmluZywgT2JqZWN0PiByZXN1bHQgPSBuZXcgSGFzaE1hcDw+KCk7CgogICAgICAgIC8vIGJvb2wgY29uZmlnCiAgICAgICAgTWFwPENvbnRyYWN0Qm9vbENvbmZpZ0VudW0sIEJvb2xlYW4+IGNvbmZpZ01hcCA9IEFycmF5cy5zdHJlYW0oQ29udHJhY3RCb29sQ29uZmlnRW51bS52YWx1ZXMoKSkKICAgICAgICAgICAgICAgIC5jb2xsZWN0KENvbGxlY3RvcnMudG9NYXAoRnVuY3Rpb24uaWRlbnRpdHkoKSwgY29uZmlnIC0+IGJvb2xDb25maWdTZXJ2aWNlLmdldENvbmZpZyhjb25maWcpKSk7CiAgICAgICAgcmVzdWx0LnB1dCgiYm9vbHMiLCBjb25maWdNYXApOwogICAgICAgIHJldHVybiByZXN1bHQ7CiAgICB9</text>
       </register>
-      <register name="5" type="4">
-        <text>@EventListener
-    public void onProductUpdate(ProductUpdateEvent event) {
-        Product product = event.getProduct();
-        ProductNews news = new NewsBuilder()
-                .tag(NewsTags.ACTION)
-                .happenedAt(product.getModifyTime())
-                .operator(product.getModifyId())
-                .source(product.getId())
-                .sourceName(product.getName())
-                .buildProductNews(product.getId(), ProductNewsType.UPDATE);
-        productNewsMapper.insertSelective(news);
-    }</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBib29sQ29uZmlnU2VydmljZS5nZXRDb25maWcoKQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5jb2xsZWN0KENvbGxlY3RvcnMudG9MaXN0KCkpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcm9kdWN0TmV3c01hcHBlci5pbnNlcnRTZWxlY3RpdmUobmV3cyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5tYXAoY29uZmlnIC0+IGJvb2xDb25maWdTZXJ2aWNlLmdldENvbmZpZyhjb25maWcpKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5idWlsZFByb2R1Y3ROZXdzKHRvZG9UYXNrLmdldElkKCksIFByb2R1Y3ROZXdzVHlwZS5DUkVBVEUpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5zb3VyY2VOYW1lKHRvZG9UYXNrLmdldE5hbWUoKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5zb3VyY2UodG9kb1Rhc2suZ2V0SWQoKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>565</text>
