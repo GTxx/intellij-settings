@@ -1376,9 +1376,9 @@
         <mark key="." line="7" column="25" />
         <mark key="^" line="7" column="25" />
       </file>
-      <file name="$USER_HOME$/work/ch-server/ch-server-contract/src/main/java/com/zifangdt/ch/contract/web/setting/ContractStepDefController.java" timestamp="1509956909834">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
+      <file name="$USER_HOME$/work/ch-server/ch-server-contract/src/main/java/com/zifangdt/ch/contract/web/setting/ContractStepDefController.java" timestamp="1512699797427">
+        <mark key="[" line="16" column="4" />
+        <mark key="]" line="22" column="4" />
         <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/dao/BaseChoiceConfigMapper.java" timestamp="1509610390953">
@@ -1922,11 +1922,12 @@
         <mark key="^" line="20" column="44" />
         <mark key="." line="20" column="44" />
       </file>
-      <file name="$USER_HOME$/work/ch-server/ch-server-contract/src/main/java/com/zifangdt/ch/contract/web/setting/AggregateController.java" timestamp="1512698719580">
-        <mark key="[" line="31" column="12" />
-        <mark key="]" line="31" column="26" />
-        <mark key="." line="31" column="26" />
-        <mark key="^" line="31" column="26" />
+      <file name="$USER_HOME$/work/ch-server/ch-server-contract/src/main/java/com/zifangdt/ch/contract/web/setting/AggregateController.java" timestamp="1512699863675">
+        <mark key="'" line="35" column="0" />
+        <mark key="[" line="60" column="45" />
+        <mark key="]" line="61" column="7" />
+        <mark key="^" line="61" column="7" />
+        <mark key="." line="61" column="7" />
       </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-customer/src/main/resources/mapper/setting/UserConfigMapper.xml" timestamp="1509006543021">
         <mark key="[" line="3" column="80" />
@@ -2384,7 +2385,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="87" column="19" filename="$USER_HOME$/work/ch-server/ch-server-customer/src/main/java/com/zifangdt/ch/customer/service/CustomerService.java" />
       <jump line="69" column="16" filename="$USER_HOME$/work/ch-server/ch-server-customer/src/main/java/com/zifangdt/ch/customer/service/CustomerService.java" />
       <jump line="607" column="19" filename="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/service/BaseService.java" />
       <jump line="458" column="13" filename="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/service/BaseService.java" />
@@ -2484,10 +2484,11 @@
       <jump line="31" column="38" filename="$USER_HOME$/work/ch-server/ch-server-message/src/main/java/com/zifangdt/ch/message/web/MessageController.java" />
       <jump line="55" column="30" filename="$USER_HOME$/work/ch-server/ch-server-product/src/main/java/com/zifangdt/ch/product/service/ProductService.java" />
       <jump line="49" column="3" filename="$USER_HOME$/work/ch-server/ch-server-todo/src/main/java/com/zifangdt/ch/task/service/TaskService.java" />
+      <jump line="35" column="0" filename="$USER_HOME$/work/ch-server/ch-server-contract/src/main/java/com/zifangdt/ch/contract/web/setting/AggregateController.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2519,16 +2520,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>configList</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhcHBsaWNhdGlvbkV2ZW50UHVibGlzaGVyXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIEJvb2xDb25maWdTZXJ2aWNlIGJvb2xDb25maWdTZXJ2aWNlOwo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">QEF1dG93aXJlZAogICAgQ29udHJhY3RTdGVwRGVmU2VydmljZSBjb250cmFjdFN0ZXBEZWZTZXJ2aWNlOwoKICAgIEBHZXRNYXBwaW5nCiAgICBMaXN0PENvbnRyYWN0U3RlcERlZmluaXRpb24+IGdldEFsbCgpewogICAgICAgIHJldHVybiBjb250cmFjdFN0ZXBEZWZTZXJ2aWNlLmZpbmRBbGwoKTsKICAgIH0=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2553,19 +2554,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">QEF1dG93aXJlZAogICAgQm9vbENvbmZpZ1NlcnZpY2UgYm9vbENvbmZpZ1NlcnZpY2U7CgogICAgQEdldE1hcHBpbmcKICAgIHB1YmxpYyBNYXA8U3RyaW5nLCBPYmplY3Q+IGdldEFsbFNldHRpbmdzKCl7CiAgICAgICAgTWFwPFN0cmluZywgT2JqZWN0PiByZXN1bHQgPSBuZXcgSGFzaE1hcDw+KCk7CgogICAgICAgIC8vIGJvb2wgY29uZmlnCiAgICAgICAgTWFwPENvbnRyYWN0Qm9vbENvbmZpZ0VudW0sIEJvb2xlYW4+IGNvbmZpZ01hcCA9IEFycmF5cy5zdHJlYW0oQ29udHJhY3RCb29sQ29uZmlnRW51bS52YWx1ZXMoKSkKICAgICAgICAgICAgICAgIC5jb2xsZWN0KENvbGxlY3RvcnMudG9NYXAoRnVuY3Rpb24uaWRlbnRpdHkoKSwgY29uZmlnIC0+IGJvb2xDb25maWdTZXJ2aWNlLmdldENvbmZpZyhjb25maWcpKSk7CiAgICAgICAgcmVzdWx0LnB1dCgiYm9vbHMiLCBjb25maWdNYXApOwogICAgICAgIHJldHVybiByZXN1bHQ7CiAgICB9</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBib29sQ29uZmlnU2VydmljZS5nZXRDb25maWcoKQo=</text>
+        <text encoding="base64">ICAgIEBHZXRNYXBwaW5nCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5jb2xsZWN0KENvbGxlY3RvcnMudG9MaXN0KCkpOwo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">TGlzdDxDb250cmFjdFN0ZXBEZWZpbml0aW9uPiBnZXRBbGwoKXsKICAgICAgICByZXR1cm4gY29udHJhY3RTdGVwRGVmU2VydmljZS5maW5kQWxsKCk7</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5tYXAoY29uZmlnIC0+IGJvb2xDb25maWdTZXJ2aWNlLmdldENvbmZpZyhjb25maWcpKQo=</text>
+        <text encoding="base64">ICAgICAgICAvLwo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -2574,7 +2575,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgVXNlckNvbmZpZ0VudW0uQ3VzdG9tZXJFeHBvcnRQZXJtCg==</text>
       </register>
       <register name=":" type="4">
         <text>565</text>
