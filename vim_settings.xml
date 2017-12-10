@@ -1013,6 +1013,9 @@
         <mark key="^" line="10" column="10" />
         <mark key="." line="10" column="10" />
       </file>
+      <file name="/fragment.kt" timestamp="1512911970196">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-product/src/main/java/com/zifangdt/ch/product/web/CategoryController.java" timestamp="1509700422430">
         <mark key="[" line="42" column="30" />
         <mark key="]" line="42" column="30" />
@@ -1640,12 +1643,12 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/piczz/app/src/main/java/com/xx/piczz/activity/Album.kt" timestamp="1512911041475">
+      <file name="$USER_HOME$/AndroidStudioProjects/piczz/app/src/main/java/com/xx/piczz/activity/Album.kt" timestamp="1512912080587">
         <mark key="'" line="11" column="0" />
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="59" column="53" />
-        <mark key="^" line="59" column="53" />
-        <mark key="." line="59" column="53" />
+        <mark key="[" line="44" column="70" />
+        <mark key="]" line="45" column="7" />
+        <mark key="." line="45" column="7" />
+        <mark key="^" line="45" column="7" />
       </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-product/src/main/java/com/zifangdt/ch/product/event/ProductCreateEvent.java" timestamp="1511490983976">
         <mark key="[" line="8" column="4" />
@@ -2488,7 +2491,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2520,7 +2523,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBbGJ1bUZyYWdtZW50XD4=</text>
@@ -2554,39 +2557,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQud2lkZ2V0LkF1dG9Db21wbGV0ZVRleHRWaWV3Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQub3MuUGVyc2lzdGFibGVCdW5kbGUK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuc2NoZWR1bGluZy5hbm5vdGF0aW9uLkFzeW5jOwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS56aWZhbmdkdC5jaC5wcm9kdWN0Lm1hcHBlci5Qcm9kdWN0TmV3c01hcHBlcjsK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4K</text>
       </register>
-      <register name="8" type="4">
-        <text>@EventListener
-    public void onProductUpdate(ProductUpdateEvent event) {
-        Product product = event.getProduct();
-        ProductNews news = new NewsBuilder()
-                .tag(NewsTags.ACTION)
-                .happenedAt(product.getModifyTime())
-                .operator(product.getModifyId())
-                .source(product.getId())
-                .sourceName(product.getName())
-                .buildProductNews(product.getId(), ProductNewsType.UPDATE);
-        productNewsMapper.insertSelective(news);
-    }</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybgo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcm9kdWN0TmV3c01hcHBlci5pbnNlcnRTZWxlY3RpdmUobmV3cyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAocG9zaXRpb24gKyAxIDwgaW1nVXJscy52YXIpIHsK</text>
       </register>
       <register name=":" type="4">
         <text>565</text>
