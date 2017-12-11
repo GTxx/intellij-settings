@@ -945,11 +945,11 @@
         <mark key="^" line="12" column="37" />
         <mark key="." line="12" column="37" />
       </file>
-      <file name="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/enums/setting/StepEnum.java" timestamp="1510733728797">
-        <mark key="[" line="3" column="3" />
-        <mark key="]" line="3" column="6" />
-        <mark key="." line="3" column="6" />
-        <mark key="^" line="3" column="6" />
+      <file name="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/enums/setting/StepEnum.java" timestamp="1512958307678">
+        <mark key="[" line="7" column="26" />
+        <mark key="]" line="7" column="26" />
+        <mark key="." line="7" column="26" />
+        <mark key="^" line="7" column="26" />
       </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-customer/src/main/java/com/zifangdt/ch/customer/mapper/CfgNumberMapper.java" timestamp="1509069599634">
         <mark key="[" line="4" column="0" />
@@ -1181,7 +1181,7 @@
         <mark key="." line="0" column="52" />
         <mark key="^" line="0" column="52" />
       </file>
-      <file name="$USER_HOME$/work/ch-server/ch-server-sys-setting/src/main/java/com/zifangdt/ch/syssetting/web/ProjectChoiceConfigController.java" timestamp="1509614118123">
+      <file name="$USER_HOME$/work/ch-server/ch-server-sys-setting/src/main/java/com/zifangdt/ch/syssetting/web/ProjectChoiceConfigController.java" timestamp="1512957028793">
         <mark key="[" line="7" column="18" />
         <mark key="]" line="7" column="25" />
         <mark key="." line="7" column="25" />
@@ -1192,11 +1192,11 @@
         <mark key="]" line="22" column="4" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/work/ch-server/ch-server-sys-setting/src/main/java/com/zifangdt/ch/syssetting/web/ProjectAggregateController.java" timestamp="1512727058723">
-        <mark key="[" line="76" column="35" />
-        <mark key="]" line="77" column="7" />
-        <mark key="." line="77" column="7" />
-        <mark key="^" line="77" column="7" />
+      <file name="$USER_HOME$/work/ch-server/ch-server-sys-setting/src/main/java/com/zifangdt/ch/syssetting/web/ProjectAggregateController.java" timestamp="1512957104219">
+        <mark key="[" line="76" column="85" />
+        <mark key="]" line="76" column="106" />
+        <mark key="." line="76" column="106" />
+        <mark key="^" line="76" column="106" />
       </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/dao/BaseChoiceConfigMapper.java" timestamp="1509610390953">
         <mark key="[" line="5" column="4" />
@@ -1463,7 +1463,7 @@
         <mark key="^" line="76" column="37" />
         <mark key="." line="76" column="37" />
       </file>
-      <file name="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/enums/setting/ChoiceConfigEnum.java" timestamp="1512726224828">
+      <file name="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/enums/setting/ChoiceConfigEnum.java" timestamp="1512957617570">
         <mark key="[" line="42" column="4" />
         <mark key="]" line="42" column="4" />
         <mark key="^" line="6" column="6" />
@@ -2114,8 +2114,8 @@
       <jump line="61" column="5" filename="$USER_HOME$/work/ch-server/ch-server-common/src/main/java/com/zifangdt/ch/common/web/DataDictionaryController.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICgpCg==</text>
+      <register name="&quot;" type="4">
+        <text>MaterialImportAudit</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2147,7 +2147,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">KCLorr7nva7pobnnm67mtojmga/pgJrnn6UiKTsg</text>
+        <text>MaterialImportAudit</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxEZWxldGVNYXBwaW5nXD4=</text>
