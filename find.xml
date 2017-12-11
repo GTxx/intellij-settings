@@ -7,9 +7,8 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Project Files" />
-    <option name="FILE_MASK" value="*.xml" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
-      <mask>*.css</mask>
       <mask>*.mxmoml</mask>
       <mask>*.mxmol</mask>
       <mask>*.mxml</mask>
@@ -25,20 +24,21 @@
       <mask>java</mask>
       <mask>*.ava</mask>
       <mask>*.va</mask>
-      <mask>*.a</mask>
       <mask>*.l</mask>
       <mask>*.jav</mask>
       <mask>*xml.</mask>
       <mask>*xm.</mask>
       <mask>*x.</mask>
       <mask>.</mask>
-      <mask>*.x</mask>
-      <mask>*.java</mask>
-      <mask>*.ja</mask>
-      <mask>*.j</mask>
-      <mask>*.</mask>
-      <mask>*.xm</mask>
       <mask>*.xml</mask>
+      <mask>*.xm</mask>
+      <mask>*.x</mask>
+      <mask>*.av</mask>
+      <mask>*.a</mask>
+      <mask>*.</mask>
+      <mask>*.j</mask>
+      <mask>*.ja</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
