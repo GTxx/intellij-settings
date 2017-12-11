@@ -82,7 +82,7 @@
         <mark key="^" line="3" column="33" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/work/ch-server/ch-server-todo/src/main/java/com/zifangdt/ch/task/event/Listener.java" timestamp="1512970983495">
+      <file name="$USER_HOME$/work/ch-server/ch-server-todo/src/main/java/com/zifangdt/ch/task/event/Listener.java" timestamp="1512985868042">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
         <mark key="^" line="21" column="9" />
@@ -166,7 +166,7 @@
         <mark key="." line="7" column="70" />
         <mark key="^" line="7" column="70" />
       </file>
-      <file name="$USER_HOME$/work/ch-server/ch-server-todo/src/main/java/com/zifangdt/ch/task/service/TaskService.java" timestamp="1512963303026" />
+      <file name="$USER_HOME$/work/ch-server/ch-server-todo/src/main/java/com/zifangdt/ch/task/service/TaskService.java" timestamp="1512985876737" />
       <file name="$USER_HOME$/work/ch-server/.gitignore" timestamp="1508725430211">
         <mark key="[" line="15" column="1" />
         <mark key="]" line="15" column="0" />
@@ -245,11 +245,11 @@
         <mark key="." line="15" column="87" />
         <mark key="^" line="27" column="23" />
       </file>
-      <file name="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/api/MessageServerApi.java" timestamp="1512639803250">
-        <mark key="[" line="28" column="19" />
-        <mark key="]" line="28" column="18" />
-        <mark key="^" line="28" column="18" />
-        <mark key="." line="28" column="18" />
+      <file name="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/api/MessageServerApi.java" timestamp="1512986783455">
+        <mark key="[" line="12" column="37" />
+        <mark key="]" line="12" column="37" />
+        <mark key="^" line="28" column="26" />
+        <mark key="." line="12" column="37" />
       </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/dto/UserConfig.java" timestamp="1509005899728">
         <mark key="[" line="2" column="13" />
@@ -569,6 +569,7 @@
         <mark key="." line="8" column="11" />
         <mark key="^" line="8" column="11" />
       </file>
+      <file name="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/web/CustomResponseBodyAdvice.java" timestamp="1512986301276" />
       <file name="$USER_HOME$/work/ch-server/ch-server-sys-setting/src/main/java/com/zifangdt/ch/syssetting/entity/CrmBoolConfig.java" timestamp="1507798214241">
         <mark key="[" line="8" column="13" />
         <mark key="]" line="8" column="13" />
@@ -592,10 +593,6 @@
         <mark key="]" line="2" column="69" />
         <mark key="." line="2" column="69" />
         <mark key="^" line="2" column="38" />
-      </file>
-      <file name="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/dto/syssetting/StepDefinition.java" timestamp="1512973623809">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="25" />
       </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-message/src/main/java/com/zifangdt/ch/message/huanxin/HuanxinApi.java" timestamp="1512639021212">
         <mark key="[" line="71" column="60" />
@@ -1077,7 +1074,7 @@
         <mark key="^" line="107" column="31" />
         <mark key="." line="107" column="31" />
       </file>
-      <file name="/fragment.java" timestamp="1512960545780">
+      <file name="/fragment.java" timestamp="1512986666530">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="80" />
         <mark key="^" line="0" column="12" />
@@ -1470,6 +1467,12 @@
         <mark key="]" line="14" column="30" />
         <mark key="^" line="14" column="30" />
         <mark key="." line="14" column="30" />
+      </file>
+      <file name="$USER_HOME$/work/ch-server/ch-server-message/src/main/resources/logback.xml" timestamp="1512985781537">
+        <mark key="[" line="29" column="58" />
+        <mark key="]" line="29" column="64" />
+        <mark key="." line="29" column="64" />
+        <mark key="^" line="29" column="64" />
       </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-sys-setting/src/main/java/com/zifangdt/ch/syssetting/RequestScopeCacheStorage.java" timestamp="1509436677719">
         <mark key="[" line="8" column="13" />
@@ -2132,7 +2135,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>config</text>
+        <text>&quot;</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2164,7 +2167,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>config</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjc2RcPg==</text>
