@@ -737,6 +737,7 @@
         <mark key="[" line="28" column="0" />
         <mark key="]" line="28" column="96" />
       </file>
+      <file name="$USER_HOME$/work/ch-server/ch-server-config/src/main/resources/application-dev.properties" timestamp="1513061237809" />
       <file name="$USER_HOME$/work/ch-server/ch-server-market/src/main/java/com/zifangdt/ch/market/mapper/PromotionDraftMapper.java" timestamp="1510217609633">
         <mark key="[" line="7" column="1" />
         <mark key="]" line="7" column="10" />
@@ -1139,6 +1140,7 @@
         <mark key="^" line="5" column="76" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/work/ch-server/ch-server-message/src/main/resources/application.yml" timestamp="1513060845446" />
       <file name="$USER_HOME$/work/r-cache/src/main/java/testxx/RequestScopeCache.java" timestamp="1510130056791">
         <mark key="[" line="45" column="30" />
         <mark key="]" line="45" column="42" />
@@ -1690,6 +1692,12 @@
         <mark key="^" line="8" column="33" />
         <mark key="." line="8" column="33" />
       </file>
+      <file name="$USER_HOME$/work/ch-server/ch-server-market/target/classes/application.yml" timestamp="1513060770716">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="11" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/util/huanxin/HuanxinMessage.java" timestamp="1512634149932">
         <mark key="[" line="47" column="28" />
         <mark key="]" line="47" column="28" />
@@ -1998,11 +2006,11 @@
         <mark key="." line="20" column="3" />
         <mark key="^" line="20" column="3" />
       </file>
-      <file name="$USER_HOME$/work/ch-server/ch-server-market/src/main/resources/application.yml" timestamp="1512722869661">
-        <mark key="[" line="14" column="38" />
-        <mark key="]" line="14" column="38" />
-        <mark key="." line="14" column="38" />
-        <mark key="^" line="14" column="38" />
+      <file name="$USER_HOME$/work/ch-server/ch-server-market/src/main/resources/application.yml" timestamp="1513061821784">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="38" />
       </file>
       <file name="$USER_HOME$/work/kotlin-koans/src/ii_collections/n16FlatMap.kt" timestamp="1511511004788">
         <mark key="[" line="16" column="70" />
@@ -2200,7 +2208,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBmaXg6IOS/ruato2dlbmVyaWMgZXZlbnTkuI3og73ljLnphY1saXN0ZW5lcueahOmXrumimAo=</text>
+        <text encoding="base64">aHRtbAo=</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2232,7 +2240,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjaGVja1RpbWVvdXRcPg==</text>
@@ -2255,7 +2263,7 @@
     }</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBmaXg6IOS/ruato2dlbmVyaWMgZXZlbnTkuI3og73ljLnphY1saXN0ZW5lcueahOmXrumimAo=</text>
+        <text encoding="base64">aHRtbAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2279,29 +2287,31 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">c3ByaW5nOgogIGRhdGFzb3VyY2U6CiAgICBkcml2ZXItY2xhc3MtY29uZmlnOiBjb20ubXlzcWwuamRiYy5Ecml2ZXIKICAgIHVybDogamRiYzpteXNxbDovLzE5Mi4xNjguMS4xNDozMzA2L2NoX2RiX21hcmtldD9hbGxvd011bHRpUXVlcmllcz10cnVlJnVzZVVuaWNvZGU9dHJ1ZSZjaGFyYWN0ZXJFbmNvZGluZz1VVEYtOCZzZXJ2ZXJUaW1lem9uZT1Bc2lhL1NoYW5naGFpCiAgICB1c2VybmFtZTogemZicG0KICAgIHBhc3N3b3JkOiB6ZmJwbUAxMDE4CiMKc2VydmVyOgogIHBvcnQ6IDgwODgKCm1hbmFnZW1lbnQ6CiAgc2VjdXJpdHk6CiAgICBlbmFibGVkOiBmYWxzZQoKUFJPTU9USU9OX1VSTDogaHR0cDovLzE5Mi4xNjguMS4xODg6ODA4MC9zaWdudXAu</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PDw8PDw8PCByZWZzL3JlbW90ZXMvb3JpZ2luL2Rldgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS56aWZhbmdkdC5jaC5iYXNlLmV2ZW50LkVudGl0eUNyZWF0ZUV2ZW50Owo=</text>
+      <register name="5" type="4">
+        <text>management:
+  security:
+    enabled: false</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEFwcGxpY2F0aW9uRXZlbnRQdWJsaXNoZXIgYXBwbGljYXRpb25FdmVudFB1Ymxpc2hlcjsK</text>
+        <text encoding="base64">Pj4+Pj4+PiBmaXg6IOS/ruato2dlbmVyaWMgZXZlbnTkuI3og73ljLnphY1saXN0ZW5lcueahOmXrumimAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhcHBsaWNhdGlvbkV2ZW50UHVibGlzaGVyLnB1Ymxpc2hFdmVudChuZXcgRW50aXR5Q3JlYXRlRXZlbnQ8VD4odGhpcywgdG9CZVNhdmVkKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB1c2VyLmdldE5hbWUoKSArICLlj5HmnaUiICsgdXNlci5nZXROYW1lKCkgKyAi77yM54K55Ye75aSE55CGIik7Cg==</text>
+        <text encoding="base64">PDw8PDw8PCByZWZzL3JlbW90ZXMvb3JpZ2luL2Rldgo=</text>
       </register>
       <register name=":" type="4">
         <text>565</text>
