@@ -29,11 +29,11 @@
         <mark key="." line="40" column="59" />
         <mark key="^" line="37" column="64" />
       </file>
-      <file name="$USER_HOME$/work/ch-server/ch-server-todo/src/main/java/com/zifangdt/ch/task/event/Listener.java" timestamp="1513239594094">
-        <mark key="[" line="33" column="67" />
-        <mark key="]" line="33" column="94" />
-        <mark key="." line="33" column="94" />
-        <mark key="^" line="33" column="94" />
+      <file name="$USER_HOME$/work/ch-server/ch-server-todo/src/main/java/com/zifangdt/ch/task/event/Listener.java" timestamp="1513239724334">
+        <mark key="[" line="42" column="55" />
+        <mark key="]" line="42" column="55" />
+        <mark key="." line="42" column="55" />
+        <mark key="^" line="40" column="64" />
       </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-product/src/main/resources/generatorConfig.xml" timestamp="1507703324066">
         <mark key="[" line="46" column="53" />
@@ -2389,7 +2389,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>userId</text>
+        <text>user</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2421,7 +2421,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>userId</text>
+        <text>user</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxub3RpY2VTZXJ2aWNlXD4=</text>
@@ -2430,7 +2430,7 @@
         <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIExvZ2dlciBMT0dHRVIgPSBMb2dnZXJGYWN0b3J5LmdldExvZ2dlcihKd3RBdXRoZW50aWNhdGlvbkZpbHRlci5jbGFzcyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVG9kb1Rhc2sgdG9kbwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgVXNlciB1c2VyID0gdWFhU2VydmVyQXBpRm9yU2V0dGluZy5nZXRVc2VyKHVzZXJJZCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2454,31 +2454,31 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgVG9kb1Rhc2sgdG9kbwo=</text>
+      </register>
+      <register name="3" type="4">
         <text>TodoTask todoTask = event.getEntity();
         Long userId = todoTask.getOperator();
         User user = uaaServerApiForSetting.getUser(userId);</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgTm90aWNlIG5vdGljZSA9IGV2ZW50LmdldEVudGl0eSgpOwo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbm90aWNlLnNldENvCg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIHRvZG9UYXNrCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBNYXA8Pgo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBQb3N0TQo=</text>
+        <text encoding="base64">ICAgICAgICBNYXA8Pgo=</text>
       </register>
       <register name=":" type="4">
         <text>565</text>
