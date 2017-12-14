@@ -1099,6 +1099,7 @@
         <mark key="." line="3" column="71" />
         <mark key="^" line="3" column="61" />
       </file>
+      <file name="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/enums/RelatedBizType.java" timestamp="1513241786943" />
       <file name="$USER_HOME$/work/ch-server/ch-server-customer/src/main/java/com/zifangdt/ch/customer/mapper/setting/CfgNumberMapper.java" timestamp="1509072301715">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="59" />
@@ -1338,7 +1339,7 @@
         <mark key="." line="5" column="4" />
         <mark key="^" line="5" column="4" />
       </file>
-      <file name="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/dto/todo/TodoTask.java" timestamp="1513239329749">
+      <file name="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/dto/todo/TodoTask.java" timestamp="1513241914083">
         <mark key="[" line="44" column="27" />
         <mark key="]" line="44" column="35" />
         <mark key="^" line="44" column="35" />
