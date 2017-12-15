@@ -473,7 +473,7 @@
         <mark key="." line="71" column="37" />
         <mark key="^" line="71" column="37" />
       </file>
-      <file name="/Dummy.txt" timestamp="1513307360020">
+      <file name="/Dummy.txt" timestamp="1513318175514">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/web/CustomFeignInterceptor.java" timestamp="1512992597683">
@@ -1085,8 +1085,8 @@
         <mark key="^" line="57" column="43" />
         <mark key="." line="57" column="43" />
       </file>
-      <file name="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/dto/common/DataDictionary.java" timestamp="1513069881946">
-        <mark key="'" line="41" column="37" />
+      <file name="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/dto/common/DataDictionary.java" timestamp="1513318194701">
+        <mark key="'" line="19" column="31" />
         <mark key="[" line="70" column="13" />
         <mark key="]" line="70" column="27" />
         <mark key="." line="70" column="27" />
@@ -2256,7 +2256,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="38" column="3" filename="$USER_HOME$/work/ch-server/ch-server-sys-setting/src/main/java/com/zifangdt/ch/syssetting/web/PiceSheetAggregateController.java" />
       <jump line="67" column="56" filename="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/web/CustomResponseBodyAdvice.java" />
       <jump line="71" column="19" filename="$USER_HOME$/work/ch-server/ch-server-message/src/main/java/com/zifangdt/ch/message/huanxin/HuanxinApi.java" />
       <jump line="5" column="17" filename="$USER_HOME$/work/ch-server/ch-server-gateway/src/main/java/com/zifangdt/ch/gateway/security/JwtAuthenticationFilter.java" />
@@ -2356,6 +2355,7 @@
       <jump line="48" column="3" filename="$USER_HOME$/work/ch-server/ch-server-customer/src/main/java/com/zifangdt/ch/customer/service/setting/CfgCustomerSourceService.java" />
       <jump line="145" column="0" filename="$USER_HOME$/work/ch-server/ch-server-customer/src/main/java/com/zifangdt/ch/customer/service/setting/CfgCustomerSourceService.java" />
       <jump line="26" column="36" filename="$USER_HOME$/work/ch-server/ch-server-customer/src/main/java/com/zifangdt/ch/customer/service/setting/CfgCustomerSourceService.java" />
+      <jump line="19" column="31" filename="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/dto/common/DataDictionary.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -2394,7 +2394,7 @@
         <text encoding="base64">Y29tLnppZmFuZ2R0LmNoLmJhc2UuZHRvLmN1c3RvbWVyLnNldHRpbmcuQ2ZnQ3VzdG9tZXJTb3VyY2UiPjwvc2VsZWN0Pg==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxVYWFTZXJ2ZXJBcGlcPg==</text>
+        <text encoding="base64">XDxpc0V4Y2x1c2l2ZVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIExvZ2dlciBsb2dnZXIgPSBMb2dnZXJGYWN0b3J5LmdldExvZ2dlcihMaXN0ZXJuZXIuY2xhc3MpOwo=</text>
@@ -2453,9 +2453,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxVYWFTZXJ2ZXJBcGlcPg==</last-search>
+      <last-search encoding="base64">XDxpc0V4Y2x1c2l2ZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxVYWFTZXJ2ZXJBcGlcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxpc0V4Y2x1c2l2ZVw+</last-pattern>
       <last-replace>cfg</last-replace>
       <last-substitute encoding="base64">XDxjb3VudFw+</last-substitute>
       <last-dir>-1</last-dir>
@@ -2463,7 +2463,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxMb2dGYWN0b3J5XD4=</entry>
         <entry encoding="base64">XDxnZXRSb3V0ZUhvc3RcPg==</entry>
         <entry encoding="base64">XDxkaXNwYXRjaGVyU2VydmxldFBhdGhcPg==</entry>
         <entry encoding="base64">XDxhcmd1bWVudHNcPg==</entry>
@@ -2483,6 +2482,7 @@
         <entry encoding="base64">XDxhbm5vdW5jZW1lbnRTZXJ2aWNlXD4=</entry>
         <entry encoding="base64">XDxjZmdDdXN0b21lclNvdXJjZU1hcHBlclw+</entry>
         <entry encoding="base64">XDxVYWFTZXJ2ZXJBcGlcPg==</entry>
+        <entry encoding="base64">XDxpc0V4Y2x1c2l2ZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>s/crm/cfg/g</entry>
