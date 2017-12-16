@@ -1909,12 +1909,12 @@
         <mark key="^" line="12" column="34" />
         <mark key="." line="12" column="34" />
       </file>
-      <file name="$USER_HOME$/work/ch-server/ch-server-message/src/main/java/com/zifangdt/ch/message/web/MessageController.java" timestamp="1513304310972">
-        <mark key="'" line="35" column="3" />
-        <mark key="[" line="88" column="23" />
-        <mark key="]" line="88" column="31" />
-        <mark key="^" line="88" column="31" />
-        <mark key="." line="88" column="31" />
+      <file name="$USER_HOME$/work/ch-server/ch-server-message/src/main/java/com/zifangdt/ch/message/web/MessageController.java" timestamp="1513395403266">
+        <mark key="'" line="36" column="3" />
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="38" column="23" />
+        <mark key="^" line="38" column="23" />
+        <mark key="." line="38" column="23" />
       </file>
       <file name="$USER_HOME$/workr/tcache/src/main/java/testxx/RequestScopeCacheStorage.java" timestamp="1509538775721">
         <mark key="[" line="19" column="55" />
