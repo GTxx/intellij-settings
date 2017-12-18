@@ -1105,6 +1105,11 @@
       <file name="$USER_HOME$/work/ch-server/ch-server-project-manager/src/main/java/com/zifangdt/ch/projectManager/config/ScheduleTask.java" timestamp="1513132976528">
         <mark key="'" line="12" column="25" />
       </file>
+      <file name="$USER_HOME$/work/ch-server/ch-server-market/src/main/resources/application.yml" timestamp="1513562354660">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-core/1.3.2.RELEASE/spring-cloud-netflix-core-1.3.2.RELEASE-sources.jar!/org/springframework/cloud/netflix/zuul/filters/route/SendForwardFilter.java" timestamp="1513156652907" />
       <file name="$USER_HOME$/work/ch-server/ch-server-base/src/main/resources/mapper/setting/ChoiceConfigMapper.xml" timestamp="1509610613889">
         <mark key="[" line="3" column="71" />
@@ -2524,28 +2529,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
+        <text encoding="base64">ICAgIFNpbXBNZXNzYWdpbmdUZW1wbGF0ZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CiAgICBAQmVhbgogICAgcHVibGljIFdlYlNvY2tldEhhbmRsZXIgbm90aWNlSGFuZGxlcigpIHsKICAgICAgICByZXR1cm4gbmV3IE5vdGljZUhhbmRsZXIoKTsKICAgIH0KCiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyB2b2lkIHJlZ2lzdGVyV2ViU29ja2V0SGFuZGxlcnMoV2ViU29ja2V0SGFuZGxlclJlZ2lzdHJ5IHdlYlNvY2tldEhhbmRsZXJSZWdpc3RyeSkgewogICAgICAgIFdlYlNvY2tldE1lc3NhZ2VCcm9rZXJDb25maWd1cmVyCiAgICAgICAgd2ViU29ja2V0SGFuZGxlclJlZ2lzdHJ5LmFkZEhhbmRsZXIobm90aWNlSGFuZGxlcigpLCAiL25vdGljZSIpOwogICAgfQ==</text>
-      </register>
-      <register name="6" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="4">
+        <text encoding="base64">CiAgICBAQmVhbgogICAgcHVibGljIFdlYlNvY2tldEhhbmRsZXIgbm90aWNlSGFuZGxlcigpIHsKICAgICAgICByZXR1cm4gbmV3IE5vdGljZUhhbmRsZXIoKTsKICAgIH0KCiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyB2b2lkIHJlZ2lzdGVyV2ViU29ja2V0SGFuZGxlcnMoV2ViU29ja2V0SGFuZGxlclJlZ2lzdHJ5IHdlYlNvY2tldEhhbmRsZXJSZWdpc3RyeSkgewogICAgICAgIFdlYlNvY2tldE1lc3NhZ2VCcm9rZXJDb25maWd1cmVyCiAgICAgICAgd2ViU29ja2V0SGFuZGxlclJlZ2lzdHJ5LmFkZEhhbmRsZXIobm90aWNlSGFuZGxlcigpLCAiL25vdGljZSIpOwogICAgfQ==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlci5jb25maWd1cmVNZXNzYWdlQnJva2VyKHJlZ2lzdHJ5KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">QEVuYWJsZVdlYlNvY2tldAo=</text>
+        <text encoding="base64">ICAgICAgICBzdXBlci5jb25maWd1cmVNZXNzYWdlQnJva2VyKHJlZ2lzdHJ5KTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBtYXAucHV0KENob2ljZUNvbmZpZ0VudW0uR2V0TWF4LmdldENvZGVuYW1lKCkpCg==</text>
+        <text encoding="base64">QEVuYWJsZVdlYlNvY2tldAo=</text>
       </register>
       <register name=":" type="4">
         <text>565</text>
