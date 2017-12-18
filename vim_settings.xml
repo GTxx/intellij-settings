@@ -5,7 +5,7 @@
     <filemarks>
       <file name="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/dto/uaa/User.java" timestamp="1513048646350" />
       <file name="$USER_HOME$/work/ch-server/ch-server-todo/src/main/java/com/zifangdt/ch/task/web/TaskController.java" timestamp="1513239388521" />
-      <file name="/a.dummy" timestamp="1513232920380">
+      <file name="/a.dummy" timestamp="1513580120804">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-sys-setting/src/main/java/com/zifangdt/ch/syssetting/web/QuickEntryRuleController.java" timestamp="1510822577179">
@@ -285,11 +285,11 @@
         <mark key="." line="19" column="50" />
         <mark key="^" line="19" column="50" />
       </file>
-      <file name="$USER_HOME$/work/ch-server/ch-server-message/src/main/java/com/zifangdt/ch/message/socket/NoticController.java" timestamp="1513578802361">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="13" column="19" />
+      <file name="$USER_HOME$/work/ch-server/ch-server-message/src/main/java/com/zifangdt/ch/message/socket/NoticController.java" timestamp="1513580009261">
+        <mark key="[" line="12" column="6" />
+        <mark key="]" line="12" column="6" />
         <mark key="^" line="13" column="19" />
-        <mark key="." line="13" column="19" />
+        <mark key="." line="12" column="6" />
       </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-message/pom.xml" timestamp="1513330074147">
         <mark key="[" line="44" column="0" />
@@ -986,11 +986,11 @@
         <mark key="^" line="46" column="41" />
         <mark key="." line="46" column="41" />
       </file>
-      <file name="$USER_HOME$/work/ch-server/ch-server-message/src/main/java/com/zifangdt/ch/message/socket/TestSendSomeController.java" timestamp="1513577068535">
-        <mark key="[" line="11" column="1" />
-        <mark key="]" line="11" column="4" />
-        <mark key="." line="11" column="4" />
-        <mark key="^" line="11" column="4" />
+      <file name="$USER_HOME$/work/ch-server/ch-server-message/src/main/java/com/zifangdt/ch/message/socket/TestSendSomeController.java" timestamp="1513580351870">
+        <mark key="[" line="24" column="52" />
+        <mark key="]" line="24" column="55" />
+        <mark key="^" line="24" column="55" />
+        <mark key="." line="24" column="55" />
       </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-product/src/main/java/com/zifangdt/ch/product/web/CategoryController.java" timestamp="1509700422430">
         <mark key="[" line="42" column="30" />
@@ -1543,6 +1543,13 @@
         <mark key="^" line="9" column="10" />
         <mark key="." line="9" column="10" />
       </file>
+      <file name="$USER_HOME$/work/ch-server/ch-server-message/src/main/java/com/zifangdt/ch/message/service/HXMessageService.java" timestamp="1513581033883">
+        <mark key="'" line="33" column="32" />
+        <mark key="[" line="33" column="65" />
+        <mark key="]" line="33" column="80" />
+        <mark key="." line="33" column="80" />
+        <mark key="^" line="33" column="80" />
+      </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-message/src/main/java/com/zifangdt/ch/message/socket/SubscribeController.java" timestamp="1513407995255">
         <mark key="[" line="9" column="13" />
         <mark key="]" line="9" column="13" />
@@ -1858,11 +1865,11 @@
         <mark key="^" line="24" column="10" />
         <mark key="." line="24" column="10" />
       </file>
-      <file name="$USER_HOME$/work/ch-server/ch-server-message/src/main/java/com/zifangdt/ch/message/socket/WebSocketConfig.java" timestamp="1513578680217">
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="42" column="0" />
-        <mark key="^" line="41" column="29" />
+      <file name="$USER_HOME$/work/ch-server/ch-server-message/src/main/java/com/zifangdt/ch/message/socket/WebSocketConfig.java" timestamp="1513579835928">
+        <mark key="[" line="16" column="31" />
+        <mark key="]" line="16" column="35" />
+        <mark key="." line="16" column="35" />
+        <mark key="^" line="16" column="35" />
       </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-market/src/main/java/com/zifangdt/ch/market/mapper/PromotionAffiliateMapper.java" timestamp="1510731278246">
         <mark key="[" line="11" column="45" />
@@ -1958,11 +1965,12 @@
         <mark key="^" line="12" column="34" />
         <mark key="." line="12" column="34" />
       </file>
-      <file name="$USER_HOME$/work/ch-server/ch-server-message/src/main/java/com/zifangdt/ch/message/web/MessageController.java" timestamp="1513408293032">
-        <mark key="'" line="35" column="3" />
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="." line="36" column="0" />
+      <file name="$USER_HOME$/work/ch-server/ch-server-message/src/main/java/com/zifangdt/ch/message/web/MessageController.java" timestamp="1513580684887">
+        <mark key="'" line="37" column="3" />
+        <mark key="[" line="93" column="44" />
+        <mark key="]" line="94" column="44" />
+        <mark key="." line="94" column="44" />
+        <mark key="^" line="94" column="44" />
       </file>
       <file name="$USER_HOME$/workr/tcache/src/main/java/testxx/RequestScopeCacheStorage.java" timestamp="1509538775721">
         <mark key="[" line="19" column="55" />
@@ -1990,6 +1998,12 @@
         <mark key="]" line="4" column="87" />
         <mark key="." line="4" column="87" />
         <mark key="^" line="4" column="87" />
+      </file>
+      <file name="$USER_HOME$/work/ch-server/ch-server-message/src/main/java/com/zifangdt/ch/message/service/StompMessageService.java" timestamp="1513580638350">
+        <mark key="[" line="49" column="51" />
+        <mark key="]" line="49" column="71" />
+        <mark key="." line="49" column="71" />
+        <mark key="^" line="49" column="71" />
       </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-sys-setting/src/main/java/com/zifangdt/ch/syssetting/web/StepDefController.java" timestamp="1512973389939" />
       <file name="$USER_HOME$/work/ch-server/ch-server-market/src/main/java/com/zifangdt/ch/market/entity/PromotionJoin.java" timestamp="1510134341925">
@@ -2377,8 +2391,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="13" filename="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/event/EntityCreateEvent.java" />
-      <jump line="110" column="20" filename="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/service/BaseService.java" />
       <jump line="534" column="46" filename="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/service/BaseService.java" />
       <jump line="2" column="0" filename="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/service/BaseService.java" />
       <jump line="451" column="16" filename="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/service/BaseService.java" />
@@ -2477,10 +2489,12 @@
       <jump line="39" column="0" filename="$MAVEN_REPOSITORY$/org/springframework/spring-websocket/4.3.10.RELEASE/spring-websocket-4.3.10.RELEASE.jar!/org/springframework/web/socket/handler/AbstractWebSocketHandler.class" />
       <jump line="2" column="40" filename="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/util/FileUtil.java" />
       <jump line="72" column="13" filename="$USER_HOME$/work/ch-server/ch-server-product/src/main/java/com/zifangdt/ch/product/web/ProductController.java" />
+      <jump line="53" column="12" filename="$USER_HOME$/work/ch-server/ch-server-message/src/main/java/com/zifangdt/ch/message/service/HXMessageService.java" />
+      <jump line="33" column="32" filename="$USER_HOME$/work/ch-server/ch-server-message/src/main/java/com/zifangdt/ch/message/service/HXMessageService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhY2Nlc3Nvci5zZXRVc2VyKHVzZXIpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>Message</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2512,16 +2526,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IG5vdGljZQ==</text>
+        <text>Message</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxTdG9yZVBhdGhcPg==</text>
+        <text encoding="base64">XDxsb2dnZXJcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBNYXA8U3RyaW5nLCBJbnRlZ2VyPiBtYXAgPSBjdXN0b21lclNldHRpbmdTZXJ2ZXJBcGkuZ2V0TnVtYmVyRm9yQ3VzdG9tZXJQb29sKCk7Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHNlbmRUb2RvKFRvZG9UYXNrIHRvZG9UYXNrKSB0aHJvd3MgSU9FeGNlcHRpb24gewo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhY2Nlc3Nvci5zZXRVc2VyKHVzZXIpOwo=</text>
+        <text encoding="base64">ICAgICAgICBzaW1wTWVzc2FnaW5nVGVtcGxhdGUuY29udmVydEFuZFNlbmQoIi9ub3RpY2UvIik7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2546,37 +2560,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBBdXRoZW50aWNhdGlvbiB1c2VyID0gLi4uIDsgLy8gYWNjZXNzIGF1dGhlbnRpY2F0aW9uIGhlYWRlcihzKQo=</text>
+        <text encoding="base64">ICAgICAgICBVc2VyIHVzZXIgPSB1YWFTZXJ2ZXJBcGlGb3JTZXR0aW5nLmdldFVzZXIodXNlcklkKTsK</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">QE92ZXJyaWRlCiAgICBwdWJsaWMgdm9pZCBjb25maWd1cmVDbGllbnRJbmJvdW5kQ2hhbm5lbChDaGFubmVsUmVnaXN0cmF0aW9uIHJlZ2lzdHJhdGlvbikgewogICAgICAgIHJlZ2lzdHJhdGlvbi5zZXRJbnRlcmNlcHRvcnMobmV3IENoYW5uZWxJbnRlcmNlcHRvckFkYXB0ZXIoKSB7CiAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICBwdWJsaWMgTWVzc2FnZTw/PiBwcmVTZW5kKE1lc3NhZ2U8Pz4gbWVzc2FnZSwgTWVzc2FnZUNoYW5uZWwgY2hhbm5lbCkgewogICAgICAgICAgICAgICAgU3RvbXBIZWFkZXJBY2Nlc3NvciBhY2Nlc3NvciA9CiAgICAgICAgICAgICAgICAgICAgICAgIE1lc3NhZ2VIZWFkZXJBY2Nlc3Nvci5nZXRBY2Nlc3NvcihtZXNzYWdlLCBTdG9tcEhlYWRlckFjY2Vzc29yLmNsYXNzKTsKICAgICAgICAgICAgICAgIGlmIChTdG9tcENvbW1hbmQuQ09OTkVDVC5lcXVhbHMoYWNjZXNzb3IuZ2V0Q29tbWFuZCgpKSkgewogICAgICAgICAgICAgICAgICAgIEF1dGhlbnRpY2F0aW9uIHVzZXIgPSAuLi4gOyAvLyBhY2Nlc3MgYXV0aGVudGljYXRpb24gaGVhZGVyKHMpCiAgICAgICAgICAgICAgICAgICAgYWNjZXNzb3Iuc2V0VXNlcih1c2VyKTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIHJldHVybiBtZXNzYWdlOwogICAgICAgICAgICB9CiAgICAgICAgfSk7CiAgICB9</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PFN0cmluZz4gdXNlcm5hbWVzID0gbWFwLnZhbHVlcygpLnN0cmVhbSgpLm1hcChVc2VyOjpnZXRVc2VybmFtZSkuY29sbGVjdChDb2xsZWN0b3JzLnRvTGlzdCgpKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0ZW1wbGF0ZS5jb252ZXJ0QW5kU2VuZCgiL3RvcGljLyIsIHMpOwo=</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PFN0cmluZz4gdXNlcm5hbWVzID0gbWFwLnZhbHVlcygpLnN0cmVhbSgpLm1hcChVc2VyOjpnZXRVc2VybmFtZSkuY29sbGVjdChDb2xsZWN0b3JzLnRvTGlzdCgpKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBSZXF1ZXN0TWFwcGluZygiL3Rlc3Qvc2VuZC9tZXNzYWdlIikK</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cHVibGljIGNsYXNzIE15Q29uZmlndXJhdGlvbiB7Cn0K</text>
+        <text encoding="base64">ICAgICAgICBhbm5vdW5jZW1lbnQuc2V0UmVjZWl2ZXJzKG51bGwpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIFNpbXBNZXNzYWdpbmdUZW1wbGF0ZQo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>565</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxTdG9yZVBhdGhcPg==</last-search>
+      <last-search encoding="base64">XDxsb2dnZXJcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxTdG9yZVBhdGhcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxsb2dnZXJcPg==</last-pattern>
       <last-replace>cfg</last-replace>
       <last-substitute encoding="base64">XDxjb3VudFw+</last-substitute>
       <last-dir>-1</last-dir>
@@ -2584,7 +2598,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxhcmd1bWVudHNcPg==</entry>
         <entry encoding="base64">XDxyZWNlaXZlcnNcPg==</entry>
         <entry encoding="base64">XDwoXD4=</entry>
         <entry encoding="base64">XDwpXD4=</entry>
@@ -2604,6 +2617,7 @@
         <entry encoding="base64">XDxpc0V4Y2x1c2l2ZVw+</entry>
         <entry encoding="base64">XDxyZXBvUHJvZHVjdE1hcHBlclw+</entry>
         <entry encoding="base64">XDxTdG9yZVBhdGhcPg==</entry>
+        <entry encoding="base64">XDxsb2dnZXJcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>s/crm/cfg/g</entry>
