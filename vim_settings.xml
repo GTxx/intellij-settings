@@ -12,9 +12,6 @@
         <mark key="^" line="37" column="12" />
         <mark key="." line="37" column="12" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/apache/poi/poi-ooxml/3.15/poi-ooxml-3.15.jar!/org/apache/poi/xssf/streaming/SXSSFWorkbook.class" timestamp="1513078026628">
-        <mark key="'" line="436" column="35" />
-      </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-market/src/main/java/com/zifangdt/ch/market/mapper/PromotionJoinMapper.java" timestamp="1510911963263">
         <mark key="[" line="16" column="58" />
         <mark key="]" line="16" column="38" />
@@ -196,14 +193,11 @@
         <mark key="." line="15" column="63" />
         <mark key="^" line="15" column="63" />
       </file>
-      <file name="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/enums/PromotionJoinStatusEnum.java" timestamp="1511333665130">
+      <file name="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/enums/PromotionJoinStatusEnum.java" timestamp="1513653010776">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
         <mark key="^" line="5" column="18" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/org/apache/poi/poi/3.15/poi-3.15.jar!/org/apache/poi/hssf/usermodel/HSSFWorkbook.class" timestamp="1513078220308">
-        <mark key="'" line="735" column="31" />
       </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-customer/src/main/resources/mapper/setting/CfgCustomerSourceMapper.xml" timestamp="1513307837070">
         <mark key="[" line="26" column="3" />
@@ -709,9 +703,6 @@
         <mark key="^" line="5" column="63" />
         <mark key="." line="5" column="63" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/netflix/zuul/zuul-core/1.3.0/zuul-core-1.3.0-sources.jar!/com/netflix/zuul/context/RequestContext.java" timestamp="1513323559418">
-        <mark key="'" line="585" column="13" />
-      </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-sys-setting/src/main/resources/generatorConfig.xml" timestamp="1509085152903">
         <mark key="[" line="47" column="47" />
         <mark key="]" line="47" column="49" />
@@ -1139,9 +1130,6 @@
         <mark key="^" line="12" column="19" />
         <mark key="." line="12" column="19" />
       </file>
-      <file name="$USER_HOME$/work/ch-server/ch-server-project-manager/src/main/java/com/zifangdt/ch/projectManager/config/ScheduleTask.java" timestamp="1513132976528">
-        <mark key="'" line="12" column="25" />
-      </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-market/src/main/resources/application.yml" timestamp="1513562354660">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -1548,9 +1536,6 @@
         <mark key="." line="71" column="69" />
         <mark key="^" line="71" column="69" />
       </file>
-      <file name="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/dto/common/Notice.java" timestamp="1513223094727">
-        <mark key="'" line="29" column="17" />
-      </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-contract/src/main/resources/mapper/setting/UserConfigMapper.xml" timestamp="1508295142896">
         <mark key="[" line="21" column="12" />
         <mark key="]" line="21" column="11" />
@@ -1848,9 +1833,6 @@
         <mark key="." line="3" column="86" />
         <mark key="^" line="3" column="86" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-websocket/4.3.10.RELEASE/spring-websocket-4.3.10.RELEASE.jar!/org/springframework/web/socket/handler/AbstractWebSocketHandler.class" timestamp="1513328955476">
-        <mark key="'" line="39" column="0" />
-      </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-customer/src/main/java/com/zifangdt/ch/customer/web/setting/CustomerTypeController.java" timestamp="1512466838867">
         <mark key="[" line="7" column="37" />
         <mark key="]" line="6" column="34" />
@@ -1910,9 +1892,6 @@
         <mark key="]" line="12" column="59" />
         <mark key="^" line="12" column="59" />
         <mark key="." line="12" column="59" />
-      </file>
-      <file name="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/util/FileUtil.java" timestamp="1513408402136">
-        <mark key="'" line="2" column="40" />
       </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-contract/src/main/resources/mapper/setting/UserOrgaMapper.xml" timestamp="1508295227910">
         <mark key="[" line="23" column="10" />
@@ -2030,9 +2009,6 @@
         <mark key="]" line="13" column="54" />
         <mark key="^" line="32" column="4" />
         <mark key="." line="36" column="0" />
-      </file>
-      <file name="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/dto/common/File.java" timestamp="1513130665086">
-        <mark key="'" line="89" column="29" />
       </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-gateway/src/main/resources/application.yml" timestamp="1513322973207">
         <mark key="[" line="4" column="88" />
@@ -2390,9 +2366,6 @@
         <mark key="]" line="6" column="26" />
         <mark key="^" line="5" column="3" />
         <mark key="." line="5" column="4" />
-      </file>
-      <file name="$USER_HOME$/work/ch-server/ch-server-common/src/main/java/com/zifangdt/ch/common/web/NoticeController.java" timestamp="1513238785061">
-        <mark key="'" line="26" column="15" />
       </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/enums/setting/ContractUserConfigEnum.java" timestamp="1509006014953">
         <mark key="[" line="5" column="12" />
