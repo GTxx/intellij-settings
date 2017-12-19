@@ -24,11 +24,11 @@
         <mark key="." line="40" column="59" />
         <mark key="^" line="37" column="64" />
       </file>
-      <file name="$USER_HOME$/work/ch-server/ch-server-todo/src/main/java/com/zifangdt/ch/task/event/Listener.java" timestamp="1513246937265">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="81" />
-        <mark key="^" line="40" column="47" />
-        <mark key="." line="39" column="0" />
+      <file name="$USER_HOME$/work/ch-server/ch-server-todo/src/main/java/com/zifangdt/ch/task/event/Listener.java" timestamp="1513666832529">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="^" line="39" column="47" />
+        <mark key="." line="28" column="0" />
       </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-product/src/main/resources/generatorConfig.xml" timestamp="1507703324066">
         <mark key="[" line="46" column="53" />
@@ -427,6 +427,12 @@
         <mark key="." line="78" column="16" />
         <mark key="^" line="78" column="16" />
       </file>
+      <file name="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/bo/setting/StepUser.java" timestamp="1513667958754">
+        <mark key="[" line="21" column="31" />
+        <mark key="]" line="22" column="3" />
+        <mark key="^" line="22" column="3" />
+        <mark key="." line="22" column="3" />
+      </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-sys-setting/src/main/java/com/zifangdt/ch/syssetting/RequestScopeCacheManager.java" timestamp="1509436292874">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="66" />
@@ -619,11 +625,11 @@
         <mark key="^" line="7" column="103" />
         <mark key="." line="7" column="103" />
       </file>
-      <file name="$USER_HOME$/work/ch-server/ch-server-sys-setting/src/main/resources/mapper/ProjectStepDefinitionMapper.xml" timestamp="1513662890089">
-        <mark key="[" line="40" column="23" />
-        <mark key="]" line="40" column="26" />
-        <mark key="." line="40" column="26" />
-        <mark key="^" line="40" column="26" />
+      <file name="$USER_HOME$/work/ch-server/ch-server-sys-setting/src/main/resources/mapper/ProjectStepDefinitionMapper.xml" timestamp="1513667926529">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
+        <mark key="^" line="20" column="37" />
       </file>
       <file name="$USER_HOME$/work/kotlin-koans/src/iv_properties/n34DelegatesExamples.kt" timestamp="1511840440822">
         <mark key="[" line="6" column="26" />
@@ -1413,11 +1419,11 @@
         <mark key="]" line="22" column="4" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/work/ch-server/ch-server-sys-setting/src/main/java/com/zifangdt/ch/syssetting/web/ProjectAggregateController.java" timestamp="1512978318953">
-        <mark key="[" line="30" column="4" />
-        <mark key="]" line="39" column="5" />
-        <mark key="." line="76" column="106" />
-        <mark key="^" line="76" column="106" />
+      <file name="$USER_HOME$/work/ch-server/ch-server-sys-setting/src/main/java/com/zifangdt/ch/syssetting/web/ProjectAggregateController.java" timestamp="1513667448218">
+        <mark key="[" line="94" column="9" />
+        <mark key="]" line="95" column="56" />
+        <mark key="." line="95" column="56" />
+        <mark key="^" line="95" column="56" />
       </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/dao/BaseChoiceConfigMapper.java" timestamp="1509610390953">
         <mark key="[" line="5" column="4" />
@@ -2096,12 +2102,12 @@
         <mark key="." line="36" column="8" />
         <mark key="^" line="36" column="8" />
       </file>
-      <file name="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/dto/syssetting/ProjectStepDefine.java" timestamp="1513663796631">
-        <mark key="'" line="18" column="18" />
-        <mark key="[" line="8" column="15" />
-        <mark key="]" line="8" column="21" />
-        <mark key="^" line="8" column="21" />
-        <mark key="." line="8" column="21" />
+      <file name="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/dto/syssetting/ProjectStepDefine.java" timestamp="1513667753171">
+        <mark key="'" line="20" column="23" />
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="59" column="0" />
+        <mark key="^" line="23" column="3" />
+        <mark key="." line="59" column="0" />
       </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-sys-setting/src/main/java/com/zifangdt/ch/syssetting/web/StepDefController.java" timestamp="1513663531282">
         <mark key="[" line="20" column="4" />
@@ -2504,8 +2510,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="185" column="22" filename="$USER_HOME$/work/ch-server/ch-server-customer/src/main/java/com/zifangdt/ch/customer/web/CustomerController.java" />
-      <jump line="206" column="20" filename="$USER_HOME$/work/ch-server/ch-server-customer/src/main/java/com/zifangdt/ch/customer/web/CustomerController.java" />
       <jump line="211" column="65" filename="$USER_HOME$/work/ch-server/ch-server-customer/src/main/java/com/zifangdt/ch/customer/web/CustomerController.java" />
       <jump line="175" column="20" filename="$USER_HOME$/work/ch-server/ch-server-customer/src/main/java/com/zifangdt/ch/customer/web/CustomerController.java" />
       <jump line="148" column="83" filename="$USER_HOME$/work/ch-server/ch-server-customer/src/main/java/com/zifangdt/ch/customer/web/CustomerController.java" />
@@ -2604,6 +2608,8 @@
       <jump line="36" column="3" filename="$USER_HOME$/work/ch-server/ch-server-sys-setting/src/main/java/com/zifangdt/ch/syssetting/web/ProjectStepDefineController.java" />
       <jump line="83" column="8" filename="$USER_HOME$/work/ch-server/ch-server-sys-setting/src/main/java/com/zifangdt/ch/syssetting/web/ProjectStepDefineController.java" />
       <jump line="39" column="31" filename="$USER_HOME$/work/ch-server/ch-server-sys-setting/src/main/java/com/zifangdt/ch/syssetting/web/ProjectStepDefineController.java" />
+      <jump line="19" column="3" filename="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/dto/syssetting/ProjectStepDefine.java" />
+      <jump line="20" column="23" filename="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/dto/syssetting/ProjectStepDefine.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -2639,13 +2645,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>o</text>
+        <text>BIGINT</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzb3VyY2VcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">QFBhdGhWYXJpYWJsZSgidHlwZSIpIExvbmcgdHlwZSwg</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIDxyZXN1bHQgY29sdW1uPSJwc2RfdHlwZSIgamRiY1R5cGU9IkJJR0lOVCIgcHJvcGVydHk9InR5cGUiIC8+Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -2673,30 +2679,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBHZXRNYXBwaW5nKCIvIikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IERhdGFJbnZhbGlkRXhjZXB0aW9uKCJ0eXBlOiAiICsgdHlwZSArICIgbm90IHZhbGlkIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZ2V0SWQoKSA8PSAzID8gMWwgOiAybDsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoIWRhdGFEaWN0aW9uYXJpZXMuc3RyZWFtKCkubWFwKERhdGFEaWN0aW9uYXJ5OjpnZXRJZCkuY29sbGVjdChDb2xsZWN0b3JzLnRvU2V0KCkpLmNvbnRhaW5zKHR5cGUpKXsK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBMb25nIGdldFByaW9yaXR5KCkgewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PERhdGFEaWN0aW9uYXJ5PiBkYXRhRGljdGlvbmFyaWVzID0gY29tbW9uU2VydmVyQXBpLmdldFR5cGVzRm9yKERhdGFFbnVtLmNvbnRyYWN0VHlwZXMpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="7" type="4">
-        <text>else {
-            return false;
-        }</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHRydWU7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICB0aHJvdyBuZXcgRGF0YUludmFsaWRFeGNlcHRpb24oInR5cGU6ICIgKyB0eXBlICsgIiBub3QgdmFsaWQiKTsK</text>
+        <text encoding="base64">ICAgIEBHZXRNYXBwaW5nKCIvIikK</text>
       </register>
       <register name=":" type="4">
         <text>565</text>
