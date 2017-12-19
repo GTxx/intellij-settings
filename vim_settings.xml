@@ -3,14 +3,14 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/a.dummy" timestamp="1513580120804">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-sys-setting/src/main/java/com/zifangdt/ch/syssetting/web/QuickEntryRuleController.java" timestamp="1510822577179">
         <mark key="[" line="35" column="0" />
         <mark key="]" line="37" column="12" />
         <mark key="^" line="37" column="12" />
         <mark key="." line="37" column="12" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/apache/poi/poi-ooxml/3.15/poi-ooxml-3.15.jar!/org/apache/poi/xssf/streaming/SXSSFWorkbook.class" timestamp="1513078026628">
+        <mark key="'" line="436" column="35" />
       </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-market/src/main/java/com/zifangdt/ch/market/mapper/PromotionJoinMapper.java" timestamp="1510911963263">
         <mark key="[" line="16" column="58" />
@@ -198,6 +198,9 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
         <mark key="^" line="5" column="18" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/apache/poi/poi/3.15/poi-3.15.jar!/org/apache/poi/hssf/usermodel/HSSFWorkbook.class" timestamp="1513078220308">
+        <mark key="'" line="735" column="31" />
       </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-customer/src/main/resources/mapper/setting/CfgCustomerSourceMapper.xml" timestamp="1513307837070">
         <mark key="[" line="26" column="3" />
@@ -502,9 +505,6 @@
         <mark key="." line="71" column="37" />
         <mark key="^" line="71" column="37" />
       </file>
-      <file name="/Dummy.txt" timestamp="1513567139102">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-message/src/main/java/com/zifangdt/ch/message/config/WebSocketConfig.java" timestamp="1513329077349">
         <mark key="[" line="21" column="61" />
         <mark key="]" line="21" column="68" />
@@ -717,6 +717,9 @@
         <mark key="]" line="5" column="63" />
         <mark key="^" line="5" column="63" />
         <mark key="." line="5" column="63" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/netflix/zuul/zuul-core/1.3.0/zuul-core-1.3.0-sources.jar!/com/netflix/zuul/context/RequestContext.java" timestamp="1513323559418">
+        <mark key="'" line="585" column="13" />
       </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-sys-setting/src/main/resources/generatorConfig.xml" timestamp="1509085152903">
         <mark key="[" line="47" column="47" />
@@ -1149,6 +1152,9 @@
         <mark key="^" line="12" column="19" />
         <mark key="." line="12" column="19" />
       </file>
+      <file name="$USER_HOME$/work/ch-server/ch-server-project-manager/src/main/java/com/zifangdt/ch/projectManager/config/ScheduleTask.java" timestamp="1513132976528">
+        <mark key="'" line="12" column="25" />
+      </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-market/src/main/resources/application.yml" timestamp="1513562354660">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -1575,6 +1581,9 @@
         <mark key="." line="71" column="69" />
         <mark key="^" line="71" column="69" />
       </file>
+      <file name="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/dto/common/Notice.java" timestamp="1513223094727">
+        <mark key="'" line="29" column="17" />
+      </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-contract/src/main/resources/mapper/setting/UserConfigMapper.xml" timestamp="1508295142896">
         <mark key="[" line="21" column="12" />
         <mark key="]" line="21" column="11" />
@@ -1671,6 +1680,9 @@
         <mark key="]" line="10" column="10" />
         <mark key="^" line="10" column="10" />
         <mark key="." line="10" column="10" />
+      </file>
+      <file name="$USER_HOME$/work/ch-server/ch-server-customer/src/main/java/com/zifangdt/ch/customer/service/CustomerService.java" timestamp="1513664421144">
+        <mark key="'" line="151" column="29" />
       </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-sys-setting/src/main/java/com/zifangdt/ch/syssetting/mapper/BoolConfigMapper.java" timestamp="1507799750695">
         <mark key="[" line="7" column="53" />
@@ -1882,6 +1894,9 @@
         <mark key="^" line="27" column="3" />
         <mark key="." line="44" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-websocket/4.3.10.RELEASE/spring-websocket-4.3.10.RELEASE.jar!/org/springframework/web/socket/handler/AbstractWebSocketHandler.class" timestamp="1513328955476">
+        <mark key="'" line="39" column="0" />
+      </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-customer/src/main/java/com/zifangdt/ch/customer/web/setting/CustomerTypeController.java" timestamp="1512466838867">
         <mark key="[" line="7" column="37" />
         <mark key="]" line="6" column="34" />
@@ -1944,6 +1959,9 @@
         <mark key="]" line="12" column="59" />
         <mark key="^" line="12" column="59" />
         <mark key="." line="12" column="59" />
+      </file>
+      <file name="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/util/FileUtil.java" timestamp="1513408402136">
+        <mark key="'" line="2" column="40" />
       </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-contract/src/main/resources/mapper/setting/UserOrgaMapper.xml" timestamp="1508295227910">
         <mark key="[" line="23" column="10" />
@@ -2061,6 +2079,9 @@
         <mark key="]" line="13" column="54" />
         <mark key="^" line="32" column="4" />
         <mark key="." line="36" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/dto/common/File.java" timestamp="1513130665086">
+        <mark key="'" line="89" column="29" />
       </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-gateway/src/main/resources/application.yml" timestamp="1513322973207">
         <mark key="[" line="4" column="88" />
@@ -2423,6 +2444,9 @@
         <mark key="^" line="5" column="3" />
         <mark key="." line="5" column="4" />
       </file>
+      <file name="$USER_HOME$/work/ch-server/ch-server-common/src/main/java/com/zifangdt/ch/common/web/NoticeController.java" timestamp="1513238785061">
+        <mark key="'" line="26" column="15" />
+      </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/enums/setting/ContractUserConfigEnum.java" timestamp="1509006014953">
         <mark key="[" line="5" column="12" />
         <mark key="]" line="5" column="12" />
@@ -2473,10 +2497,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="92" column="8" filename="$USER_HOME$/work/ch-server/ch-server-todo/src/main/java/com/zifangdt/ch/task/service/TaskService.java" />
-      <jump line="47" column="30" filename="$USER_HOME$/work/ch-server/ch-server-todo/src/main/java/com/zifangdt/ch/task/service/TaskService.java" />
-      <jump line="143" column="12" filename="$USER_HOME$/work/ch-server/ch-server-todo/src/main/java/com/zifangdt/ch/task/service/TaskService.java" />
-      <jump line="277" column="16" filename="$USER_HOME$/work/ch-server/ch-server-todo/src/main/java/com/zifangdt/ch/task/service/TaskService.java" />
       <jump line="31" column="34" filename="$USER_HOME$/work/ch-server/ch-server-common/src/main/java/com/zifangdt/ch/common/service/FileService.java" />
       <jump line="99" column="15" filename="$USER_HOME$/work/ch-server/ch-server-common/src/main/java/com/zifangdt/ch/common/service/FileService.java" />
       <jump line="69" column="42" filename="$USER_HOME$/work/ch-server/ch-server-common/src/main/java/com/zifangdt/ch/common/service/FileService.java" />
@@ -2573,6 +2593,10 @@
       <jump line="28" column="41" filename="$USER_HOME$/work/ch-server/ch-server-sys-setting/src/main/java/com/zifangdt/ch/syssetting/service/ProjectStepDefineService.java" />
       <jump line="22" column="4" filename="$USER_HOME$/work/ch-server/ch-server-sys-setting/src/main/java/com/zifangdt/ch/syssetting/service/ProjectStepDefineService.java" />
       <jump line="7" column="41" filename="$USER_HOME$/work/ch-server/ch-server-sys-setting/src/main/java/com/zifangdt/ch/syssetting/service/ProjectStepDefineService.java" />
+      <jump line="342" column="29" filename="$USER_HOME$/work/ch-server/ch-server-customer/src/main/java/com/zifangdt/ch/customer/service/CustomerService.java" />
+      <jump line="331" column="25" filename="$USER_HOME$/work/ch-server/ch-server-customer/src/main/java/com/zifangdt/ch/customer/service/CustomerService.java" />
+      <jump line="160" column="29" filename="$USER_HOME$/work/ch-server/ch-server-customer/src/main/java/com/zifangdt/ch/customer/service/CustomerService.java" />
+      <jump line="151" column="29" filename="$USER_HOME$/work/ch-server/ch-server-customer/src/main/java/com/zifangdt/ch/customer/service/CustomerService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -2611,7 +2635,7 @@
         <text>g</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxQcm9qZWN0U3RlcERlZmluZU1hcHBlclw+</text>
+        <text encoding="base64">XDxzb3VyY2VcPg==</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">QEdldE1hcHBpbmcoIi97c3RlcEVudW19IikKICAgIExpc3Q8U3RlcERlZmluaXRpb24+IGdldEFsbChAUGF0aFZhcmlhYmxlKCJzdGVwRW51bSIpIFN0ZXBFbnVtIHN0ZXBFbnVtKXsKICAgICAgICByZXR1cm4gc3RlcERlZlNlcnZpY2UuZmluZFN0ZXBzKHN0ZXBFbnVtKTsKICAgIH0KCiAgICBAR2V0TWFwcGluZygiL21vY2sve2lkfSIpCiAgICBMaXN0PFN0ZXBEZWZpbml0aW9uPiBnZXRBbGxNb2NrKEBQYXRoVmFyaWFibGUoImlkIikgTG9uZyBpZCl7CiAgICAgICAgcmV0dXJuIHN0ZXBEZWZTZXJ2aWNlLmZpbmRTdGVwcyhTdGVwRW51bS5NYXRlcmlhbEltcG9ydEF1ZGl0KTsKICAgIH0KCiAgICBAUG9zdE1hcHBpbmcoIi97c3RlcEVudW19L2FkZE9yZ2EiKQogICAgTG9uZyBjcmVhdGVGb3JPcmcoQFBhdGhWYXJpYWJsZSgic3RlcEVudW0iKSBTdGVwRW51bSBzdGVwRW51bSwgQFJlcXVlc3RCb2R5IEBWYWxpZCBTdGVwT3JnYSBzdGVwT3JnYSkgewogICAgICAgIHJldHVybiBzdGVwRGVmU2VydmljZS5hZGRPcmdhKHN0ZXBFbnVtLCBzdGVwT3JnYSkuZ2V0SWQoKTsKICAgIH0KCiAgICBAUG9zdE1hcHBpbmcoIi97c3RlcEVudW19L2FkZFVzZXIiKQogICAgTG9uZyBjcmVhdGVGb3JVc2VyKEBQYXRoVmFyaWFibGUoInN0ZXBFbnVtIikgU3RlcEVudW0gc3RlcEVudW0sIEBSZXF1ZXN0Qm9keSBAVmFsaWQgU3RlcFVzZXIgc3RlcFVzZXIpIHsKICAgICAgICByZXR1cm4gc3RlcERlZlNlcnZpY2UuYWRkVXNlcihzdGVwRW51bSwgc3RlcFVzZXIpLmdldElkKCk7CiAgICB9CgogICAgQFB1dE1hcHBpbmcoIi97c3RlcEVudW19L3tpZH0vdXBkYXRlVXNlciIpCiAgICBMb25nIHVwZGF0ZUZvclVzZXIoQFBhdGhWYXJpYWJsZSgiaWQiKSBMb25nIGlkLAogICAgICAgICAgICAgICAgICAgICAgIEBSZXF1ZXN0Qm9keSBAVmFsaWQgU3RlcFVzZXIgc3RlcFVzZXIpIHsKICAgICAgICByZXR1cm4gc3RlcERlZlNlcnZpY2UudXBkYXRlVXNlcihpZCwgc3RlcFVzZXIpLmdldElkKCk7CiAgICB9CgogICAgQFB1dE1hcHBpbmcoIi97c3RlcEVudW19L3tpZH0vdXBkYXRlT3JnYSIpCiAgICBMb25nIHVwZGF0ZUZvck9yZ2EoQFBhdGhWYXJpYWJsZSgiaWQiKSBMb25nIGlkLAogICAgICAgICAgICAgICAgICAgICAgIEBSZXF1ZXN0Qm9keSBAVmFsaWQgU3RlcE9yZ2Egc3RlcE9yZ2EpIHsKICAgICAgICByZXR1cm4gc3RlcERlZlNlcnZpY2UudXBkYXRlT3JnYShpZCwgc3RlcE9yZ2EpLmdldElkKCk7CiAgICB9CgogICAgQERlbGV0ZU1hcHBpbmcoIi97c3RlcEVudW19L3tpZH0iKQogICAgdm9pZCBkZWxldGVTdGVwKEBQYXRoVmFyaWFibGUoImlkIikgTG9uZyBpZCl7CiAgICAgICAgc3RlcERlZlNlcnZpY2UuZGVsZXRlKGlkKTsKICAgIH0KCiAgICBAUHV0TWFwcGluZygiL3tzdGVwRW51bX0ve2lkfS9pbnNlcnRBZnRlci97YWZ0ZXJJZH0iKQogICAgdm9pZCBpbnNlcnRBZnRlcihAUGF0aFZhcmlhYmxlKCJpZCIpIExvbmcgaWQsCiAgICAgICAgICAgICAgICAgICAgIEBQYXRoVmFyaWFibGUoImFmdGVySWQiKSBMb25nIGFmdGVySWQpewogICAgICAgIFN0ZXBEZWZpbml0aW9uIGMxID0gc3RlcERlZlNlcnZpY2UuZ2V0KGlkKTsKICAgICAgICBpZiAoYzEgPT0gbnVsbCl7CiAgICAgICAgICAgIHRocm93IG5ldyBEYXRhTm90Rm91bmRFeGNlcHRpb24oIlN0ZXBEZWZpbml0aW9uIGlkPSIgKyBpZCArICIgbm90IGZvdW5kIik7CiAgICAgICAgfQogICAgICAgIGlmIChhZnRlcklkICE9IDApewogICAgICAgICAgICBTdGVwRGVmaW5pdGlvbiBjMiA9IHN0ZXBEZWZTZXJ2aWNlLmdldChhZnRlcklkKTsKICAgICAgICAgICAgaWYgKGMyID09IG51bGwpewogICAgICAgICAgICAgICAgdGhyb3cgbmV3IERhdGFOb3RGb3VuZEV4Y2VwdGlvbigiU3RlcERlZmluaXRpb24gaWQgPSAiICsgYWZ0ZXJJZCArICIgbm90IGZvdW5kIik7CiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICAgICAgc3RlcERlZlNlcnZpY2UuaW5zZXJ0QWZ0ZXIoaWQsIGFmdGVySWQpOwogICAgfQ==</text>
@@ -2673,9 +2697,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxQcm9qZWN0U3RlcERlZmluZU1hcHBlclw+</last-search>
+      <last-search encoding="base64">XDxzb3VyY2VcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxQcm9qZWN0U3RlcERlZmluZU1hcHBlclw+</last-pattern>
+      <last-pattern encoding="base64">XDxzb3VyY2VcPg==</last-pattern>
       <last-replace>cfg</last-replace>
       <last-substitute encoding="base64">XDxjb3VudFw+</last-substitute>
       <last-dir>-1</last-dir>
@@ -2683,7 +2707,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDwpXD4=</entry>
         <entry encoding="base64">XDxMaXN0XD4=</entry>
         <entry encoding="base64">XDxyZWFkVGltZVw+</entry>
         <entry encoding="base64">XDxCYXNlQ2hvaWNlQ29uZmlnU2VydmljZVw+</entry>
@@ -2703,6 +2726,7 @@
         <entry encoding="base64">XDxsb2dnZXJcPg==</entry>
         <entry encoding="base64">XDxtYXBwZXJcPg==</entry>
         <entry encoding="base64">XDxQcm9qZWN0U3RlcERlZmluZU1hcHBlclw+</entry>
+        <entry encoding="base64">XDxzb3VyY2VcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>s/crm/cfg/g</entry>
