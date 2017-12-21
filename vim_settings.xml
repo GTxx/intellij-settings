@@ -2218,12 +2218,11 @@
         <mark key="^" line="20" column="39" />
         <mark key="." line="20" column="39" />
       </file>
-      <file name="$USER_HOME$/work/ch-server/ch-server-common/src/main/java/com/zifangdt/ch/common/service/DataDictionaryService.java" timestamp="1513823848038">
-        <mark key="'" line="86" column="8" />
-        <mark key="[" line="129" column="46" />
-        <mark key="]" line="129" column="46" />
-        <mark key="^" line="129" column="46" />
-        <mark key="." line="129" column="46" />
+      <file name="$USER_HOME$/work/ch-server/ch-server-common/src/main/java/com/zifangdt/ch/common/service/DataDictionaryService.java" timestamp="1513824941309">
+        <mark key="'" line="134" column="0" />
+        <mark key="[" line="134" column="0" />
+        <mark key="]" line="134" column="0" />
+        <mark key="." line="134" column="0" />
       </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-sys-setting/src/main/java/com/zifangdt/ch/syssetting/entity/District.java" timestamp="1508837484117">
         <mark key="[" line="42" column="7" />
@@ -2499,7 +2498,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="286" column="54" filename="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-core/1.3.2.RELEASE/spring-cloud-netflix-core-1.3.2.RELEASE-sources.jar!/org/springframework/cloud/netflix/zuul/filters/route/SimpleHostRoutingFilter.java" />
       <jump line="126" column="33" filename="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-core/1.3.2.RELEASE/spring-cloud-netflix-core-1.3.2.RELEASE-sources.jar!/org/springframework/cloud/netflix/zuul/filters/route/SimpleHostRoutingFilter.java" />
       <jump line="167" column="41" filename="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-core/1.3.2.RELEASE/spring-cloud-netflix-core-1.3.2.RELEASE-sources.jar!/org/springframework/cloud/netflix/zuul/filters/pre/PreDecorationFilter.java" />
       <jump line="87" column="13" filename="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-core/1.3.2.RELEASE/spring-cloud-netflix-core-1.3.2.RELEASE-sources.jar!/org/springframework/cloud/netflix/zuul/filters/pre/PreDecorationFilter.java" />
@@ -2599,13 +2597,11 @@
       <jump line="19" column="46" filename="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/validation/DataEnumValuesValidator.java" />
       <jump line="49" column="44" filename="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/enums/DataEnum.java" />
       <jump line="81" column="15" filename="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/enums/DataEnum.java" />
+      <jump line="136" column="0" filename="$USER_HOME$/work/ch-server/ch-server-common/src/main/java/com/zifangdt/ch/common/service/DataDictionaryService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>String exclusions = excluesionContractTypes.stream()
-                .map(DataDictionary::getId)
-                .map(Object::toString)
-                .collect(Collectors.joining(&quot;,&quot;));</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgUmVzb2x2YWJsZVR5cGUK</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2645,11 +2641,8 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBpZiAoIWRkLmdldElzRXhjbHVzaXZlKCkpIHsK</text>
       </register>
-      <register name="1" type="4">
-        <text>String exclusions = excluesionContractTypes.stream()
-                .map(DataDictionary::getId)
-                .map(Object::toString)
-                .collect(Collectors.joining(&quot;,&quot;));</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgUmVzb2x2YWJsZVR5cGUK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2673,29 +2666,32 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
+      <register name="2" type="4">
+        <text>String exclusions = excluesionContractTypes.stream()
+                .map(DataDictionary::getId)
+                .map(Object::toString)
+                .collect(Collectors.joining(&quot;,&quot;));</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">aWYgKCFkZC5nZXRJc0V4Y2x1c2l2ZSgpKSB7CiAgICAgICAgICAgIGRkLnNldEV4Y2x1c2lvbnMoZ2V0VHlwZXNGb3IoRGF0YUVudW0uY29udHJhY3RUeXBlcykKICAgICAgICAgICAgICAgICAgICAuc3RyZWFtKCkKICAgICAgICAgICAgICAgICAgICAubWFwKERhdGFEaWN0aW9uYXJ5OjpnZXRJZCkKICAgICAgICAgICAgICAgICAgICAuZmlsdGVyKGlkMSAtPiAhaWQuZXF1YWxzKGlkMSkpCiAgICAgICAgICAgICAgICAgICAgLm1hcChPYmplY3Q6OnRvU3RyaW5nKQogICAgICAgICAgICAgICAgICAgIC5jb2xsZWN0KENvbGxlY3RvcnMuam9pbmluZygiLCIpKSk7CiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgZGQuc2V0RXhjbHVzaW9ucygiIik7CiAgICAgICAgfQogICAgICAgIHVwZGF0ZUludGVybmFsKGRkKTs=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXhjbHVlQ29udHJhY3RUeXBlcy5hZGQoZGQpOwo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBpZiAoIWV4Y2x1ZUNvbnRyYWN0VHlwZXMuc3RyZWFtKCkubWFwKERhdGFEaWN0aW9uYXJ5OjpnZXRJZCkuY29sbGVjdChDb2xsZWN0b3JzLnRvU2V0KCkpLmNvbnRhaW5zKGlkKSl7Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBpZiAoIWRkLmdldElzRXhjbHVzaXZlKCkpIHsK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBQcm9tb3Rpb25Kb2luUXVlcnlCbyBibyA9IG5ldyBQcm9tb3Rpb25Kb2luUXVlcnlCbygpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>565</text>
