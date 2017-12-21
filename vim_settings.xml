@@ -634,6 +634,12 @@
         <mark key="." line="46" column="0" />
         <mark key="^" line="20" column="37" />
       </file>
+      <file name="$USER_HOME$/work/ch-server/ch-server-message/src/main/resources/message-websocket.nginx" timestamp="1513827652521">
+        <mark key="[" line="4" column="45" />
+        <mark key="]" line="4" column="59" />
+        <mark key="." line="4" column="59" />
+        <mark key="^" line="4" column="59" />
+      </file>
       <file name="$USER_HOME$/work/kotlin-koans/src/iv_properties/n34DelegatesExamples.kt" timestamp="1511840440822">
         <mark key="[" line="6" column="26" />
         <mark key="]" line="6" column="42" />
@@ -776,6 +782,12 @@
         <mark key="]" line="16" column="12" />
         <mark key="." line="16" column="12" />
         <mark key="^" line="16" column="12" />
+      </file>
+      <file name="$USER_HOME$/work/ch-server/ch-server-market/src/main/resources/message-websocket.nginx" timestamp="1513826934516">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="6" column="2" />
+        <mark key="^" line="6" column="2" />
+        <mark key="." line="6" column="2" />
       </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-sys-setting/src/main/java/com/zifangdt/ch/syssetting/mapper/UserConfigMapper.java" timestamp="1507876328856">
         <mark key="[" line="7" column="66" />
@@ -2600,8 +2612,8 @@
       <jump line="136" column="0" filename="$USER_HOME$/work/ch-server/ch-server-common/src/main/java/com/zifangdt/ch/common/service/DataDictionaryService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUmVzb2x2YWJsZVR5cGUK</text>
+      <register name="&quot;" type="4">
+        <text>/</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2633,7 +2645,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleGNsdXNpb25zXD4=</text>
