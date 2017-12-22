@@ -3,6 +3,8 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/dto/uaa/User.java" timestamp="1513048646350" />
+      <file name="$USER_HOME$/work/ch-server/ch-server-todo/src/main/java/com/zifangdt/ch/task/web/TaskController.java" timestamp="1513239388521" />
       <file name="/a.dummy" timestamp="1513580120804">
         <mark key="[" line="0" column="0" />
       </file>
@@ -203,6 +205,7 @@
         <mark key="." line="15" column="63" />
         <mark key="^" line="15" column="63" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.0.2.RELEASE/spring-aop-5.0.2.RELEASE.jar!/org/springframework/aop/framework/JdkDynamicAopProxy.class" timestamp="1513929413865" />
       <file name="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/enums/PromotionJoinStatusEnum.java" timestamp="1513653010776">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -277,6 +280,8 @@
         <mark key="^" line="2" column="66" />
         <mark key="." line="2" column="66" />
       </file>
+      <file name="$USER_HOME$/work/ch-server/ch-server-message/src/main/java/com/zifangdt/ch/message/socket/SocketController.java" timestamp="1513329472172" />
+      <file name="$USER_HOME$/work/ch-server/ch-server-common/pom.xml" timestamp="1513071825085" />
       <file name="$USER_HOME$/work/ch-server/ch-server-contract/src/main/java/com/zifangdt/ch/contract/mapper/setting/UserConfigMapper1.java" timestamp="1509010879806">
         <mark key="[" line="7" column="36" />
         <mark key="]" line="7" column="34" />
@@ -342,10 +347,10 @@
         <mark key="." line="34" column="17" />
         <mark key="^" line="34" column="17" />
       </file>
-      <file name="$USER_HOME$/work/testaop/src/main/java/xx/App.java" timestamp="1513927947996">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/work/testaop/src/main/java/xx/App.java" timestamp="1513929318003">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/dto/contract/UserConfig.java" timestamp="1508121356237">
         <mark key="[" line="8" column="0" />
@@ -504,6 +509,7 @@
         <mark key="]" line="20" column="44" />
         <mark key="." line="23" column="0" />
       </file>
+      <file name="$USER_HOME$/work/ch-server/ch-server-common/src/main/java/com/zifangdt/ch/common/api/UaaServerApi.java" timestamp="1513307275511" />
       <file name="$USER_HOME$/work/ch-server/ch-server-product/src/main/java/com/zifangdt/ch/product/mapper/RepoMapper.java" timestamp="1508309229277">
         <mark key="[" line="22" column="19" />
         <mark key="]" line="22" column="55" />
@@ -538,6 +544,7 @@
       <file name="/Dummy.txt" timestamp="1513910349876">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/work/ch-server/ch-server-message/src/main/java/com/zifangdt/ch/message/socket/NoticeWebSocketController.java" timestamp="1513408286609" />
       <file name="$USER_HOME$/work/ch-server/ch-server-message/src/main/java/com/zifangdt/ch/message/config/WebSocketConfig.java" timestamp="1513329077349">
         <mark key="[" line="21" column="61" />
         <mark key="]" line="21" column="68" />
@@ -628,6 +635,7 @@
         <mark key="^" line="5" column="76" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/work/ch-server/ch-server-message/src/main/resources/application.yml" timestamp="1513060845446" />
       <file name="$USER_HOME$/work/r-cache/src/main/java/testxx/RequestScopeCache.java" timestamp="1510130056791">
         <mark key="[" line="45" column="30" />
         <mark key="]" line="45" column="42" />
@@ -664,6 +672,7 @@
         <mark key="." line="46" column="0" />
         <mark key="^" line="20" column="37" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/8.5.16/tomcat-embed-core-8.5.16.jar!/org/apache/catalina/core/ApplicationDispatcher.class" timestamp="1513155479059" />
       <file name="$USER_HOME$/work/ch-server/ch-server-message/src/main/resources/message-websocket.nginx" timestamp="1513836667508">
         <mark key="[" line="4" column="45" />
         <mark key="]" line="4" column="59" />
@@ -682,6 +691,8 @@
         <mark key="^" line="19" column="34" />
         <mark key="." line="19" column="34" />
       </file>
+      <file name="$USER_HOME$/work/ch-server/ch-server-sys-setting/src/main/java/com/zifangdt/ch/syssetting/config/CacheConfig.java" timestamp="1513146677826" />
+      <file name="$USER_HOME$/work/ch-server/ch-server-project-manager/src/main/resources/bootstrap.properties" timestamp="1513075729722" />
       <file name="$USER_HOME$/work/ch-server/ch-server-sys-setting/src/main/java/com/zifangdt/ch/syssetting/CachingConfig.java" timestamp="1509525248758">
         <mark key="[" line="15" column="40" />
         <mark key="]" line="15" column="65" />
@@ -724,6 +735,7 @@
         <mark key="^" line="6" column="36" />
         <mark key="." line="6" column="36" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-core/1.3.2.RELEASE/spring-cloud-netflix-core-1.3.2.RELEASE-sources.jar!/org/springframework/cloud/netflix/zuul/filters/route/RibbonRoutingFilter.java" timestamp="1513151807033" />
       <file name="$USER_HOME$/work/kotlin-koans/src/ii_collections/n15AllAnyAndOtherPredicates.kt" timestamp="1511510366013">
         <mark key="[" line="37" column="27" />
         <mark key="]" line="37" column="33" />
@@ -819,6 +831,7 @@
         <mark key="^" line="6" column="2" />
         <mark key="." line="6" column="2" />
       </file>
+      <file name="$USER_HOME$/work/ch-server/ch-server-gateway/src/main/java/com/zifangdt/ch/gateway/fallback/ApiFallbackProvider.java" timestamp="1513323155862" />
       <file name="$USER_HOME$/work/ch-server/ch-server-sys-setting/src/main/java/com/zifangdt/ch/syssetting/mapper/UserConfigMapper.java" timestamp="1507876328856">
         <mark key="[" line="7" column="66" />
         <mark key="]" line="8" column="38" />
@@ -922,6 +935,7 @@
         <mark key="^" line="1" column="24" />
         <mark key="." line="1" column="24" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-core/1.3.2.RELEASE/spring-cloud-netflix-core-1.3.2.RELEASE-sources.jar!/org/springframework/cloud/netflix/zuul/filters/post/SendErrorFilter.java" timestamp="1513066191251" />
       <file name="$USER_HOME$/work/ch-server/ch-server-customer/src/main/java/com/zifangdt/ch/customer/entity/CrmCellAddress.java" timestamp="1508899583365">
         <mark key="[" line="5" column="13" />
         <mark key="]" line="5" column="13" />
@@ -983,6 +997,7 @@
         <mark key="^" line="5" column="73" />
         <mark key="." line="5" column="73" />
       </file>
+      <file name="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/enums/NoticeType.java" timestamp="1513235411960" />
       <file name="$USER_HOME$/work/ch-server/ch-server-sys-setting/src/main/resources/logback.xml" timestamp="1513819624850">
         <mark key="'" line="39" column="23" />
         <mark key="[" line="29" column="68" />
@@ -996,6 +1011,7 @@
         <mark key="." line="7" column="13" />
         <mark key="^" line="7" column="13" />
       </file>
+      <file name="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/web/CustomErrorController.java" timestamp="1513157428409" />
       <file name="$USER_HOME$/workr/tcache/src/main/java/testxx/RequestCachable.java" timestamp="1509589898286">
         <mark key="[" line="6" column="29" />
         <mark key="]" line="9" column="0" />
@@ -1089,6 +1105,7 @@
         <mark key="." line="41" column="14" />
         <mark key="^" line="41" column="14" />
       </file>
+      <file name="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/web/RestResult.java" timestamp="1513157350771" />
       <file name="$USER_HOME$/work/ch-server/ch-server-market/src/main/java/com/zifangdt/ch/market/util/PromotionStatusEnum.java" timestamp="1510208916109">
         <mark key="[" line="2" column="33" />
         <mark key="]" line="6" column="3" />
@@ -1162,6 +1179,12 @@
         <mark key="^" line="211" column="76" />
         <mark key="." line="211" column="76" />
       </file>
+      <file name="$USER_HOME$/work/testaop/src/main/java/xx/Abc.java" timestamp="1513928696542">
+        <mark key="[" line="2" column="18" />
+        <mark key="]" line="4" column="16" />
+        <mark key="^" line="4" column="16" />
+        <mark key="." line="4" column="16" />
+      </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/enums/setting/StepEnum.java" timestamp="1512960850431">
         <mark key="[" line="7" column="26" />
         <mark key="]" line="7" column="26" />
@@ -1219,12 +1242,14 @@
         <mark key="." line="0" column="21" />
         <mark key="^" line="0" column="21" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-core/1.3.2.RELEASE/spring-cloud-netflix-core-1.3.2.RELEASE-sources.jar!/org/springframework/cloud/netflix/zuul/filters/route/SendForwardFilter.java" timestamp="1513156652907" />
       <file name="$USER_HOME$/work/ch-server/ch-server-base/src/main/resources/mapper/setting/ChoiceConfigMapper.xml" timestamp="1509610613889">
         <mark key="[" line="3" column="71" />
         <mark key="]" line="3" column="71" />
         <mark key="." line="3" column="71" />
         <mark key="^" line="3" column="61" />
       </file>
+      <file name="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/enums/RelatedBizType.java" timestamp="1513301490444" />
       <file name="$USER_HOME$/work/ch-server/ch-server-customer/src/main/java/com/zifangdt/ch/customer/mapper/setting/CfgNumberMapper.java" timestamp="1509072301715">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="59" />
@@ -1735,6 +1760,7 @@
         <mark key="." line="8" column="55" />
         <mark key="^" line="8" column="55" />
       </file>
+      <file name="$USER_HOME$/work/ch-server/ch-server-config/src/main/resources/application-dev.properties" timestamp="1513216146788" />
       <file name="$USER_HOME$/work/kotlin-koans/src/ii_collections/n20GroupBy.kt" timestamp="1511511942502">
         <mark key="[" line="10" column="4" />
         <mark key="]" line="10" column="10" />
@@ -1889,6 +1915,7 @@
         <mark key="." line="14" column="15" />
         <mark key="^" line="14" column="15" />
       </file>
+      <file name="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/validation/MobileNumberValidator.java" timestamp="1513158652122" />
       <file name="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/event/EntityCreateEvent.java" timestamp="1513049619148">
         <mark key="'" line="11" column="13" />
         <mark key="[" line="11" column="7" />
@@ -1926,12 +1953,14 @@
         <mark key="^" line="15" column="36" />
         <mark key="." line="15" column="36" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/netflix/zuul/zuul-core/1.3.0/zuul-core-1.3.0-sources.jar!/com/netflix/zuul/ZuulFilter.java" timestamp="1513156711544" />
       <file name="$USER_HOME$/work/ch-server/ch-server-market/src/main/java/com/zifangdt/ch/market/util/components/Img.java" timestamp="1510625194017">
         <mark key="[" line="2" column="18" />
         <mark key="]" line="3" column="22" />
         <mark key="^" line="3" column="22" />
         <mark key="." line="3" column="22" />
       </file>
+      <file name="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/util/requestcache/AbstractCachingConfig.java" timestamp="1513146708963" />
       <file name="$USER_HOME$/work/ch-server/ch-server-customer/src/main/java/com/zifangdt/ch/customer/mapper/setting/CustomerChoiceConfigMapper.java" timestamp="1508984912628">
         <mark key="[" line="7" column="75" />
         <mark key="]" line="7" column="94" />
@@ -1960,6 +1989,7 @@
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-websocket/4.3.10.RELEASE/spring-websocket-4.3.10.RELEASE.jar!/org/springframework/web/socket/handler/AbstractWebSocketHandler.class" timestamp="1513328955476">
         <mark key="'" line="39" column="0" />
       </file>
+      <file name="$USER_HOME$/work/ch-server/ch-server-customer/src/main/java/com/zifangdt/ch/CustomerApplication.java" timestamp="1513841312461" />
       <file name="$USER_HOME$/work/ch-server/ch-server-customer/src/main/java/com/zifangdt/ch/customer/web/setting/CustomerTypeController.java" timestamp="1512466838867">
         <mark key="[" line="7" column="37" />
         <mark key="]" line="6" column="34" />
@@ -2466,6 +2496,7 @@
         <mark key="." line="26" column="37" />
         <mark key="^" line="26" column="37" />
       </file>
+      <file name="$USER_HOME$/work/ch-server/ch-server-product/src/main/java/com/zifangdt/ch/product/api/UaaServerApi.java" timestamp="1513307256035" />
       <file name="$USER_HOME$/work/ch-server/ch-server-sys-setting/src/main/java/com/zifangdt/ch/syssetting/service/ContractUserConfigEnum.java" timestamp="1508221788584">
         <mark key="[" line="5" column="36" />
         <mark key="]" line="6" column="28" />
@@ -2695,7 +2726,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBBb3AK</text>
+        <text encoding="base64">ICAgICAgICBJbnZvCg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2736,7 +2767,7 @@
         <text encoding="base64">ICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJiZWdpbiIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBBb3AK</text>
+        <text encoding="base64">ICAgICAgICBJbnZvCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2761,15 +2792,18 @@
         </keys>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBBb3AK</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">PGRlcGVuZGVuY2llcz4KICAgIDxkZXBlbmRlbmN5PgogICAgICA8Z3JvdXBJZD5qdW5pdDwvZ3JvdXBJZD4KICAgICAgPGFydGlmYWN0SWQ+anVuaXQ8L2FydGlmYWN0SWQ+CiAgICAgIDx2ZXJzaW9uPjMuOC4xPC92ZXJzaW9uPgogICAgICA8c2NvcGU+dGVzdDwvc2NvcGU+CiAgICA8L2RlcGVuZGVuY3k+CiAgPC9kZXBlbmRlbmNpZXM+</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>public Boolean getActive() {
         return isActive;
     }
@@ -2779,19 +2813,16 @@
         return this;
     }</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>else {
             noticeService.readAll(userId);
         }</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBQdXRNYXBwaW5nKCIiKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIEBQdXRNYXBwaW5nKCIiKQo=</text>
       </register>
       <register name=":" type="4">
         <text>565</text>
@@ -2802,7 +2833,7 @@
       <last-offset />
       <last-pattern encoding="base64">XDxnZXRBY3RpdmVcPg==</last-pattern>
       <last-replace>cfg</last-replace>
-      <last-substitute encoding="base64">XDxjb3VudFw+</last-substitute>
+      <last-substitute encoding="base64">XDxnZXRBY3RpdmVcPg==</last-substitute>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
