@@ -2805,12 +2805,12 @@
         <mark key="." line="18" column="30" />
         <mark key="^" line="18" column="30" />
       </file>
-      <file name="$USER_HOME$/work/ch-server/ch-server-market/src/main/java/com/zifangdt/ch/market/service/PromotionService.java" timestamp="1513934144724">
-        <mark key="'" line="203" column="8" />
-        <mark key="[" line="318" column="42" />
-        <mark key="]" line="319" column="57" />
-        <mark key="^" line="319" column="57" />
-        <mark key="." line="319" column="57" />
+      <file name="$USER_HOME$/work/ch-server/ch-server-market/src/main/java/com/zifangdt/ch/market/service/PromotionService.java" timestamp="1513936445660">
+        <mark key="'" line="204" column="8" />
+        <mark key="[" line="192" column="53" />
+        <mark key="]" line="193" column="54" />
+        <mark key="^" line="193" column="54" />
+        <mark key="." line="193" column="54" />
       </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-customer/src/main/java/com/zifangdt/ch/customer/web/setting/CustomerSourceController.java" timestamp="1512466657001">
         <mark key="'" line="96" column="8" />
