@@ -607,7 +607,7 @@
         <mark key="." line="71" column="37" />
         <mark key="^" line="71" column="37" />
       </file>
-      <file name="/Dummy.txt" timestamp="1514167082785">
+      <file name="/Dummy.txt" timestamp="1514170394149">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
@@ -1076,11 +1076,6 @@
         <mark key="." line="13" column="19" />
         <mark key="^" line="13" column="19" />
       </file>
-      <file name="$USER_HOME$/work/ch-server/ch-server-customer/src/main/java/com/zifangdt/ch/customer/web/CustomerController.java" timestamp="1513078869032">
-        <mark key="'" line="148" column="83" />
-        <mark key="[" line="228" column="0" />
-        <mark key="]" line="228" column="89" />
-      </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-customer/src/main/resources/mapper/CfgNumberMapper.xml" timestamp="1509074241045">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -1542,11 +1537,6 @@
         <mark key="]" line="16" column="90" />
         <mark key="^" line="16" column="71" />
         <mark key="." line="16" column="90" />
-      </file>
-      <file name="$USER_HOME$/work/ch-server/ch-server-common/src/main/java/com/zifangdt/ch/common/service/FileService.java" timestamp="1513078561478">
-        <mark key="'" line="48" column="41" />
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="106" />
       </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-sys-setting/src/main/java/com/zifangdt/ch/syssetting/service/UserOrgaService.java" timestamp="1508139078695">
         <mark key="[" line="16" column="7" />
@@ -2285,7 +2275,7 @@
         <mark key="]" line="38" column="0" />
         <mark key="." line="38" column="0" />
       </file>
-      <file name="$USER_HOME$/work/ch-server/ch-server-contract/src/main/java/com/zifangdt/ch/contract/service/ContractService.java" timestamp="1513931723648">
+      <file name="$USER_HOME$/work/ch-server/ch-server-contract/src/main/java/com/zifangdt/ch/contract/service/ContractService.java" timestamp="1514170636555">
         <mark key="'" line="71" column="38" />
         <mark key="[" line="602" column="24" />
         <mark key="]" line="609" column="39" />
