@@ -2631,12 +2631,12 @@
         <mark key="^" line="92" column="14" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="$USER_HOME$/work/ch-server/ch-server-customer/src/main/java/com/zifangdt/ch/customer/service/setting/CfgCustomerSourceService.java" timestamp="1513943094578">
-        <mark key="'" line="169" column="31" />
-        <mark key="[" line="117" column="0" />
-        <mark key="]" line="117" column="0" />
-        <mark key="." line="117" column="0" />
-        <mark key="^" line="116" column="56" />
+      <file name="$USER_HOME$/work/ch-server/ch-server-customer/src/main/java/com/zifangdt/ch/customer/service/setting/CfgCustomerSourceService.java" timestamp="1514191278424">
+        <mark key="'" line="172" column="31" />
+        <mark key="[" line="146" column="61" />
+        <mark key="]" line="147" column="29" />
+        <mark key="." line="147" column="29" />
+        <mark key="^" line="147" column="29" />
       </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-contract/src/main/java/com/zifangdt/ch/contract/mapper/setting/CfgContractStepDefinitionMapper.java" timestamp="1508228349706">
         <mark key="[" line="8" column="17" />
@@ -3006,7 +3006,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IERhdGFJbnZhbGlkRXhjZXB0aW9uKCJub3QgY3VzdG9taXphYmxlIik7Cg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -3054,7 +3054,7 @@
                         .build()</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IERhdGFJbnZhbGlkRXhjZXB0aW9uKCJub3QgY3VzdG9taXphYmxlIik7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3082,15 +3082,18 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlci5wb3N0U2F2ZShzYXZlZCk7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBzdXBlci5wb3N0U2F2ZShzYXZlZCk7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="4">
         <text>@EventListener
     public void onPromotionCreateEvent(PromotionCreateEvent event) {
         Promotion promotion = event.getEntity();
@@ -3105,11 +3108,8 @@
                                 .build()
     }</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcm9tb3Rpb24uZ2V0Q29tcG9uZW50cygpCg==</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBQcm9tb3Rpb24uCg==</text>
+        <text encoding="base64">ICAgICAgICBwcm9tb3Rpb24uZ2V0Q29tcG9uZW50cygpCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICBQcm9tb3Rpb24uCg==</text>
