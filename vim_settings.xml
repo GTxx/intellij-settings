@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/work/ch-server/ch-server-common/src/main/resources/mapper/NoticeMapper.xml" timestamp="1514196173059">
+      <file name="$USER_HOME$/work/ch-server/ch-server-common/src/main/resources/mapper/NoticeMapper.xml" timestamp="1514257629088">
         <mark key="'" line="14" column="35" />
-        <mark key="[" line="67" column="50" />
-        <mark key="]" line="67" column="50" />
-        <mark key="^" line="67" column="34" />
-        <mark key="." line="67" column="50" />
+        <mark key="[" line="56" column="38" />
+        <mark key="]" line="56" column="48" />
+        <mark key="^" line="56" column="48" />
+        <mark key="." line="56" column="48" />
       </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-sys-setting/src/main/java/com/zifangdt/ch/syssetting/web/QuickEntryRuleController.java" timestamp="1510822577179">
         <mark key="[" line="35" column="0" />
@@ -2038,12 +2038,12 @@
         <mark key="^" line="29" column="11" />
         <mark key="." line="31" column="0" />
       </file>
-      <file name="$USER_HOME$/work/ch-server/ch-server-common/src/main/java/com/zifangdt/ch/common/service/NoticeService.java" timestamp="1514256345856">
-        <mark key="'" line="89" column="67" />
-        <mark key="[" line="89" column="25" />
-        <mark key="]" line="89" column="31" />
-        <mark key="^" line="89" column="31" />
-        <mark key="." line="89" column="31" />
+      <file name="$USER_HOME$/work/ch-server/ch-server-common/src/main/java/com/zifangdt/ch/common/service/NoticeService.java" timestamp="1514257992737">
+        <mark key="'" line="77" column="31" />
+        <mark key="[" line="97" column="42" />
+        <mark key="]" line="97" column="47" />
+        <mark key="^" line="97" column="47" />
+        <mark key="." line="97" column="47" />
       </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-contract/src/main/resources/mapper/setting/CfgContractStepDefinitionMapper.xml" timestamp="1508228336151">
         <mark key="[" line="76" column="0" />
@@ -2512,11 +2512,11 @@
         <mark key="^" line="12" column="25" />
         <mark key="." line="12" column="25" />
       </file>
-      <file name="$USER_HOME$/work/ch-server/ch-server-common/src/main/java/com/zifangdt/ch/common/mapper/NoticeMapper.java" timestamp="1514195750541">
-        <mark key="[" line="30" column="87" />
-        <mark key="]" line="32" column="34" />
-        <mark key="^" line="32" column="34" />
-        <mark key="." line="32" column="34" />
+      <file name="$USER_HOME$/work/ch-server/ch-server-common/src/main/java/com/zifangdt/ch/common/mapper/NoticeMapper.java" timestamp="1514257985771">
+        <mark key="[" line="26" column="53" />
+        <mark key="]" line="26" column="82" />
+        <mark key="^" line="26" column="82" />
+        <mark key="." line="26" column="82" />
       </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/dao/MyBatisConfig.java" timestamp="1510218627807">
         <mark key="[" line="41" column="0" />
@@ -2899,7 +2899,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="107" column="33" filename="$USER_HOME$/work/ch-server/ch-server-product/src/main/java/com/zifangdt/ch/product/bo/ProductImportBo.java" />
       <jump line="421" column="22" filename="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/service/BaseService.java" />
       <jump line="205" column="35" filename="$USER_HOME$/work/ch-server/ch-server-customer/src/main/java/com/zifangdt/ch/customer/web/CustomerController.java" />
       <jump line="52" column="49" filename="$USER_HOME$/work/ch-server/ch-server-product/src/main/java/com/zifangdt/ch/product/web/ProductController.java" />
@@ -2999,10 +2998,11 @@
       <jump line="14" column="35" filename="$USER_HOME$/work/ch-server/ch-server-common/src/main/resources/mapper/NoticeMapper.xml" />
       <jump line="21" column="0" filename="$USER_HOME$/work/ch-server/ch-server-common/src/main/java/com/zifangdt/ch/common/web/NoticeController.java" />
       <jump line="89" column="67" filename="$USER_HOME$/work/ch-server/ch-server-common/src/main/java/com/zifangdt/ch/common/service/NoticeService.java" />
+      <jump line="78" column="31" filename="$USER_HOME$/work/ch-server/ch-server-common/src/main/java/com/zifangdt/ch/common/service/NoticeService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgICAgIG5vdGljZVNlcnZpY2UucmVhZElkcyhpZHMsIHVzZXJJZCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>user_id</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -3034,7 +3034,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>user_id</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxOb3ROdWxsXD4=</text>
