@@ -1323,9 +1323,9 @@
         <mark key="^" line="5" column="60" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/web/setting/UserConfigController.java" timestamp="1513752055117">
-        <mark key="[" line="95" column="2" />
-        <mark key="]" line="95" column="2" />
+      <file name="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/web/setting/UserConfigController.java" timestamp="1514267710222">
+        <mark key="[" line="30" column="19" />
+        <mark key="]" line="30" column="32" />
         <mark key="^" line="95" column="33" />
         <mark key="." line="95" column="2" />
       </file>
@@ -2014,7 +2014,7 @@
         <mark key="^" line="76" column="37" />
         <mark key="." line="76" column="37" />
       </file>
-      <file name="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/enums/setting/ChoiceConfigEnum.java" timestamp="1512464867308">
+      <file name="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/enums/setting/ChoiceConfigEnum.java" timestamp="1514267609792">
         <mark key="[" line="42" column="4" />
         <mark key="]" line="42" column="4" />
         <mark key="^" line="6" column="6" />
@@ -2265,11 +2265,6 @@
         <mark key="]" line="38" column="0" />
         <mark key="." line="38" column="0" />
       </file>
-      <file name="$USER_HOME$/work/ch-server/ch-server-contract/src/main/java/com/zifangdt/ch/contract/service/ContractService.java" timestamp="1514170636555">
-        <mark key="'" line="71" column="38" />
-        <mark key="[" line="602" column="24" />
-        <mark key="]" line="609" column="39" />
-      </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-sys-setting/src/main/java/com/zifangdt/ch/syssetting/service/DistrictService.java" timestamp="1513147812763">
         <mark key="'" line="24" column="0" />
         <mark key="[" line="33" column="29" />
@@ -2325,11 +2320,11 @@
         <mark key="." line="8" column="17" />
         <mark key="^" line="7" column="39" />
       </file>
-      <file name="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/api/CustomerSettingServerApi.java" timestamp="1513404796878">
-        <mark key="[" line="12" column="38" />
-        <mark key="]" line="12" column="38" />
-        <mark key="." line="12" column="38" />
-        <mark key="^" line="12" column="39" />
+      <file name="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/api/CustomerSettingServerApi.java" timestamp="1514267959592">
+        <mark key="[" line="40" column="93" />
+        <mark key="]" line="39" column="27" />
+        <mark key="." line="39" column="27" />
+        <mark key="^" line="39" column="27" />
       </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/dto/contract/setting/ContractStepDefinition.java" timestamp="1508297308889">
         <mark key="[" line="10" column="61" />
@@ -2739,6 +2734,7 @@
         <mark key="." line="35" column="14" />
         <mark key="^" line="35" column="14" />
       </file>
+      <file name="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/enums/setting/UserConfigEnum.java" timestamp="1514267971237" />
       <file name="$USER_HOME$/work/ch-server/ch-server-market/src/main/java/com/zifangdt/ch/market/entity/PromotionAffiliate.java" timestamp="1510305340566">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
@@ -3003,7 +2999,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ids</text>
+        <text>config</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -3035,19 +3031,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>ids</text>
+        <text>config</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxOb3ROdWxsXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>Long userId = CurrentUser.getUserId();
-        if (userId != null) {
-            announcementService.readByIds(ids, userId);
-        }</text>
+        <text>userConfigEnum</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGlkcwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3072,30 +3065,30 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">Ly8gICAgICAgIG5vdGljZVNlcnZpY2UucmVhZElkcyhpZHMsIHVzZXJJZCk7Cg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>else {
             noticeService.readIds(ids, userId);
         }</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">aW1wb3J0IGphdmF4LnZhbGlkYXRpb24uY29uc3RyYWludHMuTm90TnVsbDsK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIEBSZXF1aXJlUGVybWlzaXNvbigiY29udHJlY3Q6c2F2ZSIpCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgcGF0aDogL3QvY29uZmlnIC9zL2NvbmZpZwo=</text>
+        <text encoding="base64">ICAgIEBSZXF1aXJlUGVybWlzaXNvbigiY29udHJlY3Q6c2F2ZSIpCg==</text>
       </register>
       <register name=":" type="4">
         <text>565</text>
