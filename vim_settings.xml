@@ -20,11 +20,11 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/dao/BaseMapperAspect.java" timestamp="1514540023921">
-        <mark key="[" line="36" column="17" />
-        <mark key="]" line="37" column="12" />
+      <file name="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/dao/BaseMapperAspect.java" timestamp="1514540987111">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
         <mark key="^" line="37" column="12" />
-        <mark key="." line="37" column="12" />
+        <mark key="." line="38" column="0" />
       </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-sys-setting/src/main/java/com/zifangdt/ch/syssetting/api/OrganizationDe.java" timestamp="1510824276965">
         <mark key="[" line="10" column="0" />
@@ -451,6 +451,9 @@
         <mark key="^" line="34" column="21" />
         <mark key="." line="34" column="21" />
       </file>
+      <file name="/fragment.java" timestamp="1514541512428">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-message/src/main/java/com/zifangdt/ch/message/huanxin/HuanxinApi.java" timestamp="1514368538937">
         <mark key="'" line="76" column="19" />
         <mark key="[" line="71" column="60" />
@@ -562,11 +565,8 @@
       <jump line="15" column="99" filename="$USER_HOME$/work/ch-server/ch-server-customer/src/main/java/com/zifangdt/ch/customer/service/setting/CustomerChoiceConfigService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>catch (Exception e) {
-            logger.debug(&quot;&quot;);
-            throw e;
-        }</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Ly8gICAgICAgICAgIAo=</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -606,11 +606,8 @@
       <register name="0" type="4">
         <text>/project/choiceConfig</text>
       </register>
-      <register name="1" type="4">
-        <text>catch (Exception e) {
-            logger.debug(&quot;&quot;);
-            throw e;
-        }</text>
+      <register name="1" type="2">
+        <text encoding="base64">Ly8gICAgICAgICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -634,29 +631,32 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS56aWZhbmdkdC5jaC5iYXNlLmR0by5jdXN0b21lci5zZXR0aW5nLkN1c3RvbWVyQ2hvaWNlQ29uZmlnOwo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">IH0gY2F0Y2ggKEV4Y2VwdGlvbiBleGNlcHRpb24pIHsKLy8gICAgICAgICAgICAgICAgTE9HR0VSLmVycm9yKCJlcnJvciBvY2N1cnMuLi5yZXRocm93aW5nLi4uIik7Ci8vICAgICAgICAgICAgICAgIHRocm93IGV4Y2VwdGlvbjsKLy8vLyAgICAgICAgICAgICAgICB0aHJvdyBuZXcgUnVudGltZUV4Y2VwdGlvbih0aHJvd2FibGUpOwovLyAgICAgICAgICAgIH0=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="3" type="4">
+        <text>catch (Exception e) {
+            logger.debug(&quot;&quot;);
+            throw e;
+        }</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">aW1wb3J0IGNvbS56aWZhbmdkdC5jaC5iYXNlLmR0by5jdXN0b21lci5zZXR0aW5nLkN1c3RvbWVyQ2hvaWNlQ29uZmlnOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y3VzdG9tZXJ9Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">MjcK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAyOQo=</text>
+        <text encoding="base64">Y3VzdG9tZXJ9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAyOAo=</text>
+        <text encoding="base64">MjcK</text>
       </register>
       <register name=":" type="4">
         <text>565</text>
