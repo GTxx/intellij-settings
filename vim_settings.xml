@@ -173,6 +173,12 @@
         <mark key="]" line="143" column="0" />
         <mark key="." line="143" column="0" />
       </file>
+      <file name="$USER_HOME$/work/jdapi/src/main/java/xx/App.java" timestamp="1514857573773">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="^" line="25" column="73" />
+        <mark key="." line="32" column="0" />
+      </file>
       <file name="$USER_HOME$/work/r-cache/src/test/java/testxx/MyTest.java" timestamp="1510108925445">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
@@ -350,6 +356,9 @@
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
       </file>
+      <file name="$USER_HOME$/work/ch-server/ch-server-approval/src/main/resources/open-api-sdk-2.0.jar!/com/jd/open/api/sdk/internal/util/HttpUtil.class" timestamp="1514856726133">
+        <mark key="'" line="81" column="61" />
+      </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/dto/syssetting/District.java" timestamp="1509608112409">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
@@ -360,7 +369,6 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/work/ch-server/ch-server-contract/src/main/resources/application.yml" timestamp="1514538780048" />
       <file name="$USER_HOME$/work/ch-server/ch-server-market/src/main/java/com/zifangdt/ch/market/bo/ProductQueryBo.java" timestamp="1510652762357">
         <mark key="[" line="5" column="13" />
         <mark key="]" line="5" column="13" />
@@ -463,11 +471,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="33" column="11" filename="$USER_HOME$/work/ch-server/ch-server-product/src/main/java/com/zifangdt/ch/product/bo/ProductImportBo.java" />
-      <jump line="51" column="22" filename="$USER_HOME$/work/ch-server/ch-server-customer/src/main/java/com/zifangdt/ch/customer/web/CustomerController.java" />
-      <jump line="184" column="39" filename="$USER_HOME$/work/ch-server/ch-server-product/src/main/java/com/zifangdt/ch/product/web/ProductController.java" />
-      <jump line="24" column="0" filename="$USER_HOME$/work/ch-server/ch-server-product/src/main/java/com/zifangdt/ch/product/service/CategoryService.java" />
-      <jump line="236" column="34" filename="$USER_HOME$/work/ch-server/ch-server-product/src/main/java/com/zifangdt/ch/product/web/ProductController.java" />
       <jump line="202" column="28" filename="$USER_HOME$/work/ch-server/ch-server-customer/src/main/java/com/zifangdt/ch/customer/web/CustomerController.java" />
       <jump line="82" column="46" filename="$USER_HOME$/work/ch-server/ch-server-product/src/main/java/com/zifangdt/ch/product/web/ProductController.java" />
       <jump line="28" column="11" filename="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/constant/Constants.java" />
@@ -563,10 +566,15 @@
       <jump line="17" column="17" filename="$USER_HOME$/work/ch-server/ch-server-customer/src/main/java/com/zifangdt/ch/customer/service/setting/CfgCustomerSourceService.java" />
       <jump line="31" column="3" filename="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/service/setting/UserConfigService.java" />
       <jump line="15" column="99" filename="$USER_HOME$/work/ch-server/ch-server-customer/src/main/java/com/zifangdt/ch/customer/service/setting/CustomerChoiceConfigService.java" />
+      <jump line="71" column="23" filename="$USER_HOME$/work/ch-server/ch-server-approval/src/main/resources/open-api-sdk-2.0.jar!/com/jd/open/api/sdk/internal/util/HttpUtil.class" />
+      <jump line="37" column="25" filename="$USER_HOME$/work/ch-server/ch-server-approval/src/main/resources/open-api-sdk-2.0.jar!/com/jd/open/api/sdk/internal/util/HttpUtil.class" />
+      <jump line="147" column="25" filename="$USER_HOME$/work/ch-server/ch-server-approval/src/main/resources/open-api-sdk-2.0.jar!/com/jd/open/api/sdk/internal/util/HttpUtil.class" />
+      <jump line="84" column="25" filename="$USER_HOME$/work/ch-server/ch-server-approval/src/main/resources/open-api-sdk-2.0.jar!/com/jd/open/api/sdk/internal/util/HttpUtil.class" />
+      <jump line="81" column="61" filename="$USER_HOME$/work/ch-server/ch-server-approval/src/main/resources/open-api-sdk-2.0.jar!/com/jd/open/api/sdk/internal/util/HttpUtil.class" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBDb2RlY1V0aWwubWQ1KCkK</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -598,16 +606,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>throwable</text>
+        <text>appSecret</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxMb2dnZXJcPg==</text>
+        <text encoding="base64">XDxkb1Bvc3RcPg==</text>
       </register>
       <register name="0" type="4">
         <text>/project/choiceConfig</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBDb2RlY1V0aWwubWQ1KCkK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -631,41 +639,41 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBKZENsaWVudCBqZENsaWVudCA9IG5ldyBEZWZhdWx0SmRDbGllbnQoKTsK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oICJIZWxsbyBXb3JsZCEiICk7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oICJIZWxsbyBXb3JsZCEiICk7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Ly8gICAgICAgICAgIAo=</text>
+      </register>
+      <register name="6" type="4">
         <text encoding="base64">IH0gY2F0Y2ggKEV4Y2VwdGlvbiBleGNlcHRpb24pIHsKLy8gICAgICAgICAgICAgICAgTE9HR0VSLmVycm9yKCJlcnJvciBvY2N1cnMuLi5yZXRocm93aW5nLi4uIik7Ci8vICAgICAgICAgICAgICAgIHRocm93IGV4Y2VwdGlvbjsKLy8vLyAgICAgICAgICAgICAgICB0aHJvdyBuZXcgUnVudGltZUV4Y2VwdGlvbih0aHJvd2FibGUpOwovLyAgICAgICAgICAgIH0=</text>
       </register>
-      <register name="3" type="4">
+      <register name="7" type="4">
         <text>catch (Exception e) {
             logger.debug(&quot;&quot;);
             throw e;
         }</text>
       </register>
-      <register name="4" type="2">
+      <register name="8" type="2">
         <text encoding="base64">aW1wb3J0IGNvbS56aWZhbmdkdC5jaC5iYXNlLmR0by5jdXN0b21lci5zZXR0aW5nLkN1c3RvbWVyQ2hvaWNlQ29uZmlnOwo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIH0K</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Y3VzdG9tZXJ9Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">MjcK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>565</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxMb2dnZXJcPg==</last-search>
+      <last-search encoding="base64">XDxkb1Bvc3RcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxMb2dnZXJcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxkb1Bvc3RcPg==</last-pattern>
       <last-replace>cfg</last-replace>
       <last-substitute encoding="base64">XDxUb2RvVGFza0NyZWF0ZUV2ZW50XD4=</last-substitute>
       <last-dir>-1</last-dir>
@@ -673,8 +681,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxwcmlvcml0eU5hbWVcPg==</entry>
-        <entry encoding="base64">XDxFUlJPUl9MT0dfRklMRVw+</entry>
         <entry encoding="base64">XDwpXD4=</entry>
         <entry encoding="base64">XDxjaGVja0V4Y2x1c2lvblw+</entry>
         <entry encoding="base64">XDxleGNsdXNpb25zXD4=</entry>
@@ -693,6 +699,8 @@
         <entry encoding="base64">XDxjcmVhdGVDb25maWdcPg==</entry>
         <entry encoding="base64">XDxMb2dGYWN0b3J5XD4=</entry>
         <entry encoding="base64">XDxMb2dnZXJcPg==</entry>
+        <entry encoding="base64">XDxidWlsZFF1ZXJ5XD4=</entry>
+        <entry encoding="base64">XDxkb1Bvc3RcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>s/crm/cfg/g</entry>
