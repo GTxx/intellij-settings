@@ -55,6 +55,7 @@
         <mark key="]" line="6" column="19" />
         <mark key="." line="6" column="19" />
       </file>
+      <file name="$USER_HOME$/work/jdapi/src/main/resources/open-api-sdk-2.0.jar!/com/jd/open/api/sdk/request/category/CategorySearchRequest.class" timestamp="1514858860408" />
       <file name="$USER_HOME$/work/kotlin-koans/src/v_builders/n38TheFunctionApply.kt" timestamp="1511855235705">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
@@ -173,11 +174,11 @@
         <mark key="]" line="143" column="0" />
         <mark key="." line="143" column="0" />
       </file>
-      <file name="$USER_HOME$/work/jdapi/src/main/java/xx/App.java" timestamp="1514857573773">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="^" line="25" column="73" />
-        <mark key="." line="32" column="0" />
+      <file name="$USER_HOME$/work/jdapi/src/main/java/xx/App.java" timestamp="1514858371760">
+        <mark key="[" line="31" column="64" />
+        <mark key="]" line="33" column="17" />
+        <mark key="^" line="33" column="17" />
+        <mark key="." line="33" column="17" />
       </file>
       <file name="$USER_HOME$/work/r-cache/src/test/java/testxx/MyTest.java" timestamp="1510108925445">
         <mark key="[" line="21" column="0" />
@@ -269,6 +270,12 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/work/ch-server/ch-server-approval/src/main/java/com/zifangdt/ch/ApprovalApplication.java" timestamp="1514858416120">
+        <mark key="[" line="13" column="63" />
+        <mark key="]" line="14" column="15" />
+        <mark key="^" line="14" column="15" />
+        <mark key="." line="14" column="15" />
+      </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/enums/setting/ChoiceConfigEnum.java" timestamp="1514267609792">
         <mark key="[" line="42" column="4" />
         <mark key="]" line="42" column="4" />
@@ -311,6 +318,9 @@
         <mark key="]" line="32" column="58" />
         <mark key="^" line="32" column="58" />
         <mark key="." line="32" column="58" />
+      </file>
+      <file name="$USER_HOME$/work/jdapi/src/main/resources/open-api-sdk-2.0.jar!/com/jd/open/api/sdk/request/AbstractRequest.class" timestamp="1514858922604">
+        <mark key="'" line="52" column="20" />
       </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-contract/src/main/java/com/zifangdt/ch/contract/entity/CfgContractStepDefinition.java" timestamp="1508228385205">
         <mark key="[" line="5" column="13" />
@@ -379,12 +389,18 @@
         <mark key="]" line="26" column="20" />
         <mark key="." line="26" column="20" />
       </file>
+      <file name="$USER_HOME$/work/jdapi/pom.xml" timestamp="1514858457850">
+        <mark key="[" line="22" column="17" />
+        <mark key="]" line="27" column="16" />
+        <mark key="^" line="27" column="16" />
+        <mark key="." line="27" column="16" />
+      </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/service/setting/ContractUserConfigService.java" timestamp="1509007649274">
         <mark key="[" line="21" column="13" />
         <mark key="]" line="21" column="13" />
         <mark key="." line="21" column="13" />
       </file>
-      <file name="/Dummy.txt" timestamp="1514539399269">
+      <file name="/Dummy.txt" timestamp="1514858394960">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
@@ -443,6 +459,9 @@
         <mark key="." line="137" column="14" />
         <mark key="^" line="137" column="14" />
       </file>
+      <file name="$USER_HOME$/work/jdapi/src/main/resources/open-api-sdk-2.0.jar!/com/jd/open/api/sdk/DefaultJdClient.class" timestamp="1514859237556">
+        <mark key="'" line="117" column="19" />
+      </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-market/src/main/java/com/zifangdt/ch/market/config/ProductDataInitializer.java" timestamp="1511336711619">
         <mark key="[" line="10" column="13" />
         <mark key="]" line="10" column="13" />
@@ -471,11 +490,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="202" column="28" filename="$USER_HOME$/work/ch-server/ch-server-customer/src/main/java/com/zifangdt/ch/customer/web/CustomerController.java" />
-      <jump line="82" column="46" filename="$USER_HOME$/work/ch-server/ch-server-product/src/main/java/com/zifangdt/ch/product/web/ProductController.java" />
-      <jump line="28" column="11" filename="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/constant/Constants.java" />
-      <jump line="80" column="32" filename="$USER_HOME$/work/ch-server/ch-server-product/src/main/java/com/zifangdt/ch/product/web/ProductController.java" />
-      <jump line="33" column="45" filename="$USER_HOME$/work/ch-server/ch-server-common/src/main/java/com/zifangdt/ch/common/service/FileService.java" />
       <jump line="35" column="21" filename="$USER_HOME$/work/ch-server/ch-server-common/src/main/java/com/zifangdt/ch/common/service/FileService.java" />
       <jump line="37" column="18" filename="$USER_HOME$/work/ch-server/ch-server-common/src/main/java/com/zifangdt/ch/common/service/FileService.java" />
       <jump line="39" column="47" filename="$USER_HOME$/work/ch-server/ch-server-common/src/main/java/com/zifangdt/ch/common/service/FileService.java" />
@@ -571,6 +585,11 @@
       <jump line="147" column="25" filename="$USER_HOME$/work/ch-server/ch-server-approval/src/main/resources/open-api-sdk-2.0.jar!/com/jd/open/api/sdk/internal/util/HttpUtil.class" />
       <jump line="84" column="25" filename="$USER_HOME$/work/ch-server/ch-server-approval/src/main/resources/open-api-sdk-2.0.jar!/com/jd/open/api/sdk/internal/util/HttpUtil.class" />
       <jump line="81" column="61" filename="$USER_HOME$/work/ch-server/ch-server-approval/src/main/resources/open-api-sdk-2.0.jar!/com/jd/open/api/sdk/internal/util/HttpUtil.class" />
+      <jump line="117" column="19" filename="$USER_HOME$/work/jdapi/src/main/resources/open-api-sdk-2.0.jar!/com/jd/open/api/sdk/DefaultJdClient.class" />
+      <jump line="16" column="21" filename="$USER_HOME$/work/jdapi/src/main/resources/open-api-sdk-2.0.jar!/com/jd/open/api/sdk/request/AbstractRequest.class" />
+      <jump line="56" column="13" filename="$USER_HOME$/work/jdapi/src/main/resources/open-api-sdk-2.0.jar!/com/jd/open/api/sdk/request/AbstractRequest.class" />
+      <jump line="55" column="36" filename="$USER_HOME$/work/jdapi/src/main/resources/open-api-sdk-2.0.jar!/com/jd/open/api/sdk/request/AbstractRequest.class" />
+      <jump line="52" column="20" filename="$USER_HOME$/work/jdapi/src/main/resources/open-api-sdk-2.0.jar!/com/jd/open/api/sdk/request/AbstractRequest.class" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -609,7 +628,7 @@
         <text>appSecret</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkb1Bvc3RcPg==</text>
+        <text encoding="base64">XDx0aW1lc3RhbXBcPg==</text>
       </register>
       <register name="0" type="4">
         <text>/project/choiceConfig</text>
@@ -671,9 +690,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkb1Bvc3RcPg==</last-search>
+      <last-search encoding="base64">XDx0aW1lc3RhbXBcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkb1Bvc3RcPg==</last-pattern>
+      <last-pattern encoding="base64">XDx0aW1lc3RhbXBcPg==</last-pattern>
       <last-replace>cfg</last-replace>
       <last-substitute encoding="base64">XDxUb2RvVGFza0NyZWF0ZUV2ZW50XD4=</last-substitute>
       <last-dir>-1</last-dir>
@@ -681,8 +700,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDwpXD4=</entry>
-        <entry encoding="base64">XDxjaGVja0V4Y2x1c2lvblw+</entry>
         <entry encoding="base64">XDxleGNsdXNpb25zXD4=</entry>
         <entry encoding="base64">XDxpc0FjdGl2ZVw+</entry>
         <entry encoding="base64">XDxnZXRJc0FjdGl2ZVw+</entry>
@@ -701,6 +718,8 @@
         <entry encoding="base64">XDxMb2dnZXJcPg==</entry>
         <entry encoding="base64">XDxidWlsZFF1ZXJ5XD4=</entry>
         <entry encoding="base64">XDxkb1Bvc3RcPg==</entry>
+        <entry encoding="base64">XDxzaWduXD4=</entry>
+        <entry encoding="base64">XDx0aW1lc3RhbXBcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>s/crm/cfg/g</entry>
