@@ -21,6 +21,12 @@
         <mark key="." line="9" column="13" />
       </file>
       <file name="$USER_HOME$/work/jdapi/src/main/resources/open-api-sdk-2.0.jar!/com/jd/open/api/sdk/request/category/CategorySearchRequest.class" timestamp="1514858860408" />
+      <file name="$USER_HOME$/work/ch-server/ch-server-market/src/main/java/com/zifangdt/ch/market/mapper/PromotionJoinMapper.java" timestamp="1514945386894">
+        <mark key="[" line="17" column="88" />
+        <mark key="]" line="17" column="89" />
+        <mark key="^" line="17" column="89" />
+        <mark key="." line="17" column="89" />
+      </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-message/src/main/java/com/zifangdt/ch/message/socket/WebSocketConfig.java" timestamp="1513842834206">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="0" />
@@ -95,12 +101,6 @@
         <mark key="[" line="8" column="17" />
         <mark key="]" line="8" column="17" />
         <mark key="." line="8" column="17" />
-      </file>
-      <file name="$USER_HOME$/work/ch-server/ch-server-contract/src/main/java/com/zifangdt/ch/contract/service/ContractService.java" timestamp="1514432732270">
-        <mark key="'" line="71" column="38" />
-        <mark key="[" line="551" column="9" />
-        <mark key="]" line="551" column="10" />
-        <mark key="." line="551" column="10" />
       </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/service/setting/ChoiceConfigService.java" timestamp="1514537739655">
         <mark key="[" line="35" column="15" />
@@ -194,12 +194,6 @@
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
-      </file>
-      <file name="$USER_HOME$/work/ch-server/ch-server-contract/src/main/java/com/zifangdt/ch/contract/service/setting/BoolConfigService.java" timestamp="1514540010204">
-        <mark key="'" line="54" column="11" />
-        <mark key="[" line="55" column="10" />
-        <mark key="]" line="55" column="10" />
-        <mark key="." line="55" column="10" />
       </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-product/src/main/java/com/zifangdt/ch/product/service/ProductService.java" timestamp="1514944279090">
         <mark key="'" line="55" column="30" />
@@ -447,8 +441,12 @@
         <mark key="]" line="8" column="17" />
         <mark key="." line="8" column="17" />
       </file>
-      <file name="$USER_HOME$/work/ch-server/ch-server-market/src/main/java/com/zifangdt/ch/market/service/PromotionService.java" timestamp="1514944614497">
+      <file name="$USER_HOME$/work/ch-server/ch-server-market/src/main/java/com/zifangdt/ch/market/service/PromotionService.java" timestamp="1514945854328">
         <mark key="'" line="304" column="68" />
+        <mark key="[" line="308" column="75" />
+        <mark key="]" line="310" column="48" />
+        <mark key="^" line="310" column="48" />
+        <mark key="." line="310" column="48" />
       </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-market/pom.xml" timestamp="1512962169512">
         <mark key="[" line="36" column="0" />
@@ -478,6 +476,12 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
+      </file>
+      <file name="$USER_HOME$/work/ch-server/ch-server-market/src/main/resources/mapper/PromotionJoinMapper.xml" timestamp="1514945753781">
+        <mark key="[" line="70" column="84" />
+        <mark key="]" line="70" column="102" />
+        <mark key="^" line="70" column="102" />
+        <mark key="." line="70" column="102" />
       </file>
       <file name="$USER_HOME$/work/kotlin-koans/src/ii_collections/n17MaxMin.kt" timestamp="1511511285643">
         <mark key="[" line="14" column="0" />
@@ -624,7 +628,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text>join</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -656,7 +660,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>join</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbmZvXD4=</text>
