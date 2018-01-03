@@ -20,12 +20,12 @@
         <mark key="]" line="9" column="13" />
         <mark key="." line="9" column="13" />
       </file>
-      <file name="$USER_HOME$/work/v2ex/src/main.kt" timestamp="1514971830992">
+      <file name="$USER_HOME$/work/v2ex/src/main.kt" timestamp="1514973054438">
         <mark key="'" line="6" column="16" />
-        <mark key="[" line="12" column="58" />
-        <mark key="]" line="12" column="56" />
-        <mark key="^" line="12" column="56" />
-        <mark key="." line="12" column="56" />
+        <mark key="[" line="28" column="71" />
+        <mark key="]" line="30" column="45" />
+        <mark key="^" line="30" column="45" />
+        <mark key="." line="30" column="45" />
       </file>
       <file name="$USER_HOME$/work/jdapi/src/main/resources/open-api-sdk-2.0.jar!/com/jd/open/api/sdk/request/category/CategorySearchRequest.class" timestamp="1514858860408" />
       <file name="$USER_HOME$/work/ch-server/ch-server-market/src/main/java/com/zifangdt/ch/market/mapper/PromotionJoinMapper.java" timestamp="1514945386894">
@@ -166,11 +166,10 @@
         <mark key="]" line="5" column="13" />
         <mark key="." line="5" column="13" />
       </file>
-      <file name="$USER_HOME$/work/v2ex/resources/META-INF/plugin.xml" timestamp="1514967525046">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="." line="34" column="0" />
-        <mark key="^" line="33" column="57" />
+      <file name="$USER_HOME$/work/v2ex/resources/META-INF/plugin.xml" timestamp="1514972586187">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-common/src/main/resources/mapper/AnnouncementMapper.xml" timestamp="1514259453358">
         <mark key="'" line="21" column="34" />
@@ -205,6 +204,9 @@
         <mark key="]" line="2" column="20" />
         <mark key="." line="2" column="20" />
         <mark key="^" line="2" column="20" />
+      </file>
+      <file name="$APPLICATION_HOME_DIR$/lib/openapi.jar!/com/intellij/ui/content/ContentManager.class" timestamp="1514972826043">
+        <mark key="'" line="78" column="31" />
       </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/util/requestcache/RequestScopeCacheStorage.java" timestamp="1510019361975">
         <mark key="[" line="24" column="0" />
@@ -541,8 +543,6 @@
       <file name="$USER_HOME$/work/ch-server/ch-server-market/src/main/java/com/zifangdt/ch/market/web/PromotionController.java" timestamp="1514944601410" />
     </filemarks>
     <jumps>
-      <jump line="211" column="90" filename="$USER_HOME$/work/ch-server/ch-server-product/src/main/java/com/zifangdt/ch/product/web/ProductController.java" />
-      <jump line="153" column="19" filename="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/service/setting/UserConfigService.java" />
       <jump line="154" column="31" filename="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/service/setting/UserConfigService.java" />
       <jump line="170" column="19" filename="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/service/setting/UserConfigService.java" />
       <jump line="272" column="8" filename="$USER_HOME$/work/ch-server/ch-server-product/src/main/java/com/zifangdt/ch/product/web/ProductController.java" />
@@ -641,10 +641,12 @@
       <jump line="247" column="15" filename="$APPLICATION_HOME_DIR$/lib/openapi.jar!/com/intellij/openapi/actionSystem/AnActionEvent.class" />
       <jump line="244" column="4" filename="$APPLICATION_HOME_DIR$/lib/openapi.jar!/com/intellij/openapi/actionSystem/AnActionEvent.class" />
       <jump line="4" column="16" filename="$USER_HOME$/work/v2ex/src/main.kt" />
+      <jump line="23" column="29" filename="$APPLICATION_HOME_DIR$/lib/openapi.jar!/com/intellij/ui/content/ContentManager.class" />
+      <jump line="78" column="31" filename="$APPLICATION_HOME_DIR$/lib/openapi.jar!/com/intellij/ui/content/ContentManager.class" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgPGFjdGlvbiBpZD0iTXlwbHVnaW4uRGlhbG9ncyIgY2xhc3M9Ik15cGFja2FnZS5NeVNob3dEaWFsb2ciIHRleHQ9IlNob3cgX0RpYWxvZyIgZGVzY3JpcHRpb249IkEgdGVzdCBtZW51IGl0ZW0iIC8+Cg==</text>
+        <text encoding="base64">ICAgIDwvZXh0ZW5zaW9ucz4K</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -679,13 +681,13 @@
         <text>ve2x</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxUXD4=</text>
+        <text encoding="base64">XDxDb250ZW50XD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaWYgKHByb2R1Y3QuZ2V0TW9kaWZ5SWQoKSAhPSBudWxsKSBpZHMuYWRkKHByb2R1Y3QuZ2V0TW9kaWZ5SWQoKSk7CiAgICAgICAgICAgIGlmIChwcm9kdWN0LmdldENyZWF0ZUlkKCkgIT0gbnVsbCkgaWRzLmFkZChwcm9kdWN0LmdldENyZWF0ZUlkKCkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgPGFjdGlvbiBpZD0iTXlwbHVnaW4uRGlhbG9ncyIgY2xhc3M9Ik15cGFja2FnZS5NeVNob3dEaWFsb2ciIHRleHQ9IlNob3cgX0RpYWxvZyIgZGVzY3JpcHRpb249IkEgdGVzdCBtZW51IGl0ZW0iIC8+Cg==</text>
+        <text encoding="base64">ICAgIDwvZXh0ZW5zaW9ucz4K</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -710,39 +712,39 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDwhLS0gQWRkIHlvdXIgYWN0aW9ucyBoZXJlIC0tPgo=</text>
+        <text encoding="base64">ICAgIDxleHRlbnNpb25zIGRlZmF1bHRFeHRlbnNpb25Ocz0iY29tLmludGVsbGlqIj4K</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgPGFjdGlvbiBpZD0iTXlwbHVnaW4uRGlhbG9ncyIgY2xhc3M9Ik15cGFja2FnZS5NeVNob3dEaWFsb2ciIHRleHQ9IlNob3cgX0RpYWxvZyIgZGVzY3JpcHRpb249IkEgdGVzdCBtZW51IGl0ZW0iIC8+Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIDwhLS0gQWRkIHlvdXIgYWN0aW9ucyBoZXJlIC0tPgo=</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text encoding="base64">ICAgIC8vICAgIHB1YmxpYyBUZXh0Qm94ZXMoKSB7Ci8vICAgICAgICAvLyBTZXQgdGhlIG1lbnUgaXRlbSBuYW1lLgovLyAgICAgICAgc3VwZXIoIlRleHQgX0JveGVzIik7Ci8vICAgICAgICAvLyBTZXQgdGhlIG1lbnUgaXRlbSBuYW1lLCBkZXNjcmlwdGlvbiBhbmQgaWNvbi4KLy8gICAgICAgIC8vIHN1cGVyKCJUZXh0IF9Cb3hlcyIsIkl0ZW0gZGVzY3JpcHRpb24iLEljb25Mb2FkZXIuZ2V0SWNvbigiL015cGFja2FnZS9pY29uLnBuZyIpKTsKLy8gICAgfQ==</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text>// If you register the action from Java code, this constructor is used to set the menu item name
 // (optionally, you can specify the menu description and an icon to display next to the menu item).
 // You can omit this constructor when registering the action in the plugin.xml file.</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBTdG9yZVBhdGggc3RvcmVQYXRoID0gY2xpZW50LnVwbG9hZEZpbGUoaW5wdXRTdHJlYW0sIG91dHB1dFN0cmVhbS50b0J5dGVBcnJheSgpLmxlbmd0aCwgInhscyIsIG51bGwpOwo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICB3b3JrYm9vay53cml0ZShvdXRwdXRTdHJlYW0pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>565</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxUXD4=</last-search>
+      <last-search encoding="base64">XDxDb250ZW50XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxUXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxDb250ZW50XD4=</last-pattern>
       <last-replace>cfg</last-replace>
       <last-substitute encoding="base64">XDxUb2RvVGFza0NyZWF0ZUV2ZW50XD4=</last-substitute>
       <last-dir>-1</last-dir>
@@ -750,7 +752,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxwcm9tb3Rpb25VcmxcPg==</entry>
         <entry encoding="base64">XDxhcmd1bWVudHNcPg==</entry>
         <entry encoding="base64">XDwoXD4=</entry>
         <entry encoding="base64">XDxwcm9tb3Rpb25OYW1lXD4=</entry>
@@ -770,6 +771,7 @@
         <entry encoding="base64">XDxpbmZvXD4=</entry>
         <entry encoding="base64">XDxleGVjdXRvclw+</entry>
         <entry encoding="base64">XDxUXD4=</entry>
+        <entry encoding="base64">XDxDb250ZW50XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>s/crm/cfg/g</entry>
