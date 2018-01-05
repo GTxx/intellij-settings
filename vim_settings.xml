@@ -252,6 +252,9 @@
       <file name="$USER_HOME$/work/ch-server/ch-server-quote/src/main/java/com/zifangdt/ch/quote/web/BillSchemeController.java" timestamp="1514947239078">
         <mark key="'" line="183" column="40" />
       </file>
+      <file name="/usr/lib/jvm/java-1.8.0-openjdk-amd64/src.zip!/java/lang/StringBuilder.java" timestamp="1515140605716">
+        <mark key="'" line="402" column="0" />
+      </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-product/src/main/java/com/zifangdt/ch/product/service/ProductService.java" timestamp="1514944279090">
         <mark key="'" line="55" column="30" />
         <mark key="[" line="75" column="25" />
@@ -432,12 +435,12 @@
         <mark key="]" line="15" column="13" />
         <mark key="." line="15" column="13" />
       </file>
-      <file name="$USER_HOME$/work/ch-server/ch-server-product/src/main/java/com/zifangdt/ch/product/web/ProductController.java" timestamp="1515138639373">
+      <file name="$USER_HOME$/work/ch-server/ch-server-product/src/main/java/com/zifangdt/ch/product/web/ProductController.java" timestamp="1515140706691">
         <mark key="'" line="324" column="51" />
-        <mark key="[" line="104" column="53" />
-        <mark key="]" line="105" column="13" />
-        <mark key="." line="105" column="13" />
-        <mark key="^" line="105" column="13" />
+        <mark key="[" line="105" column="7" />
+        <mark key="]" line="105" column="18" />
+        <mark key="." line="105" column="18" />
+        <mark key="^" line="105" column="18" />
       </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/web/setting/UserConfigController.java" timestamp="1514267710222">
         <mark key="[" line="30" column="19" />
@@ -622,7 +625,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="12" filename="$USER_HOME$/AndroidStudioProjects/piczz/app/src/main/java/com/xx/piczz/activity/Album.kt" />
       <jump line="51" column="0" filename="$USER_HOME$/AndroidStudioProjects/piczz/app/src/main/java/com/xx/piczz/activity/Album.kt" />
       <jump line="0" column="0" filename="$USER_HOME$/AndroidStudioProjects/piczz/app/src/main/java/com/xx/piczz/activity/Album.kt" />
       <jump line="8" column="0" filename="$USER_HOME$/AndroidStudioProjects/piczz/app/src/main/java/com/xx/piczz/activity/Album.kt" />
@@ -722,10 +724,11 @@
       <jump line="267" column="55" filename="$MAVEN_REPOSITORY$/com/univocity/univocity-parsers/2.5.9/univocity-parsers-2.5.9-sources.jar!/com/univocity/parsers/csv/CsvWriterSettings.java" />
       <jump line="322" column="51" filename="$USER_HOME$/work/ch-server/ch-server-product/src/main/java/com/zifangdt/ch/product/web/ProductController.java" />
       <jump line="266" column="0" filename="$MAVEN_REPOSITORY$/ch/qos/logback/logback-classic/1.1.11/logback-classic-1.1.11.jar!/ch/qos/logback/classic/LoggerContext.class" />
+      <jump line="402" column="0" filename="/usr/lib/jvm/java-1.8.0-openjdk-amd64/src.zip!/java/lang/StringBuilder.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBDb252ZXJ0ZXIK</text>
+      <register name="&quot;" type="4">
+        <text>StringBuilder</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -757,7 +760,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>StringBuilder</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxxdW90ZUFsbEZpZWxkc1w+</text>
