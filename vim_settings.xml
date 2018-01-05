@@ -430,17 +430,20 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.10.RELEASE/spring-context-4.3.10.RELEASE-sources.jar!/org/springframework/validation/beanvalidation/SpringValidatorAdapter.java" timestamp="1515145593755">
+        <mark key="'" line="100" column="17" />
+      </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/web/setting/ContractUserConfigController.java" timestamp="1509007419087">
         <mark key="[" line="15" column="13" />
         <mark key="]" line="15" column="13" />
         <mark key="." line="15" column="13" />
       </file>
-      <file name="$USER_HOME$/work/ch-server/ch-server-product/src/main/java/com/zifangdt/ch/product/web/ProductController.java" timestamp="1515144139095">
-        <mark key="'" line="326" column="51" />
-        <mark key="[" line="106" column="53" />
-        <mark key="]" line="107" column="29" />
-        <mark key="." line="107" column="29" />
-        <mark key="^" line="107" column="29" />
+      <file name="$USER_HOME$/work/ch-server/ch-server-product/src/main/java/com/zifangdt/ch/product/web/ProductController.java" timestamp="1515145808378">
+        <mark key="'" line="328" column="51" />
+        <mark key="[" line="108" column="53" />
+        <mark key="]" line="109" column="24" />
+        <mark key="." line="109" column="24" />
+        <mark key="^" line="109" column="24" />
       </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/web/setting/UserConfigController.java" timestamp="1514267710222">
         <mark key="[" line="30" column="19" />
@@ -452,10 +455,6 @@
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
-      </file>
-      <file name="/usr/lib/jvm/java-1.8.0-openjdk-amd64/src.zip!/sun/nio/cs/StreamEncoder.java" timestamp="1514979777001">
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="55" column="50" />
       </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/enums/setting/ChoiceConfigEnum.java" timestamp="1514267609792">
         <mark key="[" line="42" column="4" />
@@ -566,6 +565,9 @@
         <mark key="." line="8" column="16" />
         <mark key="^" line="8" column="16" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.10.RELEASE/spring-context-4.3.10.RELEASE-sources.jar!/org/springframework/validation/beanvalidation/CustomValidatorBean.java" timestamp="1515145432671">
+        <mark key="'" line="35" column="75" />
+      </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-common/src/main/java/com/zifangdt/ch/common/web/NoticeController.java" timestamp="1514344974498">
         <mark key="'" line="21" column="0" />
         <mark key="[" line="33" column="35" />
@@ -613,10 +615,6 @@
         <mark key="^" line="50" column="102" />
         <mark key="." line="48" column="0" />
       </file>
-      <file name="$USER_HOME$/work/ch-server/ch-server-common/src/main/java/com/zifangdt/ch/common/web/FileController.java" timestamp="1514978233810">
-        <mark key="[" line="39" column="11" />
-        <mark key="]" line="39" column="32" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/ch/qos/logback/logback-classic/1.1.11/logback-classic-1.1.11.jar!/ch/qos/logback/classic/LoggerContext.class" timestamp="1515131690249">
         <mark key="'" line="266" column="0" />
       </file>
@@ -625,16 +623,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="51" column="0" filename="$USER_HOME$/AndroidStudioProjects/piczz/app/src/main/java/com/xx/piczz/activity/Album.kt" />
-      <jump line="0" column="0" filename="$USER_HOME$/AndroidStudioProjects/piczz/app/src/main/java/com/xx/piczz/activity/Album.kt" />
-      <jump line="8" column="0" filename="$USER_HOME$/AndroidStudioProjects/piczz/app/src/main/java/com/xx/piczz/activity/Album.kt" />
-      <jump line="100" column="15" filename="$USER_HOME$/AndroidStudioProjects/piczz/app/src/main/java/com/xx/piczz/activity/Album.java" />
-      <jump line="61" column="8" filename="$USER_HOME$/AndroidStudioProjects/piczz/app/src/main/java/com/xx/piczz/activity/Album.java" />
-      <jump line="91" column="37" filename="$USER_HOME$/AndroidStudioProjects/piczz/app/src/main/java/com/xx/piczz/activity/Album.java" />
-      <jump line="29" column="17" filename="$USER_HOME$/AndroidStudioProjects/piczz/app/src/main/java/com/xx/piczz/activity/Album.java" />
-      <jump line="110" column="19" filename="$USER_HOME$/AndroidStudioProjects/piczz/app/src/main/java/com/xx/piczz/activity/Album.java" />
-      <jump line="236" column="69" filename="$USER_HOME$/work/ch-server/ch-server-market/src/main/java/com/zifangdt/ch/market/service/PromotionService.java" />
-      <jump line="175" column="25" filename="$USER_HOME$/work/ch-server/ch-server-market/src/main/java/com/zifangdt/ch/market/service/PromotionService.java" />
       <jump line="171" column="25" filename="$USER_HOME$/work/ch-server/ch-server-market/src/main/java/com/zifangdt/ch/market/service/PromotionService.java" />
       <jump line="152" column="11" filename="$USER_HOME$/work/ch-server/ch-server-market/src/main/java/com/zifangdt/ch/market/service/PromotionService.java" />
       <jump line="131" column="23" filename="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/dto/common/Notice.java" />
@@ -725,10 +713,20 @@
       <jump line="322" column="51" filename="$USER_HOME$/work/ch-server/ch-server-product/src/main/java/com/zifangdt/ch/product/web/ProductController.java" />
       <jump line="266" column="0" filename="$MAVEN_REPOSITORY$/ch/qos/logback/logback-classic/1.1.11/logback-classic-1.1.11.jar!/ch/qos/logback/classic/LoggerContext.class" />
       <jump line="402" column="0" filename="/usr/lib/jvm/java-1.8.0-openjdk-amd64/src.zip!/java/lang/StringBuilder.java" />
+      <jump line="69" column="39" filename="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.10.RELEASE/spring-context-4.3.10.RELEASE-sources.jar!/org/springframework/validation/beanvalidation/SpringValidatorAdapter.java" />
+      <jump line="74" column="14" filename="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.10.RELEASE/spring-context-4.3.10.RELEASE-sources.jar!/org/springframework/validation/beanvalidation/SpringValidatorAdapter.java" />
+      <jump line="76" column="61" filename="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.10.RELEASE/spring-context-4.3.10.RELEASE-sources.jar!/org/springframework/validation/beanvalidation/SpringValidatorAdapter.java" />
+      <jump line="77" column="23" filename="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.10.RELEASE/spring-context-4.3.10.RELEASE-sources.jar!/org/springframework/validation/beanvalidation/SpringValidatorAdapter.java" />
+      <jump line="78" column="31" filename="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.10.RELEASE/spring-context-4.3.10.RELEASE-sources.jar!/org/springframework/validation/beanvalidation/SpringValidatorAdapter.java" />
+      <jump line="84" column="55" filename="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.10.RELEASE/spring-context-4.3.10.RELEASE-sources.jar!/org/springframework/validation/beanvalidation/SpringValidatorAdapter.java" />
+      <jump line="85" column="31" filename="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.10.RELEASE/spring-context-4.3.10.RELEASE-sources.jar!/org/springframework/validation/beanvalidation/SpringValidatorAdapter.java" />
+      <jump line="95" column="21" filename="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.10.RELEASE/spring-context-4.3.10.RELEASE-sources.jar!/org/springframework/validation/beanvalidation/SpringValidatorAdapter.java" />
+      <jump line="100" column="17" filename="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.10.RELEASE/spring-context-4.3.10.RELEASE-sources.jar!/org/springframework/validation/beanvalidation/SpringValidatorAdapter.java" />
+      <jump line="35" column="75" filename="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.10.RELEASE/spring-context-4.3.10.RELEASE-sources.jar!/org/springframework/validation/beanvalidation/CustomValidatorBean.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBDYWxlbmRhcgo=</text>
+        <text encoding="base64">ICAgICAgICBBcnJheXMuYXNMaXN0KCkK</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -763,13 +761,13 @@
         <text>StringBuilder</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxxdW90ZUFsbEZpZWxkc1w+</text>
+        <text encoding="base64">XDxWYWxpZGF0b3JcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBpZiAoaWRzLnJlbW92ZUFsbChyZXN1bHQua2V5U2V0KCkpKXsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBDYWxlbmRhcgo=</text>
+        <text encoding="base64">ICAgICAgICBBcnJheXMuYXNMaXN0KCkK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -794,37 +792,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgIFN0cmluZ0J1ZmZlcgo=</text>
+        <text encoding="base64">ICAgICAgICBTcHJpbmdWYWxpZGF0b3JBZGFwdGVyCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBDb252ZXJ0ZXIK</text>
+        <text encoding="base64">ICAgICAgICBDYWxlbmRhcgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW5wdXRTdHJlYQo=</text>
+        <text encoding="base64">ICAgICAgIFN0cmluZ0J1ZmZlcgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb3V0cHV0V3JpdGVyLndyaXRlCg==</text>
+        <text encoding="base64">ICAgICAgICBDb252ZXJ0ZXIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvL05PVEU6IOWmguaenOaJvuS4jeWIsOWvueW6lOeahOeUqOaIt++8jOWImei/lOWbnuS4gOS4qgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW5wdXRTdHJlYQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkZWxldGVkVXNlci5zZXROYW1lKCLmraTnlKjmiLflt7Lnu4/ooqvliKDpmaTvvIzor7fliKDpmaTor6XmraXpqqQiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgb3V0cHV0V3JpdGVyLndyaXRlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBVc2VyIGRlbGV0ZWRVc2VyID0gbmV3IFVzZXIoKTsK</text>
+        <text encoding="base64">ICAgICAgICAvL05PVEU6IOWmguaenOaJvuS4jeWIsOWvueW6lOeahOeUqOaIt++8jOWImei/lOWbnuS4gOS4qgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUkVUVVJOCg==</text>
+        <text encoding="base64">ICAgICAgICBkZWxldGVkVXNlci5zZXROYW1lKCLmraTnlKjmiLflt7Lnu4/ooqvliKDpmaTvvIzor7fliKDpmaTor6XmraXpqqQiKTsK</text>
       </register>
       <register name=":" type="4">
         <text>47</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxxdW90ZUFsbEZpZWxkc1w+</last-search>
+      <last-search encoding="base64">XDxWYWxpZGF0b3JcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxxdW90ZUFsbEZpZWxkc1w+</last-pattern>
+      <last-pattern encoding="base64">XDxWYWxpZGF0b3JcPg==</last-pattern>
       <last-replace>cfg</last-replace>
       <last-substitute encoding="base64">XDxUb2RvVGFza0NyZWF0ZUV2ZW50XD4=</last-substitute>
       <last-dir>-1</last-dir>
@@ -832,8 +830,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjcmVhdGVDb25maWdcPg==</entry>
-        <entry encoding="base64">XDxMb2dGYWN0b3J5XD4=</entry>
         <entry encoding="base64">XDxMb2dnZXJcPg==</entry>
         <entry encoding="base64">XDxidWlsZFF1ZXJ5XD4=</entry>
         <entry encoding="base64">XDxkb1Bvc3RcPg==</entry>
@@ -852,6 +848,8 @@
         <entry encoding="base64">XDx1c2VyTWFwXD4=</entry>
         <entry encoding="base64">XDxpbnB1dFN0cmVhbVw+</entry>
         <entry encoding="base64">XDxxdW90ZUFsbEZpZWxkc1w+</entry>
+        <entry encoding="base64">XDx0YXJnZXRWYWxpZGF0b3JcPg==</entry>
+        <entry encoding="base64">XDxWYWxpZGF0b3JcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>s/crm/cfg/g</entry>
