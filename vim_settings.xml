@@ -432,8 +432,8 @@
         <mark key="]" line="15" column="13" />
         <mark key="." line="15" column="13" />
       </file>
-      <file name="$USER_HOME$/work/ch-server/ch-server-product/src/main/java/com/zifangdt/ch/product/web/ProductController.java" timestamp="1515069871019">
-        <mark key="'" line="323" column="52" />
+      <file name="$USER_HOME$/work/ch-server/ch-server-product/src/main/java/com/zifangdt/ch/product/web/ProductController.java" timestamp="1515131425369">
+        <mark key="'" line="322" column="51" />
         <mark key="[" line="313" column="97" />
         <mark key="]" line="314" column="67" />
         <mark key="." line="314" column="67" />
@@ -614,13 +614,14 @@
         <mark key="[" line="39" column="11" />
         <mark key="]" line="39" column="32" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/ch/qos/logback/logback-classic/1.1.11/logback-classic-1.1.11.jar!/ch/qos/logback/classic/LoggerContext.class" timestamp="1515131690249">
+        <mark key="'" line="266" column="0" />
+      </file>
       <file name="/fragment.java" timestamp="1515068795762">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="55" column="30" filename="$USER_HOME$/work/ch-server/ch-server-product/src/main/java/com/zifangdt/ch/product/service/ProductService.java" />
-      <jump line="49" column="3" filename="$USER_HOME$/work/ch-server/ch-server-todo/src/main/java/com/zifangdt/ch/task/service/TaskService.java" />
       <jump line="17" column="12" filename="$USER_HOME$/AndroidStudioProjects/piczz/app/src/main/java/com/xx/piczz/activity/Album.kt" />
       <jump line="51" column="0" filename="$USER_HOME$/AndroidStudioProjects/piczz/app/src/main/java/com/xx/piczz/activity/Album.kt" />
       <jump line="0" column="0" filename="$USER_HOME$/AndroidStudioProjects/piczz/app/src/main/java/com/xx/piczz/activity/Album.kt" />
@@ -719,6 +720,8 @@
       <jump line="252" column="36" filename="$MAVEN_REPOSITORY$/com/univocity/univocity-parsers/2.5.9/univocity-parsers-2.5.9-sources.jar!/com/univocity/parsers/csv/CsvWriterSettings.java" />
       <jump line="66" column="30" filename="$MAVEN_REPOSITORY$/com/univocity/univocity-parsers/2.5.9/univocity-parsers-2.5.9-sources.jar!/com/univocity/parsers/csv/CsvWriterSettings.java" />
       <jump line="267" column="55" filename="$MAVEN_REPOSITORY$/com/univocity/univocity-parsers/2.5.9/univocity-parsers-2.5.9-sources.jar!/com/univocity/parsers/csv/CsvWriterSettings.java" />
+      <jump line="322" column="51" filename="$USER_HOME$/work/ch-server/ch-server-product/src/main/java/com/zifangdt/ch/product/web/ProductController.java" />
+      <jump line="266" column="0" filename="$MAVEN_REPOSITORY$/ch/qos/logback/logback-classic/1.1.11/logback-classic-1.1.11.jar!/ch/qos/logback/classic/LoggerContext.class" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
