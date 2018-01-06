@@ -438,12 +438,11 @@
         <mark key="]" line="15" column="13" />
         <mark key="." line="15" column="13" />
       </file>
-      <file name="$USER_HOME$/work/ch-server/ch-server-product/src/main/java/com/zifangdt/ch/product/web/ProductController.java" timestamp="1515145808378">
-        <mark key="'" line="328" column="51" />
-        <mark key="[" line="108" column="53" />
-        <mark key="]" line="109" column="24" />
-        <mark key="." line="109" column="24" />
-        <mark key="^" line="109" column="24" />
+      <file name="$USER_HOME$/work/ch-server/ch-server-product/src/main/java/com/zifangdt/ch/product/web/ProductController.java" timestamp="1515208870234">
+        <mark key="'" line="97" column="26" />
+        <mark key="[" line="104" column="0" />
+        <mark key="]" line="104" column="0" />
+        <mark key="." line="104" column="0" />
       </file>
       <file name="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/web/setting/UserConfigController.java" timestamp="1514267710222">
         <mark key="[" line="30" column="19" />
@@ -623,7 +622,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="171" column="25" filename="$USER_HOME$/work/ch-server/ch-server-market/src/main/java/com/zifangdt/ch/market/service/PromotionService.java" />
       <jump line="152" column="11" filename="$USER_HOME$/work/ch-server/ch-server-market/src/main/java/com/zifangdt/ch/market/service/PromotionService.java" />
       <jump line="131" column="23" filename="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/dto/common/Notice.java" />
       <jump line="148" column="23" filename="$USER_HOME$/work/ch-server/ch-server-base/src/main/java/com/zifangdt/ch/base/dto/common/Notice.java" />
@@ -723,10 +721,11 @@
       <jump line="95" column="21" filename="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.10.RELEASE/spring-context-4.3.10.RELEASE-sources.jar!/org/springframework/validation/beanvalidation/SpringValidatorAdapter.java" />
       <jump line="100" column="17" filename="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.10.RELEASE/spring-context-4.3.10.RELEASE-sources.jar!/org/springframework/validation/beanvalidation/SpringValidatorAdapter.java" />
       <jump line="35" column="75" filename="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.10.RELEASE/spring-context-4.3.10.RELEASE-sources.jar!/org/springframework/validation/beanvalidation/CustomValidatorBean.java" />
+      <jump line="102" column="26" filename="$USER_HOME$/work/ch-server/ch-server-product/src/main/java/com/zifangdt/ch/product/web/ProductController.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBBcnJheXMuYXNMaXN0KCkK</text>
+        <text encoding="base64">ICAgICAgICBDb2xsZWN0aW9ucy5saXN0KCkK</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -767,7 +766,7 @@
         <text encoding="base64">ICAgICAgICBpZiAoaWRzLnJlbW92ZUFsbChyZXN1bHQua2V5U2V0KCkpKXsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBBcnJheXMuYXNMaXN0KCkK</text>
+        <text encoding="base64">ICAgICAgICBDb2xsZWN0aW9ucy5saXN0KCkK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -792,28 +791,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBTcHJpbmdWYWxpZGF0b3JBZGFwdGVyCg==</text>
+        <text encoding="base64">ICAgICAgICBBcnJheXMuYXNMaXN0KCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBDYWxlbmRhcgo=</text>
+        <text encoding="base64">ICAgICAgICBTcHJpbmdWYWxpZGF0b3JBZGFwdGVyCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgIFN0cmluZ0J1ZmZlcgo=</text>
+        <text encoding="base64">ICAgICAgICBDYWxlbmRhcgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBDb252ZXJ0ZXIK</text>
+        <text encoding="base64">ICAgICAgIFN0cmluZ0J1ZmZlcgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW5wdXRTdHJlYQo=</text>
+        <text encoding="base64">ICAgICAgICBDb252ZXJ0ZXIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb3V0cHV0V3JpdGVyLndyaXRlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW5wdXRTdHJlYQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvL05PVEU6IOWmguaenOaJvuS4jeWIsOWvueW6lOeahOeUqOaIt++8jOWImei/lOWbnuS4gOS4qgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgb3V0cHV0V3JpdGVyLndyaXRlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkZWxldGVkVXNlci5zZXROYW1lKCLmraTnlKjmiLflt7Lnu4/ooqvliKDpmaTvvIzor7fliKDpmaTor6XmraXpqqQiKTsK</text>
+        <text encoding="base64">ICAgICAgICAvL05PVEU6IOWmguaenOaJvuS4jeWIsOWvueW6lOeahOeUqOaIt++8jOWImei/lOWbnuS4gOS4qgo=</text>
       </register>
       <register name=":" type="4">
         <text>47</text>
